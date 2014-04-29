@@ -243,6 +243,7 @@ descriptive.analysis<- function() {
   #Top 10 beer Styles, probability of getting a 5 with total number of ratings pr. group over 10 
   beer.groups.rating <- sqldf("Select beerStyle, 
                               sum(case when rating = 5 then 1 else 0 end) as number_of_fives,
+                              sum(case when rating = 1 then 1 else 0 end) as number_of_ones,
                               count(rating) as total_number_of_ratings
                               from 'beer.data.cleaned'
                               group by beerStyle
@@ -250,23 +251,31 @@ descriptive.analysis<- function() {
                               ")
   sqldf()
   beer.groups.rating$probability_of_five <- beer.groups.rating$number_of_fives/beer.groups.rating$total_number_of_ratings
+  beer.groups.rating$probability_of_one <- beer.groups.rating$number_of_ones/beer.groups.rating$total_number_of_ratings
+  
+  #Sort data
   beer.groups.rating.top10 <- beer.groups.rating[order(-beer.groups.rating$probability_of_five),][c(1:10),]
+
   
   #Plot Top 10 Beer Styles (where number of ratings have been over 100)
-  par(las=2) # make label text perpendicular to axis
-  par(mar=c(5,14,4,2)) # increase y-axis margin.
+  ggplot(beer.groups.rating.top10, aes(x=reorder(beerStyle,probability_of_five), y=probability_of_five, fill=beerStyle)) +
+    geom_bar(stat="identity") +
+    coord_flip() + ggtitle("Proportion of 5s as overall rating") + labs(x = "Beer Style",
+         y = "Proportion of 5/Probability of 5 on overall rating",
+         title = "Top 10 Beer Styles (Proportion of 5s on overall rating) (ratings>=100)")+
+ theme(plot.title = element_text(face="bold", size=14))
+
+  #Plot Bottom 10 Beer Styles (where number of ratings have been over 100).
+  beer.groups.rating.bottom10 <- beer.groups.rating[order(-beer.groups.rating$probability_of_one),][c(1:10),]
   
-  barplot( beer.groups.rating.top10$probability_of_five, main="Top 10 Beer Styles (>= 99 ratings)", horiz=TRUE,
-           names.arg= beer.groups.rating.top10$beerStyle, xlab="Probability of receiving five as rating")
-  
-  #Plot Bottom 10 Beer Styles (where number of ratings have been over 100)
-  par(las=2) # make label text perpendicular to axis
-  par(mar=c(5,14,4,2)) # increase y-axis margin.
-  beer.groups.rating.bottom10 <- beer.groups.rating[order(beer.groups.rating$probability_of_five),][c(1:10),]
-  
-  barplot( beer.groups.rating.bottom10$probability_of_five, main="Bottom 10 Beer Styles (>= 99 ratings)", horiz=TRUE,
-           names.arg= beer.groups.rating.bottom10$beerStyle, xlab="Probability of receiving five as rating")
-  
+  ggplot(beer.groups.rating.bottom10, aes(x=reorder(beerStyle,probability_of_one), y=probability_of_one, fill=beerStyle)) +
+   geom_bar(stat="identity") +
+   coord_flip() + ggtitle("Proportion of 5s as overall rating") + labs(x = "Beer Style",
+                                                                       y = "Proportion of 1s/Probability of 1 on overall rating",
+                                                                       title = "Bottom 10 Beer Styles (Proportion of 1s on overall rating) (ratings>=100)")+
+   theme(plot.title = element_text(face="bold", size=14))
+ 
+ 
   #Top 10 beers, probability of getting a 5 with total number of ratings pr. group over 100
   beer.names.rating <- sqldf("Select name, 
                              sum(case when rating = 5 then 1 else 0 end) as number_of_fives,
@@ -283,26 +292,33 @@ descriptive.analysis<- function() {
   beer.names.rating.top10 <- beer.names.rating[order(-beer.names.rating$probability_of_five),][c(1:10),]
   
   #Plot Top 10 Beer Names (where number of ratings have been over or equal 100)
-  par(las=2) # make label text perpendicular to axis
-  par(mar=c(5,14,4,2)) # increase y-axis margin.
-  
-  barplot( beer.names.rating.top10$probability_of_five, main="Top 10 Beers (>= 100 ratings)", horiz=TRUE,
-           names.arg= beer.names.rating.top10$name, xlab="Probability of receiving five as rating")
-  
+  ggplot(beer.names.rating.top10, aes(x=reorder(name,probability_of_five), y=probability_of_five, fill=name)) +
+   geom_bar(stat="identity") +
+   coord_flip() + ggtitle("Proportion of 5s as overall rating") + labs(x = "Beer Name",
+                                                                       y = "Proportion of 5s/Probability of 5 on overall rating",
+                                                                       title = "Bottom 10 Beers (Proportion of 5s on overall rating) (ratings>=100)")+
+   theme(plot.title = element_text(face="bold", size=14))
+ 
+ 
   #Plot Bottom 10 Beer Styles (where number of ratings have been over or equal100)
   par(las=2) # make label text perpendicular to axis
   par(mar=c(5,14,4,2)) # increase y-axis margin.
   beer.names.rating.bottom10 <- beer.names.rating[order(-beer.names.rating$probability_of_one),][c(1:10),]
   
-  barplot( beer.names.rating.bottom10$probability_of_one, main="Bottom 10 Beers (>= 100 ratings)", horiz=TRUE,
-           names.arg= beer.names.rating.bottom10$name, xlab="Probability of receiving one as rating")
-  
+
+  ggplot(beer.names.rating.bottom10, aes(x=reorder(name,probability_of_one), y=probability_of_one, fill=name)) +
+   geom_bar(stat="identity") +
+   coord_flip() + ggtitle("Proportion of 1s as overall rating") + labs(x = "Beer Name",
+                                                                       y = "Proportion of 1s/Probability of 1 on overall rating",
+                                                                       title = "Bottom 10 Beers (Proportion of 1s on overall rating) (ratings>=100)")+
+   theme(plot.title = element_text(face="bold", size=14)) + theme(legend.position = "none")
+ 
   #Turn off graph warnings
   options(warn=0)
 }
 
 pca.analysis.falseratings<- function() {
-  #Purpose:   -   Create PCA analysis
+  #Purpose:   -   Create PCA analysis and identify false ratings
   
   #Standardize coefficients
   standardisedconcentrations <- as.data.frame(scale(beer.data.cleaned[,c(8,9,10,11,12)])) # standardise the variables 
@@ -320,8 +336,8 @@ pca.analysis.falseratings<- function() {
   
   #Plot review vs taste rating for PCA6
   print(ggplot() +
-          geom_histogram(data = PCA6.top.scores,aes(x=rating, y=..count../sum(..count..)),alpha = 0.2,fill = "steelblue") +
-          geom_histogram(data = PCA6.top.scores,aes(x=reviewTaste, y=..count../sum(..count..)),alpha = 0.2,fill = "red") +
+          geom_histogram(data = PCA5.top.scores,aes(x=rating, y=..count../sum(..count..)),alpha = 0.2,fill = "steelblue") +
+          geom_histogram(data = PCA5.top.scores,aes(x=reviewTaste, y=..count../sum(..count..)),alpha = 0.2,fill = "red") +
           xlab("Rating (Blue=Overall Rating), Taste (Red=Taste Rating)") +
           ylab("Count of reviews / Total reviews within group") +
           ggtitle("Taste Rating vs. Overall Rating for Top 1000 Scores for PCA5 Component") 
@@ -467,6 +483,7 @@ pca.analysis<- function(filter.ABV=TRUE) {
   #Loadings
   print(paste("Loadings"))
   print(beer.pca$rotation[,])
+  cbind()
   
   #Plot pca
   plot(beer.pca$x[,1],beer.pca$x[,2]) # make a scatterplot
@@ -501,13 +518,102 @@ pca.analysis<- function(filter.ABV=TRUE) {
   nr.of.pcas.kaiser <- beer.pca$sdev[beer.pca$sdev^2>mean(beer.pca$sdev^2)]
   
 }
+cluster.analysis.top3.bottom3.beers <- function(){
+  #Purpose: Compare hierarchical clustering and k-means clustering on top and bottom 3 rated beers with over 1000 ratings. 
+  #Create PCA components
+  plot.new()
+  
+  standardisedconcentrations <- as.data.frame(scale(beer.data.cleaned[is.na(beer.data.cleaned$ABV)==FALSE,c(6,8,9,10,11,12)])) # standardise the variables
+  beer.pca <- prcomp(standardisedconcentrations)
+  
+  #Add loadings/scores to dataset
+  beer.data.cleaned.PC1.and.PC2.added <- cbind(beer.data.cleaned[is.na(beer.data.cleaned$ABV)==FALSE,],
+                                               PC1=beer.pca$x[,1],
+                                               PC2=beer.pca$x[,2])
+  
+  
+  ##Select beers with over 1000 ratings 
+  frequent.rated.beers <- sqldf("Select name, 
+                                sum(case when rating = 5 then 1 else 0 end) as prob_fives,
+                                sum(case when rating = 1 then 1 else 0 end) as prob_ones,
+                                count(rating) as total_number_of_ratings
+                                from 'beer.data.cleaned'
+                                group by name
+                                having total_number_of_ratings > 1000 
+                                ")
+  
+  #Identify top 3  beers based on proability of receiving a five
+  top3.beer <- head(frequent.rated.beers[order(frequent.rated.beers$prob_fives/frequent.rated.beers$total_number_of_ratings
+                                               , decreasing=TRUE),],3)
+  #Identify bottom 3 beers based on proability of receiving a one
+  bottom3.beer <- head(frequent.rated.beers[order(frequent.rated.beers$prob_ones/frequent.rated.beers$total_number_of_ratings
+                                                  , decreasing=TRUE),],3)
+  
+  #Merge data and make categorisation 
+  names.top3.and.bottom3 <- rbind(cbind(top3.beer,cat="T3"),
+                                  cbind(bottom3.beer,cat="B3"))
+  
+  #Get reviews of top 3 and bottom 3 beers
+  top3.and.bottom3.reviews <- beer.data.cleaned.PC1.and.PC2.added[
+    beer.data.cleaned.PC1.and.PC2.added$name 
+    %in% names.top3.and.bottom3$name,]
+  
+  #Add top/bottom category
+  top3.and.bottom3.reviews <- merge(beer.data.cleaned.PC1.and.PC2.added,names.top3.and.bottom3[,c(1,5)],by=c("name"))
+  
+  #Perform k-means clustering
+  k.means.model <- kmeans(scale(top3.and.bottom3.reviews[,c(6,8,9,10,11,12)]), 
+                          2 )
+  
+  #Plot results 
+  #Set graphing variables 
+  uniqueInitials <- c("T","B")
+  initialShapes <- unlist(lapply(uniqueInitials, utf8ToInt))
+  
+  zp3 <- ggplot(top3.and.bottom3.reviews,
+                aes(x = PC1, y = PC2,
+                    shape = cat, colour = factor(k.means.model[[1]])))
+  zp3 <- zp3 + geom_point(size = 3)
+  #zp3 <- zp3 + scale_colour_brewer(palette = "Paired")
+  zp3 <- zp3 + theme_bw() # \/ Manually select letter-shapes
+  zp3 <- zp3 + scale_shape_manual(values = initialShapes,name  ="Actual", labels=c("Top 3 Beers(>1000 ratings)","Bottom 3 Beers (>1000 ratings)")) 
+  zp3 <-  zp3 + scale_colour_discrete(name  ="K-Means Clusters",labels=c("Cluster 1: Good beers","Cluster 2: Bad beers")) 
+  zp3 <- zp3 + labs(title="Top 3 Beers vs. Bottom 3 Beers (>1000 ratings) \n K-means Clustering")
+  print(zp3) 
+  
+  #Hieracrhial clustering on a subset of the data n= 500
+  subset.of.top.bottom <- top3.and.bottom3.reviews[sample(1:NROW(top3.and.bottom3.reviews),50),]
+  fit <-hclust(dist(subset.of.top.bottom [13:14]),
+               method="average")
+  groups <- cutree(fit, k=2) 
+  plot(fit,labels=subset.of.top.bottom$cat, main="Dendogram From Hierarchical Clustering \n using group average  distances PC1 & PC2 n=50",
+       ylab="Distance")
+  # cut tree into 2 clusters
+  # draw dendogram with red borders around the 2 clusters
+  rect.hclust(fit, k=2, border="red") 
+  
+  #Score the whole data set uisng hierarchical clustering
+  fit <-hclust(dist(top3.and.bottom3.reviews [13:14]),
+               method="average")
+  groups <- cutree(fit, k=2)
+  zp3 <- ggplot(top3.and.bottom3.reviews,
+                aes(x = PC1, y = PC2,
+                    shape = cat, colour = factor(groups)))
+  zp3 <- zp3 + geom_point(size = 3)
+  #zp3 <- zp3 + scale_colour_brewer(palette = "Paired")
+  zp3 <- zp3 + theme_bw() # \/ Manually select letter-shapes
+  zp3 <- zp3 + scale_shape_manual(values = initialShapes,name  ="Actual", labels=c("Top 3 Beers(>1000 ratings)","Bottom 3 Beers (>1000 ratings)")) 
+  zp3 <-  zp3 + scale_colour_discrete(name  ="K-Means Clusters",labels=c("Cluster 1: Good beers","Cluster 2: Bad beers")) 
+  zp3 <- zp3 + labs(title="Top 3 Beers vs. Bottom 3 Beers (>1000 ratings) \n Hierarchical Clustering (Group Avg. Distance)")
+  print(zp3) 
+}
 
 #Change path to local folder
 #Load Beer Data, 10% as random sample. 
 #beer.data <- load.beer.data.fast.method("C:\\Users\\creem013\\Documents\\Temp\\beeradvocate.txt", random.sample.percentage=0.1)
 
 #Load R data set with all ratings
-beer.data <- readRDS("C:/Users/Bollen/Google Drive/My StAndrews/Applied Multivariate Analysis/Project Work Group 1/DataSets/beerdatafull.RDS")
+beer.data <- readRDS("C:/Users/creem013/Google Drive/My StAndrews/Applied Multivariate Analysis/Project Work Group 1/DataSets/beerdatafull.RDS")
 
 #Clean the data
 #beer.data.cleaned<-clean.beer.data()
@@ -515,7 +621,7 @@ beer.data <- readRDS("C:/Users/Bollen/Google Drive/My StAndrews/Applied Multivar
 #saveRDS(beer.data.cleaned,"C:/Users/Bollen/Google Drive/My StAndrews/Applied Multivariate Analysis/Project Work Group 1/DataSets/beerdatacleaned.rds")
 
 #Load cleane data set with all ratings
-beer.data.cleaned <- readRDS("C:/Users/Bollen/Google Drive/My StAndrews/Applied Multivariate Analysis/Project Work Group 1/DataSets/beerdatacleaned.rds")
+beer.data.cleaned <- readRDS("C:/Users/creem013/Google Drive/My StAndrews/Applied Multivariate Analysis/Project Work Group 1/DataSets/beerdatacleaned.rds")
 
 #Create 20% Random sample which should be a good representation of the data 
 #as we have a lot of data
@@ -530,10 +636,18 @@ frequency.ggplot.function()
 #PCA frequent raters vs. non frequent raters
 pca.frequent.raters.vs.non.frequent.raters()
 
-#PCA Analysis Weird Ratings
+#PCA Analysis Weird/False Ratings
 pca.analysis.falseratings()
 
 #Do PCA-Analysis
 pca.analysis(filter.ABV=TRUE)
+
+#Do cluster Analysis
+cluster.analysis.top3.bottom3.beers()
+
+#Create PCAs Analysis Top 3 bear styles and Bottom 3 beer styles, attempt clustering
+#Beer preference in summer and winter recode Unix variable
+
+
 
 
