@@ -1,0 +1,2451 @@
+"","beer1","beer2","V1"
+"1","90 Minute IPA","India Pale Ale",0.130990443021671
+"2","90 Minute IPA","Old Rasputin Russian Imperial Stout",0.193036508360517
+"3","90 Minute IPA","Sierra Nevada Celebration Ale",0.172100865521249
+"4","90 Minute IPA","Stone Ruination IPA",0.172170899674197
+"5","90 Minute IPA","Arrogant Bastard Ale",0.187052802452931
+"6","90 Minute IPA","Two Hearted Ale",0.0868647390078147
+"7","90 Minute IPA","Stone IPA (India Pale Ale)",0.199535256117677
+"8","90 Minute IPA","Sierra Nevada Pale Ale",0.104681567941497
+"9","90 Minute IPA","La Fin Du Monde",0.14837310432479
+"10","90 Minute IPA","Pale Ale",0.0617865545850394
+"11","90 Minute IPA","Duvel",0.123332309990912
+"12","90 Minute IPA","Founders Breakfast Stout",0.161010341154422
+"13","90 Minute IPA","Sierra Nevada Bigfoot Barleywine Style Ale",0.170546257806917
+"14","90 Minute IPA","Pliny The Elder",0.174064922631494
+"15","90 Minute IPA","60 Minute IPA",0.28235968885167
+"16","90 Minute IPA","Brooklyn Black Chocolate Stout",0.129356360550681
+"17","90 Minute IPA","Storm King Stout",0.186592809394886
+"18","90 Minute IPA","Samuel Adams Boston Lager",0.0920548196921366
+"19","90 Minute IPA","Bell's Hopslam Ale",0.158473092012424
+"20","90 Minute IPA","Stone Imperial Russian Stout",0.173330427356532
+"21","90 Minute IPA","Chocolate Stout",0.15556981762889
+"22","90 Minute IPA","Imperial Stout",0.166070172562301
+"23","90 Minute IPA","HopDevil Ale",0.194034759501657
+"24","90 Minute IPA","Dead Guy Ale",0.159619975352943
+"25","90 Minute IPA","St. Bernardus Abt 12",0.173511925207107
+"26","90 Minute IPA","Trappistes Rochefort 10",0.206342637626094
+"27","90 Minute IPA","Young's Double Chocolate Stout",0.131134718536661
+"28","90 Minute IPA","Ayinger Celebrator Doppelbock",0.171195698838327
+"29","90 Minute IPA","Samuel Smith's Oatmeal Stout",0.0807176972246282
+"30","90 Minute IPA","Chimay Grande Réserve (Blue)",0.157673895184146
+"31","90 Minute IPA","Sierra Nevada Torpedo Extra IPA",0.166321838160396
+"32","90 Minute IPA","Guinness Draught",0.000875324339492037
+"33","90 Minute IPA","Weihenstephaner Hefeweissbier",0.0924944959770287
+"34","90 Minute IPA","Racer 5 India Pale Ale",0.183222572859586
+"35","90 Minute IPA","Orval Trappist Ale",0.0420739922232171
+"36","90 Minute IPA","Tröegs Nugget Nectar",0.196319919613943
+"37","90 Minute IPA","Hop Rod Rye",0.206887859430677
+"38","90 Minute IPA","Founders KBS (Kentucky Breakfast Stout)",0.180510281470358
+"39","90 Minute IPA","Schneider Aventinus",0.174636986202237
+"40","90 Minute IPA","Samuel Adams Octoberfest",0.0586960397306256
+"41","90 Minute IPA","Hennepin (Farmhouse Saison)",0.134816443987764
+"42","90 Minute IPA","Prima Pils",0.10020061607832
+"43","90 Minute IPA","Punkin Ale",0.164344055517634
+"44","90 Minute IPA","Double Bastard Ale",0.197261737446243
+"45","90 Minute IPA","Samuel Adams Winter Lager",0.108791446490483
+"46","90 Minute IPA","Hop Wallop",0.156948614656707
+"47","90 Minute IPA","Oatmeal Stout",0.077971295367934
+"48","90 Minute IPA","Anchor Steam Beer",0.112747791644595
+"49","90 Minute IPA","120 Minute IPA",0.257026399070711
+"50","India Pale Ale","90 Minute IPA",0.130990443021671
+"51","India Pale Ale","Old Rasputin Russian Imperial Stout",0.0748896385286789
+"52","India Pale Ale","Sierra Nevada Celebration Ale",0.12067704867333
+"53","India Pale Ale","Stone Ruination IPA",0.0520002531922703
+"54","India Pale Ale","Arrogant Bastard Ale",0.0552033182086013
+"55","India Pale Ale","Two Hearted Ale",0.102722322795361
+"56","India Pale Ale","Stone IPA (India Pale Ale)",0.107517150393368
+"57","India Pale Ale","Sierra Nevada Pale Ale",0.056439430535501
+"58","India Pale Ale","La Fin Du Monde",0.0458139206478497
+"59","India Pale Ale","Pale Ale",0.102095902982197
+"60","India Pale Ale","Duvel",0.0611916557583524
+"61","India Pale Ale","Founders Breakfast Stout",0.113208492478518
+"62","India Pale Ale","Sierra Nevada Bigfoot Barleywine Style Ale",0.083272531581833
+"63","India Pale Ale","Pliny The Elder",0.0855357152351643
+"64","India Pale Ale","60 Minute IPA",0.0702838548244325
+"65","India Pale Ale","Brooklyn Black Chocolate Stout",0.0576587775358607
+"66","India Pale Ale","Storm King Stout",0.0589275240043574
+"67","India Pale Ale","Samuel Adams Boston Lager",0.0549469023128304
+"68","India Pale Ale","Bell's Hopslam Ale",0.102831471652523
+"69","India Pale Ale","Stone Imperial Russian Stout",0.0180981688907026
+"70","India Pale Ale","Chocolate Stout",0.0894620596043379
+"71","India Pale Ale","Imperial Stout",0.115347944124043
+"72","India Pale Ale","HopDevil Ale",0.127153592989259
+"73","India Pale Ale","Dead Guy Ale",0.0557952566806587
+"74","India Pale Ale","St. Bernardus Abt 12",0.0741949388122534
+"75","India Pale Ale","Trappistes Rochefort 10",0.0993569925985668
+"76","India Pale Ale","Young's Double Chocolate Stout",0.0264971565136137
+"77","India Pale Ale","Ayinger Celebrator Doppelbock",-0.0450757000143909
+"78","India Pale Ale","Samuel Smith's Oatmeal Stout",0.0754059507976843
+"79","India Pale Ale","Chimay Grande Réserve (Blue)",0.12472592438908
+"80","India Pale Ale","Sierra Nevada Torpedo Extra IPA",0.0684240680989586
+"81","India Pale Ale","Guinness Draught",0.0308992685295179
+"82","India Pale Ale","Weihenstephaner Hefeweissbier",0.0826729095789249
+"83","India Pale Ale","Racer 5 India Pale Ale",0.103017687785188
+"84","India Pale Ale","Orval Trappist Ale",0.141354705865737
+"85","India Pale Ale","Tröegs Nugget Nectar",0.207967151628672
+"86","India Pale Ale","Hop Rod Rye",0.118825112839027
+"87","India Pale Ale","Founders KBS (Kentucky Breakfast Stout)",0.0807225095472804
+"88","India Pale Ale","Schneider Aventinus",0.0211083149136472
+"89","India Pale Ale","Samuel Adams Octoberfest",0.0302943467669907
+"90","India Pale Ale","Hennepin (Farmhouse Saison)",0.0506348668677497
+"91","India Pale Ale","Prima Pils",0.133169541130146
+"92","India Pale Ale","Punkin Ale",0.131611016780214
+"93","India Pale Ale","Double Bastard Ale",0.0428495828888176
+"94","India Pale Ale","Samuel Adams Winter Lager",0.0721490437101194
+"95","India Pale Ale","Hop Wallop",0.0491702344173489
+"96","India Pale Ale","Oatmeal Stout",0.161556320121712
+"97","India Pale Ale","Anchor Steam Beer",0.0735916791861304
+"98","India Pale Ale","120 Minute IPA",0.0556896218772694
+"99","Old Rasputin Russian Imperial Stout","90 Minute IPA",0.193036508360517
+"100","Old Rasputin Russian Imperial Stout","India Pale Ale",0.0748896385286789
+"101","Old Rasputin Russian Imperial Stout","Sierra Nevada Celebration Ale",0.205614724794033
+"102","Old Rasputin Russian Imperial Stout","Stone Ruination IPA",0.243514006210571
+"103","Old Rasputin Russian Imperial Stout","Arrogant Bastard Ale",0.275559067194132
+"104","Old Rasputin Russian Imperial Stout","Two Hearted Ale",0.164826199892445
+"105","Old Rasputin Russian Imperial Stout","Stone IPA (India Pale Ale)",0.188920309610694
+"106","Old Rasputin Russian Imperial Stout","Sierra Nevada Pale Ale",0.172971501576871
+"107","Old Rasputin Russian Imperial Stout","La Fin Du Monde",0.181755546949865
+"108","Old Rasputin Russian Imperial Stout","Pale Ale",0.0899346634108736
+"109","Old Rasputin Russian Imperial Stout","Duvel",0.177491505196309
+"110","Old Rasputin Russian Imperial Stout","Founders Breakfast Stout",0.229473602901716
+"111","Old Rasputin Russian Imperial Stout","Sierra Nevada Bigfoot Barleywine Style Ale",0.259238911200695
+"112","Old Rasputin Russian Imperial Stout","Pliny The Elder",0.20869141167153
+"113","Old Rasputin Russian Imperial Stout","60 Minute IPA",0.0995838176088406
+"114","Old Rasputin Russian Imperial Stout","Brooklyn Black Chocolate Stout",0.191527573986987
+"115","Old Rasputin Russian Imperial Stout","Storm King Stout",0.227924690455457
+"116","Old Rasputin Russian Imperial Stout","Samuel Adams Boston Lager",0.166391874653847
+"117","Old Rasputin Russian Imperial Stout","Bell's Hopslam Ale",0.17078998232882
+"118","Old Rasputin Russian Imperial Stout","Stone Imperial Russian Stout",0.247643126266737
+"119","Old Rasputin Russian Imperial Stout","Chocolate Stout",0.197561827147948
+"120","Old Rasputin Russian Imperial Stout","Imperial Stout",0.143521418857279
+"121","Old Rasputin Russian Imperial Stout","HopDevil Ale",0.20334293914739
+"122","Old Rasputin Russian Imperial Stout","Dead Guy Ale",0.224813943331281
+"123","Old Rasputin Russian Imperial Stout","St. Bernardus Abt 12",0.196197967075049
+"124","Old Rasputin Russian Imperial Stout","Trappistes Rochefort 10",0.152489526474834
+"125","Old Rasputin Russian Imperial Stout","Young's Double Chocolate Stout",0.142445975604963
+"126","Old Rasputin Russian Imperial Stout","Ayinger Celebrator Doppelbock",0.170713403046782
+"127","Old Rasputin Russian Imperial Stout","Samuel Smith's Oatmeal Stout",0.143757179905804
+"128","Old Rasputin Russian Imperial Stout","Chimay Grande Réserve (Blue)",0.188798022609489
+"129","Old Rasputin Russian Imperial Stout","Sierra Nevada Torpedo Extra IPA",0.167238852134008
+"130","Old Rasputin Russian Imperial Stout","Guinness Draught",0.0216045798886949
+"131","Old Rasputin Russian Imperial Stout","Weihenstephaner Hefeweissbier",0.168101361815041
+"132","Old Rasputin Russian Imperial Stout","Racer 5 India Pale Ale",0.206065242555695
+"133","Old Rasputin Russian Imperial Stout","Orval Trappist Ale",0.163376496870045
+"134","Old Rasputin Russian Imperial Stout","Tröegs Nugget Nectar",0.153668918481522
+"135","Old Rasputin Russian Imperial Stout","Hop Rod Rye",0.213504633436108
+"136","Old Rasputin Russian Imperial Stout","Founders KBS (Kentucky Breakfast Stout)",0.179209103508674
+"137","Old Rasputin Russian Imperial Stout","Schneider Aventinus",0.160506058444528
+"138","Old Rasputin Russian Imperial Stout","Samuel Adams Octoberfest",0.103684648184479
+"139","Old Rasputin Russian Imperial Stout","Hennepin (Farmhouse Saison)",0.173785957035565
+"140","Old Rasputin Russian Imperial Stout","Prima Pils",0.154033251357343
+"141","Old Rasputin Russian Imperial Stout","Punkin Ale",0.132581852466575
+"142","Old Rasputin Russian Imperial Stout","Double Bastard Ale",0.15759442517872
+"143","Old Rasputin Russian Imperial Stout","Samuel Adams Winter Lager",0.120449836090105
+"144","Old Rasputin Russian Imperial Stout","Hop Wallop",0.159886925024348
+"145","Old Rasputin Russian Imperial Stout","Oatmeal Stout",0.146254178321495
+"146","Old Rasputin Russian Imperial Stout","Anchor Steam Beer",0.114436843880593
+"147","Old Rasputin Russian Imperial Stout","120 Minute IPA",0.111744078004032
+"148","Sierra Nevada Celebration Ale","90 Minute IPA",0.172100865521249
+"149","Sierra Nevada Celebration Ale","India Pale Ale",0.12067704867333
+"150","Sierra Nevada Celebration Ale","Old Rasputin Russian Imperial Stout",0.205614724794033
+"151","Sierra Nevada Celebration Ale","Stone Ruination IPA",0.281935418499543
+"152","Sierra Nevada Celebration Ale","Arrogant Bastard Ale",0.336270976652778
+"153","Sierra Nevada Celebration Ale","Two Hearted Ale",0.211385720777622
+"154","Sierra Nevada Celebration Ale","Stone IPA (India Pale Ale)",0.303563419600223
+"155","Sierra Nevada Celebration Ale","Sierra Nevada Pale Ale",0.305003887306027
+"156","Sierra Nevada Celebration Ale","La Fin Du Monde",0.191124983151933
+"157","Sierra Nevada Celebration Ale","Pale Ale",0.0977641444669443
+"158","Sierra Nevada Celebration Ale","Duvel",0.218481654451758
+"159","Sierra Nevada Celebration Ale","Founders Breakfast Stout",0.192474713606764
+"160","Sierra Nevada Celebration Ale","Sierra Nevada Bigfoot Barleywine Style Ale",0.34636815167722
+"161","Sierra Nevada Celebration Ale","Pliny The Elder",0.233020720096799
+"162","Sierra Nevada Celebration Ale","60 Minute IPA",0.215117999519232
+"163","Sierra Nevada Celebration Ale","Brooklyn Black Chocolate Stout",0.0979113651645444
+"164","Sierra Nevada Celebration Ale","Storm King Stout",0.199930372285929
+"165","Sierra Nevada Celebration Ale","Samuel Adams Boston Lager",0.220311867632329
+"166","Sierra Nevada Celebration Ale","Bell's Hopslam Ale",0.1200595077935
+"167","Sierra Nevada Celebration Ale","Stone Imperial Russian Stout",0.139280036967011
+"168","Sierra Nevada Celebration Ale","Chocolate Stout",0.163042128094958
+"169","Sierra Nevada Celebration Ale","Imperial Stout",0.165885059374967
+"170","Sierra Nevada Celebration Ale","HopDevil Ale",0.299042714649422
+"171","Sierra Nevada Celebration Ale","Dead Guy Ale",0.178249963535776
+"172","Sierra Nevada Celebration Ale","St. Bernardus Abt 12",0.164688425616695
+"173","Sierra Nevada Celebration Ale","Trappistes Rochefort 10",0.167293478656142
+"174","Sierra Nevada Celebration Ale","Young's Double Chocolate Stout",0.0772397898264539
+"175","Sierra Nevada Celebration Ale","Ayinger Celebrator Doppelbock",0.127680120764739
+"176","Sierra Nevada Celebration Ale","Samuel Smith's Oatmeal Stout",0.154753865304532
+"177","Sierra Nevada Celebration Ale","Chimay Grande Réserve (Blue)",0.0406598178390859
+"178","Sierra Nevada Celebration Ale","Sierra Nevada Torpedo Extra IPA",0.325099293234734
+"179","Sierra Nevada Celebration Ale","Guinness Draught",-0.0354670826120097
+"180","Sierra Nevada Celebration Ale","Weihenstephaner Hefeweissbier",0.225833312279601
+"181","Sierra Nevada Celebration Ale","Racer 5 India Pale Ale",0.230960373391938
+"182","Sierra Nevada Celebration Ale","Orval Trappist Ale",0.15608615232373
+"183","Sierra Nevada Celebration Ale","Tröegs Nugget Nectar",0.241312054104852
+"184","Sierra Nevada Celebration Ale","Hop Rod Rye",0.279569697229943
+"185","Sierra Nevada Celebration Ale","Founders KBS (Kentucky Breakfast Stout)",0.109230719188187
+"186","Sierra Nevada Celebration Ale","Schneider Aventinus",0.179466156975183
+"187","Sierra Nevada Celebration Ale","Samuel Adams Octoberfest",0.0839236311389821
+"188","Sierra Nevada Celebration Ale","Hennepin (Farmhouse Saison)",0.211468509455556
+"189","Sierra Nevada Celebration Ale","Prima Pils",0.28058237914603
+"190","Sierra Nevada Celebration Ale","Punkin Ale",0.182502224956041
+"191","Sierra Nevada Celebration Ale","Double Bastard Ale",0.210815727819035
+"192","Sierra Nevada Celebration Ale","Samuel Adams Winter Lager",0.150236568517974
+"193","Sierra Nevada Celebration Ale","Hop Wallop",0.207134752927508
+"194","Sierra Nevada Celebration Ale","Oatmeal Stout",0.116076930022689
+"195","Sierra Nevada Celebration Ale","Anchor Steam Beer",0.188251316494126
+"196","Sierra Nevada Celebration Ale","120 Minute IPA",0.0640161922073296
+"197","Stone Ruination IPA","90 Minute IPA",0.172170899674197
+"198","Stone Ruination IPA","India Pale Ale",0.0520002531922703
+"199","Stone Ruination IPA","Old Rasputin Russian Imperial Stout",0.243514006210571
+"200","Stone Ruination IPA","Sierra Nevada Celebration Ale",0.281935418499543
+"201","Stone Ruination IPA","Arrogant Bastard Ale",0.382155426932978
+"202","Stone Ruination IPA","Two Hearted Ale",0.229578460644374
+"203","Stone Ruination IPA","Stone IPA (India Pale Ale)",0.373445100461377
+"204","Stone Ruination IPA","Sierra Nevada Pale Ale",0.188549414162161
+"205","Stone Ruination IPA","La Fin Du Monde",0.178784501546906
+"206","Stone Ruination IPA","Pale Ale",-0.00301276541160898
+"207","Stone Ruination IPA","Duvel",0.108983659556939
+"208","Stone Ruination IPA","Founders Breakfast Stout",0.176698180308026
+"209","Stone Ruination IPA","Sierra Nevada Bigfoot Barleywine Style Ale",0.260262854158906
+"210","Stone Ruination IPA","Pliny The Elder",0.19515211571874
+"211","Stone Ruination IPA","60 Minute IPA",0.18726453668771
+"212","Stone Ruination IPA","Brooklyn Black Chocolate Stout",0.165286120633258
+"213","Stone Ruination IPA","Storm King Stout",0.244547308053256
+"214","Stone Ruination IPA","Samuel Adams Boston Lager",0.0952853609754713
+"215","Stone Ruination IPA","Bell's Hopslam Ale",0.131663512393799
+"216","Stone Ruination IPA","Stone Imperial Russian Stout",0.274472426307208
+"217","Stone Ruination IPA","Chocolate Stout",0.159425761924852
+"218","Stone Ruination IPA","Imperial Stout",0.21689466826283
+"219","Stone Ruination IPA","HopDevil Ale",0.254186044437969
+"220","Stone Ruination IPA","Dead Guy Ale",0.145283654089622
+"221","Stone Ruination IPA","St. Bernardus Abt 12",0.186811343962352
+"222","Stone Ruination IPA","Trappistes Rochefort 10",0.207739160089116
+"223","Stone Ruination IPA","Young's Double Chocolate Stout",0.0954493938316777
+"224","Stone Ruination IPA","Ayinger Celebrator Doppelbock",0.113225589926544
+"225","Stone Ruination IPA","Samuel Smith's Oatmeal Stout",0.120785890547868
+"226","Stone Ruination IPA","Chimay Grande Réserve (Blue)",0.145230897273474
+"227","Stone Ruination IPA","Sierra Nevada Torpedo Extra IPA",0.19813368028696
+"228","Stone Ruination IPA","Guinness Draught",-0.0180941880257169
+"229","Stone Ruination IPA","Weihenstephaner Hefeweissbier",0.0979067785346052
+"230","Stone Ruination IPA","Racer 5 India Pale Ale",0.225249842805266
+"231","Stone Ruination IPA","Orval Trappist Ale",0.11236153266333
+"232","Stone Ruination IPA","Tröegs Nugget Nectar",0.191837620247775
+"233","Stone Ruination IPA","Hop Rod Rye",0.255151606171168
+"234","Stone Ruination IPA","Founders KBS (Kentucky Breakfast Stout)",0.141353537768861
+"235","Stone Ruination IPA","Schneider Aventinus",0.164138949478333
+"236","Stone Ruination IPA","Samuel Adams Octoberfest",0.0763448168451256
+"237","Stone Ruination IPA","Hennepin (Farmhouse Saison)",0.274390236009036
+"238","Stone Ruination IPA","Prima Pils",0.154170706805289
+"239","Stone Ruination IPA","Punkin Ale",0.157799502294677
+"240","Stone Ruination IPA","Double Bastard Ale",0.262770662289225
+"241","Stone Ruination IPA","Samuel Adams Winter Lager",0.123426208203987
+"242","Stone Ruination IPA","Hop Wallop",0.190346294113023
+"243","Stone Ruination IPA","Oatmeal Stout",0.0878552595375879
+"244","Stone Ruination IPA","Anchor Steam Beer",0.115771213787504
+"245","Stone Ruination IPA","120 Minute IPA",0.130742171297243
+"246","Arrogant Bastard Ale","90 Minute IPA",0.187052802452931
+"247","Arrogant Bastard Ale","India Pale Ale",0.0552033182086013
+"248","Arrogant Bastard Ale","Old Rasputin Russian Imperial Stout",0.275559067194132
+"249","Arrogant Bastard Ale","Sierra Nevada Celebration Ale",0.336270976652778
+"250","Arrogant Bastard Ale","Stone Ruination IPA",0.382155426932978
+"251","Arrogant Bastard Ale","Two Hearted Ale",0.231246671090782
+"252","Arrogant Bastard Ale","Stone IPA (India Pale Ale)",0.374209770395925
+"253","Arrogant Bastard Ale","Sierra Nevada Pale Ale",0.220788624783839
+"254","Arrogant Bastard Ale","La Fin Du Monde",0.177145105733392
+"255","Arrogant Bastard Ale","Pale Ale",0.0567415058449803
+"256","Arrogant Bastard Ale","Duvel",0.176357018836004
+"257","Arrogant Bastard Ale","Founders Breakfast Stout",0.179369288456376
+"258","Arrogant Bastard Ale","Sierra Nevada Bigfoot Barleywine Style Ale",0.31437283352747
+"259","Arrogant Bastard Ale","Pliny The Elder",0.223091879582049
+"260","Arrogant Bastard Ale","60 Minute IPA",0.209784363608727
+"261","Arrogant Bastard Ale","Brooklyn Black Chocolate Stout",0.148326176315556
+"262","Arrogant Bastard Ale","Storm King Stout",0.253488741783678
+"263","Arrogant Bastard Ale","Samuel Adams Boston Lager",0.211664523280219
+"264","Arrogant Bastard Ale","Bell's Hopslam Ale",0.130903958631913
+"265","Arrogant Bastard Ale","Stone Imperial Russian Stout",0.260534139303469
+"266","Arrogant Bastard Ale","Chocolate Stout",0.221461493078418
+"267","Arrogant Bastard Ale","Imperial Stout",0.243603809624875
+"268","Arrogant Bastard Ale","HopDevil Ale",0.288703412488568
+"269","Arrogant Bastard Ale","Dead Guy Ale",0.205267356018136
+"270","Arrogant Bastard Ale","St. Bernardus Abt 12",0.259060677901642
+"271","Arrogant Bastard Ale","Trappistes Rochefort 10",0.224078156218091
+"272","Arrogant Bastard Ale","Young's Double Chocolate Stout",0.138156959020524
+"273","Arrogant Bastard Ale","Ayinger Celebrator Doppelbock",0.140907759564848
+"274","Arrogant Bastard Ale","Samuel Smith's Oatmeal Stout",0.114143706323013
+"275","Arrogant Bastard Ale","Chimay Grande Réserve (Blue)",0.113445092226185
+"276","Arrogant Bastard Ale","Sierra Nevada Torpedo Extra IPA",0.220020813632169
+"277","Arrogant Bastard Ale","Guinness Draught",0.0223585046059194
+"278","Arrogant Bastard Ale","Weihenstephaner Hefeweissbier",0.159635514761983
+"279","Arrogant Bastard Ale","Racer 5 India Pale Ale",0.201910016964023
+"280","Arrogant Bastard Ale","Orval Trappist Ale",0.0933470128462431
+"281","Arrogant Bastard Ale","Tröegs Nugget Nectar",0.195672144949737
+"282","Arrogant Bastard Ale","Hop Rod Rye",0.290273483343008
+"283","Arrogant Bastard Ale","Founders KBS (Kentucky Breakfast Stout)",0.179837807793385
+"284","Arrogant Bastard Ale","Schneider Aventinus",0.133686920717904
+"285","Arrogant Bastard Ale","Samuel Adams Octoberfest",0.0630480450664984
+"286","Arrogant Bastard Ale","Hennepin (Farmhouse Saison)",0.224883372129715
+"287","Arrogant Bastard Ale","Prima Pils",0.221512376728116
+"288","Arrogant Bastard Ale","Punkin Ale",0.187698633278277
+"289","Arrogant Bastard Ale","Double Bastard Ale",0.342590167397812
+"290","Arrogant Bastard Ale","Samuel Adams Winter Lager",0.210631487570527
+"291","Arrogant Bastard Ale","Hop Wallop",0.209039731420231
+"292","Arrogant Bastard Ale","Oatmeal Stout",0.0765747081454741
+"293","Arrogant Bastard Ale","Anchor Steam Beer",0.149154046525367
+"294","Arrogant Bastard Ale","120 Minute IPA",0.199418179247243
+"295","Two Hearted Ale","90 Minute IPA",0.0868647390078147
+"296","Two Hearted Ale","India Pale Ale",0.102722322795361
+"297","Two Hearted Ale","Old Rasputin Russian Imperial Stout",0.164826199892445
+"298","Two Hearted Ale","Sierra Nevada Celebration Ale",0.211385720777622
+"299","Two Hearted Ale","Stone Ruination IPA",0.229578460644374
+"300","Two Hearted Ale","Arrogant Bastard Ale",0.231246671090782
+"301","Two Hearted Ale","Stone IPA (India Pale Ale)",0.218530166610637
+"302","Two Hearted Ale","Sierra Nevada Pale Ale",0.151598026285057
+"303","Two Hearted Ale","La Fin Du Monde",0.165100622079013
+"304","Two Hearted Ale","Pale Ale",0.13719795091336
+"305","Two Hearted Ale","Duvel",0.150890042593852
+"306","Two Hearted Ale","Founders Breakfast Stout",0.227306534567724
+"307","Two Hearted Ale","Sierra Nevada Bigfoot Barleywine Style Ale",0.195614975960296
+"308","Two Hearted Ale","Pliny The Elder",0.193157889749217
+"309","Two Hearted Ale","60 Minute IPA",0.174878621515621
+"310","Two Hearted Ale","Brooklyn Black Chocolate Stout",0.073426108262957
+"311","Two Hearted Ale","Storm King Stout",0.222838534856697
+"312","Two Hearted Ale","Samuel Adams Boston Lager",0.140748260239705
+"313","Two Hearted Ale","Bell's Hopslam Ale",0.254901244520913
+"314","Two Hearted Ale","Stone Imperial Russian Stout",0.207395677088333
+"315","Two Hearted Ale","Chocolate Stout",0.231883280502902
+"316","Two Hearted Ale","Imperial Stout",0.2400945367676
+"317","Two Hearted Ale","HopDevil Ale",0.140171900826742
+"318","Two Hearted Ale","Dead Guy Ale",0.141654963802346
+"319","Two Hearted Ale","St. Bernardus Abt 12",0.209525168044181
+"320","Two Hearted Ale","Trappistes Rochefort 10",0.118088213856722
+"321","Two Hearted Ale","Young's Double Chocolate Stout",0.0699932438497386
+"322","Two Hearted Ale","Ayinger Celebrator Doppelbock",0.0726463694937282
+"323","Two Hearted Ale","Samuel Smith's Oatmeal Stout",0.2233751523083
+"324","Two Hearted Ale","Chimay Grande Réserve (Blue)",0.108454615377169
+"325","Two Hearted Ale","Sierra Nevada Torpedo Extra IPA",0.133082408481677
+"326","Two Hearted Ale","Guinness Draught",0.0223132127277651
+"327","Two Hearted Ale","Weihenstephaner Hefeweissbier",0.178068353291296
+"328","Two Hearted Ale","Racer 5 India Pale Ale",0.240832187265505
+"329","Two Hearted Ale","Orval Trappist Ale",0.100756656300267
+"330","Two Hearted Ale","Tröegs Nugget Nectar",0.226003616604787
+"331","Two Hearted Ale","Hop Rod Rye",0.244852468577515
+"332","Two Hearted Ale","Founders KBS (Kentucky Breakfast Stout)",0.179096139059944
+"333","Two Hearted Ale","Schneider Aventinus",0.103365333239913
+"334","Two Hearted Ale","Samuel Adams Octoberfest",0.0536490128533121
+"335","Two Hearted Ale","Hennepin (Farmhouse Saison)",0.206684974010164
+"336","Two Hearted Ale","Prima Pils",0.202757376578809
+"337","Two Hearted Ale","Punkin Ale",0.157936470721673
+"338","Two Hearted Ale","Double Bastard Ale",0.173522576068451
+"339","Two Hearted Ale","Samuel Adams Winter Lager",0.10178744867959
+"340","Two Hearted Ale","Hop Wallop",0.236501434703573
+"341","Two Hearted Ale","Oatmeal Stout",0.0683756320526785
+"342","Two Hearted Ale","Anchor Steam Beer",0.057138183768633
+"343","Two Hearted Ale","120 Minute IPA",0.0785859234165381
+"344","Stone IPA (India Pale Ale)","90 Minute IPA",0.199535256117677
+"345","Stone IPA (India Pale Ale)","India Pale Ale",0.107517150393368
+"346","Stone IPA (India Pale Ale)","Old Rasputin Russian Imperial Stout",0.188920309610694
+"347","Stone IPA (India Pale Ale)","Sierra Nevada Celebration Ale",0.303563419600223
+"348","Stone IPA (India Pale Ale)","Stone Ruination IPA",0.373445100461377
+"349","Stone IPA (India Pale Ale)","Arrogant Bastard Ale",0.374209770395925
+"350","Stone IPA (India Pale Ale)","Two Hearted Ale",0.218530166610637
+"351","Stone IPA (India Pale Ale)","Sierra Nevada Pale Ale",0.206700998571325
+"352","Stone IPA (India Pale Ale)","La Fin Du Monde",0.223288558780985
+"353","Stone IPA (India Pale Ale)","Pale Ale",0.0782877767009578
+"354","Stone IPA (India Pale Ale)","Duvel",0.138999832245443
+"355","Stone IPA (India Pale Ale)","Founders Breakfast Stout",0.195545949368731
+"356","Stone IPA (India Pale Ale)","Sierra Nevada Bigfoot Barleywine Style Ale",0.199992300844282
+"357","Stone IPA (India Pale Ale)","Pliny The Elder",0.17380491815201
+"358","Stone IPA (India Pale Ale)","60 Minute IPA",0.26718724658065
+"359","Stone IPA (India Pale Ale)","Brooklyn Black Chocolate Stout",0.142106752651001
+"360","Stone IPA (India Pale Ale)","Storm King Stout",0.202656848502583
+"361","Stone IPA (India Pale Ale)","Samuel Adams Boston Lager",0.129524537523312
+"362","Stone IPA (India Pale Ale)","Bell's Hopslam Ale",0.0869465892145333
+"363","Stone IPA (India Pale Ale)","Stone Imperial Russian Stout",0.285503625307042
+"364","Stone IPA (India Pale Ale)","Chocolate Stout",0.219341539948628
+"365","Stone IPA (India Pale Ale)","Imperial Stout",0.173642546332285
+"366","Stone IPA (India Pale Ale)","HopDevil Ale",0.249995964512997
+"367","Stone IPA (India Pale Ale)","Dead Guy Ale",0.188562483072471
+"368","Stone IPA (India Pale Ale)","St. Bernardus Abt 12",0.174800108670265
+"369","Stone IPA (India Pale Ale)","Trappistes Rochefort 10",0.167748953105443
+"370","Stone IPA (India Pale Ale)","Young's Double Chocolate Stout",0.108936442340877
+"371","Stone IPA (India Pale Ale)","Ayinger Celebrator Doppelbock",0.116159423319679
+"372","Stone IPA (India Pale Ale)","Samuel Smith's Oatmeal Stout",0.0671332456655188
+"373","Stone IPA (India Pale Ale)","Chimay Grande Réserve (Blue)",0.154949558060947
+"374","Stone IPA (India Pale Ale)","Sierra Nevada Torpedo Extra IPA",0.175144669389594
+"375","Stone IPA (India Pale Ale)","Guinness Draught",0.0303534288657154
+"376","Stone IPA (India Pale Ale)","Weihenstephaner Hefeweissbier",0.19138830285865
+"377","Stone IPA (India Pale Ale)","Racer 5 India Pale Ale",0.221261811376137
+"378","Stone IPA (India Pale Ale)","Orval Trappist Ale",0.119685779942937
+"379","Stone IPA (India Pale Ale)","Tröegs Nugget Nectar",0.300829149228598
+"380","Stone IPA (India Pale Ale)","Hop Rod Rye",0.255669427440194
+"381","Stone IPA (India Pale Ale)","Founders KBS (Kentucky Breakfast Stout)",0.0930962827258075
+"382","Stone IPA (India Pale Ale)","Schneider Aventinus",0.131305050182674
+"383","Stone IPA (India Pale Ale)","Samuel Adams Octoberfest",0.0178860228478105
+"384","Stone IPA (India Pale Ale)","Hennepin (Farmhouse Saison)",0.223096916677525
+"385","Stone IPA (India Pale Ale)","Prima Pils",0.188681060252062
+"386","Stone IPA (India Pale Ale)","Punkin Ale",0.133305904072403
+"387","Stone IPA (India Pale Ale)","Double Bastard Ale",0.259250929374288
+"388","Stone IPA (India Pale Ale)","Samuel Adams Winter Lager",0.0843606677371394
+"389","Stone IPA (India Pale Ale)","Hop Wallop",0.226536784203325
+"390","Stone IPA (India Pale Ale)","Oatmeal Stout",0.0643955414605015
+"391","Stone IPA (India Pale Ale)","Anchor Steam Beer",0.169646848873561
+"392","Stone IPA (India Pale Ale)","120 Minute IPA",0.12116008157133
+"393","Sierra Nevada Pale Ale","90 Minute IPA",0.104681567941497
+"394","Sierra Nevada Pale Ale","India Pale Ale",0.056439430535501
+"395","Sierra Nevada Pale Ale","Old Rasputin Russian Imperial Stout",0.172971501576871
+"396","Sierra Nevada Pale Ale","Sierra Nevada Celebration Ale",0.305003887306027
+"397","Sierra Nevada Pale Ale","Stone Ruination IPA",0.188549414162161
+"398","Sierra Nevada Pale Ale","Arrogant Bastard Ale",0.220788624783839
+"399","Sierra Nevada Pale Ale","Two Hearted Ale",0.151598026285057
+"400","Sierra Nevada Pale Ale","Stone IPA (India Pale Ale)",0.206700998571325
+"401","Sierra Nevada Pale Ale","La Fin Du Monde",0.113720191639565
+"402","Sierra Nevada Pale Ale","Pale Ale",0.0689837946794972
+"403","Sierra Nevada Pale Ale","Duvel",0.182309998222207
+"404","Sierra Nevada Pale Ale","Founders Breakfast Stout",0.0743000141871543
+"405","Sierra Nevada Pale Ale","Sierra Nevada Bigfoot Barleywine Style Ale",0.26449782112405
+"406","Sierra Nevada Pale Ale","Pliny The Elder",0.213925593445286
+"407","Sierra Nevada Pale Ale","60 Minute IPA",0.251581002788112
+"408","Sierra Nevada Pale Ale","Brooklyn Black Chocolate Stout",0.12283249924729
+"409","Sierra Nevada Pale Ale","Storm King Stout",0.183496671495004
+"410","Sierra Nevada Pale Ale","Samuel Adams Boston Lager",0.273004151759582
+"411","Sierra Nevada Pale Ale","Bell's Hopslam Ale",0.0103488979915518
+"412","Sierra Nevada Pale Ale","Stone Imperial Russian Stout",0.138486591754085
+"413","Sierra Nevada Pale Ale","Chocolate Stout",0.177742835658087
+"414","Sierra Nevada Pale Ale","Imperial Stout",0.136887828178905
+"415","Sierra Nevada Pale Ale","HopDevil Ale",0.186170148719131
+"416","Sierra Nevada Pale Ale","Dead Guy Ale",0.210329658917093
+"417","Sierra Nevada Pale Ale","St. Bernardus Abt 12",0.0925365516723719
+"418","Sierra Nevada Pale Ale","Trappistes Rochefort 10",0.117883424388305
+"419","Sierra Nevada Pale Ale","Young's Double Chocolate Stout",0.0798179773236343
+"420","Sierra Nevada Pale Ale","Ayinger Celebrator Doppelbock",0.131906542020066
+"421","Sierra Nevada Pale Ale","Samuel Smith's Oatmeal Stout",0.174483220935528
+"422","Sierra Nevada Pale Ale","Chimay Grande Réserve (Blue)",0.131072179189353
+"423","Sierra Nevada Pale Ale","Sierra Nevada Torpedo Extra IPA",0.236101604420811
+"424","Sierra Nevada Pale Ale","Guinness Draught",0.0886985693322892
+"425","Sierra Nevada Pale Ale","Weihenstephaner Hefeweissbier",0.21076456121312
+"426","Sierra Nevada Pale Ale","Racer 5 India Pale Ale",0.223775872720858
+"427","Sierra Nevada Pale Ale","Orval Trappist Ale",0.194770643769948
+"428","Sierra Nevada Pale Ale","Tröegs Nugget Nectar",0.17399935435824
+"429","Sierra Nevada Pale Ale","Hop Rod Rye",0.205171438613656
+"430","Sierra Nevada Pale Ale","Founders KBS (Kentucky Breakfast Stout)",0.0655383524961218
+"431","Sierra Nevada Pale Ale","Schneider Aventinus",0.0813551690076395
+"432","Sierra Nevada Pale Ale","Samuel Adams Octoberfest",0.138531171468208
+"433","Sierra Nevada Pale Ale","Hennepin (Farmhouse Saison)",0.168439217292234
+"434","Sierra Nevada Pale Ale","Prima Pils",0.193844112229639
+"435","Sierra Nevada Pale Ale","Punkin Ale",0.134222217067678
+"436","Sierra Nevada Pale Ale","Double Bastard Ale",0.0746740806013215
+"437","Sierra Nevada Pale Ale","Samuel Adams Winter Lager",0.21299794487021
+"438","Sierra Nevada Pale Ale","Hop Wallop",0.0959092773439035
+"439","Sierra Nevada Pale Ale","Oatmeal Stout",0.162677266333385
+"440","Sierra Nevada Pale Ale","Anchor Steam Beer",0.31804829265637
+"441","Sierra Nevada Pale Ale","120 Minute IPA",0.0197501632527243
+"442","La Fin Du Monde","90 Minute IPA",0.14837310432479
+"443","La Fin Du Monde","India Pale Ale",0.0458139206478497
+"444","La Fin Du Monde","Old Rasputin Russian Imperial Stout",0.181755546949865
+"445","La Fin Du Monde","Sierra Nevada Celebration Ale",0.191124983151933
+"446","La Fin Du Monde","Stone Ruination IPA",0.178784501546906
+"447","La Fin Du Monde","Arrogant Bastard Ale",0.177145105733392
+"448","La Fin Du Monde","Two Hearted Ale",0.165100622079013
+"449","La Fin Du Monde","Stone IPA (India Pale Ale)",0.223288558780985
+"450","La Fin Du Monde","Sierra Nevada Pale Ale",0.113720191639565
+"451","La Fin Du Monde","Pale Ale",0.0760534120764463
+"452","La Fin Du Monde","Duvel",0.314782760425821
+"453","La Fin Du Monde","Founders Breakfast Stout",0.18038837689482
+"454","La Fin Du Monde","Sierra Nevada Bigfoot Barleywine Style Ale",0.174597239127113
+"455","La Fin Du Monde","Pliny The Elder",0.214172292445113
+"456","La Fin Du Monde","60 Minute IPA",0.110276181671288
+"457","La Fin Du Monde","Brooklyn Black Chocolate Stout",0.151292312040104
+"458","La Fin Du Monde","Storm King Stout",0.146326406972543
+"459","La Fin Du Monde","Samuel Adams Boston Lager",0.163591034527562
+"460","La Fin Du Monde","Bell's Hopslam Ale",0.140785591807644
+"461","La Fin Du Monde","Stone Imperial Russian Stout",0.148092193795623
+"462","La Fin Du Monde","Chocolate Stout",0.176713680585756
+"463","La Fin Du Monde","Imperial Stout",0.136961551614719
+"464","La Fin Du Monde","HopDevil Ale",0.1440751653348
+"465","La Fin Du Monde","Dead Guy Ale",0.190196346462151
+"466","La Fin Du Monde","St. Bernardus Abt 12",0.226364366705431
+"467","La Fin Du Monde","Trappistes Rochefort 10",0.171743487828995
+"468","La Fin Du Monde","Young's Double Chocolate Stout",0.127221156286395
+"469","La Fin Du Monde","Ayinger Celebrator Doppelbock",0.286368002257862
+"470","La Fin Du Monde","Samuel Smith's Oatmeal Stout",0.128386978895468
+"471","La Fin Du Monde","Chimay Grande Réserve (Blue)",0.241173742512948
+"472","La Fin Du Monde","Sierra Nevada Torpedo Extra IPA",0.0672816654214118
+"473","La Fin Du Monde","Guinness Draught",0.00395386904489311
+"474","La Fin Du Monde","Weihenstephaner Hefeweissbier",0.299447253961787
+"475","La Fin Du Monde","Racer 5 India Pale Ale",0.108698810318633
+"476","La Fin Du Monde","Orval Trappist Ale",0.13229399090057
+"477","La Fin Du Monde","Tröegs Nugget Nectar",0.094972081432046
+"478","La Fin Du Monde","Hop Rod Rye",0.210979612052276
+"479","La Fin Du Monde","Founders KBS (Kentucky Breakfast Stout)",0.164843125247247
+"480","La Fin Du Monde","Schneider Aventinus",0.225255079218184
+"481","La Fin Du Monde","Samuel Adams Octoberfest",0.142219401755995
+"482","La Fin Du Monde","Hennepin (Farmhouse Saison)",0.322663906844084
+"483","La Fin Du Monde","Prima Pils",0.205898343821925
+"484","La Fin Du Monde","Punkin Ale",0.183036689348031
+"485","La Fin Du Monde","Double Bastard Ale",0.19968450601343
+"486","La Fin Du Monde","Samuel Adams Winter Lager",0.0983537907792978
+"487","La Fin Du Monde","Hop Wallop",0.1673651394934
+"488","La Fin Du Monde","Oatmeal Stout",0.100581427319265
+"489","La Fin Du Monde","Anchor Steam Beer",0.197519487916856
+"490","La Fin Du Monde","120 Minute IPA",0.120709386204037
+"491","Pale Ale","90 Minute IPA",0.0617865545850394
+"492","Pale Ale","India Pale Ale",0.102095902982197
+"493","Pale Ale","Old Rasputin Russian Imperial Stout",0.0899346634108736
+"494","Pale Ale","Sierra Nevada Celebration Ale",0.0977641444669443
+"495","Pale Ale","Stone Ruination IPA",-0.00301276541160898
+"496","Pale Ale","Arrogant Bastard Ale",0.0567415058449803
+"497","Pale Ale","Two Hearted Ale",0.13719795091336
+"498","Pale Ale","Stone IPA (India Pale Ale)",0.0782877767009578
+"499","Pale Ale","Sierra Nevada Pale Ale",0.0689837946794972
+"500","Pale Ale","La Fin Du Monde",0.0760534120764463
+"501","Pale Ale","Duvel",0.0333171998144366
+"502","Pale Ale","Founders Breakfast Stout",0.0752231814198282
+"503","Pale Ale","Sierra Nevada Bigfoot Barleywine Style Ale",0.111380367941445
+"504","Pale Ale","Pliny The Elder",0.131259864499832
+"505","Pale Ale","60 Minute IPA",0.091538438460225
+"506","Pale Ale","Brooklyn Black Chocolate Stout",0.0633205934451562
+"507","Pale Ale","Storm King Stout",0.046126939639749
+"508","Pale Ale","Samuel Adams Boston Lager",0.0932928303162644
+"509","Pale Ale","Bell's Hopslam Ale",0.0698879333983954
+"510","Pale Ale","Stone Imperial Russian Stout",0.0130554232411548
+"511","Pale Ale","Chocolate Stout",0.0405167711555879
+"512","Pale Ale","Imperial Stout",0.0466962395681682
+"513","Pale Ale","HopDevil Ale",0.073159574836612
+"514","Pale Ale","Dead Guy Ale",0.185269131989846
+"515","Pale Ale","St. Bernardus Abt 12",0.113897418424211
+"516","Pale Ale","Trappistes Rochefort 10",0.0727775811737018
+"517","Pale Ale","Young's Double Chocolate Stout",0.106881811251557
+"518","Pale Ale","Ayinger Celebrator Doppelbock",0.0646966241240495
+"519","Pale Ale","Samuel Smith's Oatmeal Stout",0.0614156079098157
+"520","Pale Ale","Chimay Grande Réserve (Blue)",0.0423201369211562
+"521","Pale Ale","Sierra Nevada Torpedo Extra IPA",0.218800733084472
+"522","Pale Ale","Guinness Draught",0.0538664829130272
+"523","Pale Ale","Weihenstephaner Hefeweissbier",0.11266583555569
+"524","Pale Ale","Racer 5 India Pale Ale",0.0121946650108073
+"525","Pale Ale","Orval Trappist Ale",0.124719558764282
+"526","Pale Ale","Tröegs Nugget Nectar",0.0814158174035445
+"527","Pale Ale","Hop Rod Rye",0.0674461256592793
+"528","Pale Ale","Founders KBS (Kentucky Breakfast Stout)",0.00373540976005604
+"529","Pale Ale","Schneider Aventinus",-0.0135447535402441
+"530","Pale Ale","Samuel Adams Octoberfest",0.134366562940574
+"531","Pale Ale","Hennepin (Farmhouse Saison)",0.0931942974120415
+"532","Pale Ale","Prima Pils",0.0892226057184429
+"533","Pale Ale","Punkin Ale",0.124319008259014
+"534","Pale Ale","Double Bastard Ale",0.0868220187758687
+"535","Pale Ale","Samuel Adams Winter Lager",0.124870964737654
+"536","Pale Ale","Hop Wallop",0.116988006032859
+"537","Pale Ale","Oatmeal Stout",0.160448957666653
+"538","Pale Ale","Anchor Steam Beer",0.110090742245573
+"539","Pale Ale","120 Minute IPA",-0.0112557228811467
+"540","Duvel","90 Minute IPA",0.123332309990912
+"541","Duvel","India Pale Ale",0.0611916557583524
+"542","Duvel","Old Rasputin Russian Imperial Stout",0.177491505196309
+"543","Duvel","Sierra Nevada Celebration Ale",0.218481654451758
+"544","Duvel","Stone Ruination IPA",0.108983659556939
+"545","Duvel","Arrogant Bastard Ale",0.176357018836004
+"546","Duvel","Two Hearted Ale",0.150890042593852
+"547","Duvel","Stone IPA (India Pale Ale)",0.138999832245443
+"548","Duvel","Sierra Nevada Pale Ale",0.182309998222207
+"549","Duvel","La Fin Du Monde",0.314782760425821
+"550","Duvel","Pale Ale",0.0333171998144366
+"551","Duvel","Founders Breakfast Stout",0.110813737689278
+"552","Duvel","Sierra Nevada Bigfoot Barleywine Style Ale",0.188073138944406
+"553","Duvel","Pliny The Elder",0.169739994230614
+"554","Duvel","60 Minute IPA",0.101643547869252
+"555","Duvel","Brooklyn Black Chocolate Stout",0.143185963896891
+"556","Duvel","Storm King Stout",0.122910102846435
+"557","Duvel","Samuel Adams Boston Lager",0.172164813175563
+"558","Duvel","Bell's Hopslam Ale",0.155367343007331
+"559","Duvel","Stone Imperial Russian Stout",0.157010916334622
+"560","Duvel","Chocolate Stout",0.162265182869012
+"561","Duvel","Imperial Stout",0.112512890308729
+"562","Duvel","HopDevil Ale",0.159818654542862
+"563","Duvel","Dead Guy Ale",0.191493518794611
+"564","Duvel","St. Bernardus Abt 12",0.217409526964432
+"565","Duvel","Trappistes Rochefort 10",0.206827933085591
+"566","Duvel","Young's Double Chocolate Stout",0.133411704824225
+"567","Duvel","Ayinger Celebrator Doppelbock",0.264517798373069
+"568","Duvel","Samuel Smith's Oatmeal Stout",0.229292156434083
+"569","Duvel","Chimay Grande Réserve (Blue)",0.196063829256685
+"570","Duvel","Sierra Nevada Torpedo Extra IPA",0.152327163834162
+"571","Duvel","Guinness Draught",0.0574659468697719
+"572","Duvel","Weihenstephaner Hefeweissbier",0.218401528790165
+"573","Duvel","Racer 5 India Pale Ale",0.162579785089034
+"574","Duvel","Orval Trappist Ale",0.225394083412866
+"575","Duvel","Tröegs Nugget Nectar",0.0939656778401165
+"576","Duvel","Hop Rod Rye",0.165666940786847
+"577","Duvel","Founders KBS (Kentucky Breakfast Stout)",0.119957121616405
+"578","Duvel","Schneider Aventinus",0.27156018958896
+"579","Duvel","Samuel Adams Octoberfest",0.0801362861466415
+"580","Duvel","Hennepin (Farmhouse Saison)",0.273082661492609
+"581","Duvel","Prima Pils",0.250019273362566
+"582","Duvel","Punkin Ale",0.230900236544758
+"583","Duvel","Double Bastard Ale",0.0954863079174684
+"584","Duvel","Samuel Adams Winter Lager",0.152138825927338
+"585","Duvel","Hop Wallop",0.184050143566088
+"586","Duvel","Oatmeal Stout",0.135493439084144
+"587","Duvel","Anchor Steam Beer",0.258310722708742
+"588","Duvel","120 Minute IPA",0.117893355811898
+"589","Founders Breakfast Stout","90 Minute IPA",0.161010341154422
+"590","Founders Breakfast Stout","India Pale Ale",0.113208492478518
+"591","Founders Breakfast Stout","Old Rasputin Russian Imperial Stout",0.229473602901716
+"592","Founders Breakfast Stout","Sierra Nevada Celebration Ale",0.192474713606764
+"593","Founders Breakfast Stout","Stone Ruination IPA",0.176698180308026
+"594","Founders Breakfast Stout","Arrogant Bastard Ale",0.179369288456376
+"595","Founders Breakfast Stout","Two Hearted Ale",0.227306534567724
+"596","Founders Breakfast Stout","Stone IPA (India Pale Ale)",0.195545949368731
+"597","Founders Breakfast Stout","Sierra Nevada Pale Ale",0.0743000141871543
+"598","Founders Breakfast Stout","La Fin Du Monde",0.18038837689482
+"599","Founders Breakfast Stout","Pale Ale",0.0752231814198282
+"600","Founders Breakfast Stout","Duvel",0.110813737689278
+"601","Founders Breakfast Stout","Sierra Nevada Bigfoot Barleywine Style Ale",0.154910351070576
+"602","Founders Breakfast Stout","Pliny The Elder",0.248176125420509
+"603","Founders Breakfast Stout","60 Minute IPA",0.20050726065859
+"604","Founders Breakfast Stout","Brooklyn Black Chocolate Stout",0.178865209936164
+"605","Founders Breakfast Stout","Storm King Stout",0.190110305987358
+"606","Founders Breakfast Stout","Samuel Adams Boston Lager",0.159693603246616
+"607","Founders Breakfast Stout","Bell's Hopslam Ale",0.180300390252636
+"608","Founders Breakfast Stout","Stone Imperial Russian Stout",0.275702779976697
+"609","Founders Breakfast Stout","Chocolate Stout",0.189677179737725
+"610","Founders Breakfast Stout","Imperial Stout",0.162701186478959
+"611","Founders Breakfast Stout","HopDevil Ale",0.161868810376773
+"612","Founders Breakfast Stout","Dead Guy Ale",0.168634837589852
+"613","Founders Breakfast Stout","St. Bernardus Abt 12",0.173607712643248
+"614","Founders Breakfast Stout","Trappistes Rochefort 10",0.144765486614172
+"615","Founders Breakfast Stout","Young's Double Chocolate Stout",0.138195221955639
+"616","Founders Breakfast Stout","Ayinger Celebrator Doppelbock",0.112447154983428
+"617","Founders Breakfast Stout","Samuel Smith's Oatmeal Stout",0.0817662181237126
+"618","Founders Breakfast Stout","Chimay Grande Réserve (Blue)",0.0659101980111734
+"619","Founders Breakfast Stout","Sierra Nevada Torpedo Extra IPA",0.135951015248366
+"620","Founders Breakfast Stout","Guinness Draught",-0.013696248464249
+"621","Founders Breakfast Stout","Weihenstephaner Hefeweissbier",0.152701149652303
+"622","Founders Breakfast Stout","Racer 5 India Pale Ale",0.17250381873523
+"623","Founders Breakfast Stout","Orval Trappist Ale",0.069084184800986
+"624","Founders Breakfast Stout","Tröegs Nugget Nectar",0.202222434572264
+"625","Founders Breakfast Stout","Hop Rod Rye",0.223283686382959
+"626","Founders Breakfast Stout","Founders KBS (Kentucky Breakfast Stout)",0.350557368234935
+"627","Founders Breakfast Stout","Schneider Aventinus",0.0949458285868412
+"628","Founders Breakfast Stout","Samuel Adams Octoberfest",0.105531730772644
+"629","Founders Breakfast Stout","Hennepin (Farmhouse Saison)",0.0803534583014668
+"630","Founders Breakfast Stout","Prima Pils",0.185626580413166
+"631","Founders Breakfast Stout","Punkin Ale",0.197069543797323
+"632","Founders Breakfast Stout","Double Bastard Ale",0.136342701048206
+"633","Founders Breakfast Stout","Samuel Adams Winter Lager",0.104959688180937
+"634","Founders Breakfast Stout","Hop Wallop",0.179395796558307
+"635","Founders Breakfast Stout","Oatmeal Stout",0.0954138522254701
+"636","Founders Breakfast Stout","Anchor Steam Beer",0.153399837886569
+"637","Founders Breakfast Stout","120 Minute IPA",0.107794398893636
+"638","Sierra Nevada Bigfoot Barleywine Style Ale","90 Minute IPA",0.170546257806917
+"639","Sierra Nevada Bigfoot Barleywine Style Ale","India Pale Ale",0.083272531581833
+"640","Sierra Nevada Bigfoot Barleywine Style Ale","Old Rasputin Russian Imperial Stout",0.259238911200695
+"641","Sierra Nevada Bigfoot Barleywine Style Ale","Sierra Nevada Celebration Ale",0.34636815167722
+"642","Sierra Nevada Bigfoot Barleywine Style Ale","Stone Ruination IPA",0.260262854158906
+"643","Sierra Nevada Bigfoot Barleywine Style Ale","Arrogant Bastard Ale",0.31437283352747
+"644","Sierra Nevada Bigfoot Barleywine Style Ale","Two Hearted Ale",0.195614975960296
+"645","Sierra Nevada Bigfoot Barleywine Style Ale","Stone IPA (India Pale Ale)",0.199992300844282
+"646","Sierra Nevada Bigfoot Barleywine Style Ale","Sierra Nevada Pale Ale",0.26449782112405
+"647","Sierra Nevada Bigfoot Barleywine Style Ale","La Fin Du Monde",0.174597239127113
+"648","Sierra Nevada Bigfoot Barleywine Style Ale","Pale Ale",0.111380367941445
+"649","Sierra Nevada Bigfoot Barleywine Style Ale","Duvel",0.188073138944406
+"650","Sierra Nevada Bigfoot Barleywine Style Ale","Founders Breakfast Stout",0.154910351070576
+"651","Sierra Nevada Bigfoot Barleywine Style Ale","Pliny The Elder",0.158265258669084
+"652","Sierra Nevada Bigfoot Barleywine Style Ale","60 Minute IPA",0.169898454100658
+"653","Sierra Nevada Bigfoot Barleywine Style Ale","Brooklyn Black Chocolate Stout",0.212501167938604
+"654","Sierra Nevada Bigfoot Barleywine Style Ale","Storm King Stout",0.238100765293697
+"655","Sierra Nevada Bigfoot Barleywine Style Ale","Samuel Adams Boston Lager",0.223766736979751
+"656","Sierra Nevada Bigfoot Barleywine Style Ale","Bell's Hopslam Ale",0.114734215420755
+"657","Sierra Nevada Bigfoot Barleywine Style Ale","Stone Imperial Russian Stout",0.219097816873024
+"658","Sierra Nevada Bigfoot Barleywine Style Ale","Chocolate Stout",0.203377269868895
+"659","Sierra Nevada Bigfoot Barleywine Style Ale","Imperial Stout",0.221334691962345
+"660","Sierra Nevada Bigfoot Barleywine Style Ale","HopDevil Ale",0.242870804058571
+"661","Sierra Nevada Bigfoot Barleywine Style Ale","Dead Guy Ale",0.175666504286043
+"662","Sierra Nevada Bigfoot Barleywine Style Ale","St. Bernardus Abt 12",0.168276922662172
+"663","Sierra Nevada Bigfoot Barleywine Style Ale","Trappistes Rochefort 10",0.210944451504638
+"664","Sierra Nevada Bigfoot Barleywine Style Ale","Young's Double Chocolate Stout",0.100123319748623
+"665","Sierra Nevada Bigfoot Barleywine Style Ale","Ayinger Celebrator Doppelbock",0.154882411507923
+"666","Sierra Nevada Bigfoot Barleywine Style Ale","Samuel Smith's Oatmeal Stout",0.14502264593187
+"667","Sierra Nevada Bigfoot Barleywine Style Ale","Chimay Grande Réserve (Blue)",0.138625668153177
+"668","Sierra Nevada Bigfoot Barleywine Style Ale","Sierra Nevada Torpedo Extra IPA",0.276519958135803
+"669","Sierra Nevada Bigfoot Barleywine Style Ale","Guinness Draught",0.0508171292694152
+"670","Sierra Nevada Bigfoot Barleywine Style Ale","Weihenstephaner Hefeweissbier",0.171839688944313
+"671","Sierra Nevada Bigfoot Barleywine Style Ale","Racer 5 India Pale Ale",0.233742201664549
+"672","Sierra Nevada Bigfoot Barleywine Style Ale","Orval Trappist Ale",0.101547395947662
+"673","Sierra Nevada Bigfoot Barleywine Style Ale","Tröegs Nugget Nectar",0.184569087574798
+"674","Sierra Nevada Bigfoot Barleywine Style Ale","Hop Rod Rye",0.301505564374375
+"675","Sierra Nevada Bigfoot Barleywine Style Ale","Founders KBS (Kentucky Breakfast Stout)",0.115493706308137
+"676","Sierra Nevada Bigfoot Barleywine Style Ale","Schneider Aventinus",0.117613904514872
+"677","Sierra Nevada Bigfoot Barleywine Style Ale","Samuel Adams Octoberfest",0.0673825381934669
+"678","Sierra Nevada Bigfoot Barleywine Style Ale","Hennepin (Farmhouse Saison)",0.213512802827208
+"679","Sierra Nevada Bigfoot Barleywine Style Ale","Prima Pils",0.220118039721574
+"680","Sierra Nevada Bigfoot Barleywine Style Ale","Punkin Ale",0.156870361888891
+"681","Sierra Nevada Bigfoot Barleywine Style Ale","Double Bastard Ale",0.222677490585991
+"682","Sierra Nevada Bigfoot Barleywine Style Ale","Samuel Adams Winter Lager",0.247855390200263
+"683","Sierra Nevada Bigfoot Barleywine Style Ale","Hop Wallop",0.255370089147169
+"684","Sierra Nevada Bigfoot Barleywine Style Ale","Oatmeal Stout",0.122576299812759
+"685","Sierra Nevada Bigfoot Barleywine Style Ale","Anchor Steam Beer",0.162845276500537
+"686","Sierra Nevada Bigfoot Barleywine Style Ale","120 Minute IPA",0.161600494034418
+"687","Pliny The Elder","90 Minute IPA",0.174064922631494
+"688","Pliny The Elder","India Pale Ale",0.0855357152351643
+"689","Pliny The Elder","Old Rasputin Russian Imperial Stout",0.20869141167153
+"690","Pliny The Elder","Sierra Nevada Celebration Ale",0.233020720096799
+"691","Pliny The Elder","Stone Ruination IPA",0.19515211571874
+"692","Pliny The Elder","Arrogant Bastard Ale",0.223091879582049
+"693","Pliny The Elder","Two Hearted Ale",0.193157889749217
+"694","Pliny The Elder","Stone IPA (India Pale Ale)",0.17380491815201
+"695","Pliny The Elder","Sierra Nevada Pale Ale",0.213925593445286
+"696","Pliny The Elder","La Fin Du Monde",0.214172292445113
+"697","Pliny The Elder","Pale Ale",0.131259864499832
+"698","Pliny The Elder","Duvel",0.169739994230614
+"699","Pliny The Elder","Founders Breakfast Stout",0.248176125420509
+"700","Pliny The Elder","Sierra Nevada Bigfoot Barleywine Style Ale",0.158265258669084
+"701","Pliny The Elder","60 Minute IPA",0.12469789989826
+"702","Pliny The Elder","Brooklyn Black Chocolate Stout",0.0745003325451959
+"703","Pliny The Elder","Storm King Stout",0.077487285099224
+"704","Pliny The Elder","Samuel Adams Boston Lager",0.100985933368198
+"705","Pliny The Elder","Bell's Hopslam Ale",0.20853737408145
+"706","Pliny The Elder","Stone Imperial Russian Stout",0.213298638231831
+"707","Pliny The Elder","Chocolate Stout",0.150016947878212
+"708","Pliny The Elder","Imperial Stout",0.171913946728605
+"709","Pliny The Elder","HopDevil Ale",0.159495156346653
+"710","Pliny The Elder","Dead Guy Ale",0.100745302289025
+"711","Pliny The Elder","St. Bernardus Abt 12",0.15238098388629
+"712","Pliny The Elder","Trappistes Rochefort 10",0.113749257510955
+"713","Pliny The Elder","Young's Double Chocolate Stout",0.0959221496381183
+"714","Pliny The Elder","Ayinger Celebrator Doppelbock",0.123169954007401
+"715","Pliny The Elder","Samuel Smith's Oatmeal Stout",0.131386087783199
+"716","Pliny The Elder","Chimay Grande Réserve (Blue)",0.142379050712691
+"717","Pliny The Elder","Sierra Nevada Torpedo Extra IPA",0.202972854370678
+"718","Pliny The Elder","Guinness Draught",-0.0845479403553036
+"719","Pliny The Elder","Weihenstephaner Hefeweissbier",0.160735087295137
+"720","Pliny The Elder","Racer 5 India Pale Ale",0.189977950542316
+"721","Pliny The Elder","Orval Trappist Ale",0.0387881910558976
+"722","Pliny The Elder","Tröegs Nugget Nectar",0.199650408803827
+"723","Pliny The Elder","Hop Rod Rye",0.176062420815952
+"724","Pliny The Elder","Founders KBS (Kentucky Breakfast Stout)",0.264172002827644
+"725","Pliny The Elder","Schneider Aventinus",0.169443506261081
+"726","Pliny The Elder","Samuel Adams Octoberfest",0.117487875087975
+"727","Pliny The Elder","Hennepin (Farmhouse Saison)",0.179148736944902
+"728","Pliny The Elder","Prima Pils",0.183939615355121
+"729","Pliny The Elder","Punkin Ale",0.205486813707396
+"730","Pliny The Elder","Double Bastard Ale",0.234879410200442
+"731","Pliny The Elder","Samuel Adams Winter Lager",0.0330774978607305
+"732","Pliny The Elder","Hop Wallop",0.178428776598402
+"733","Pliny The Elder","Oatmeal Stout",-0.0236514726234887
+"734","Pliny The Elder","Anchor Steam Beer",0.148593705672415
+"735","Pliny The Elder","120 Minute IPA",0.108728967838789
+"736","60 Minute IPA","90 Minute IPA",0.28235968885167
+"737","60 Minute IPA","India Pale Ale",0.0702838548244325
+"738","60 Minute IPA","Old Rasputin Russian Imperial Stout",0.0995838176088406
+"739","60 Minute IPA","Sierra Nevada Celebration Ale",0.215117999519232
+"740","60 Minute IPA","Stone Ruination IPA",0.18726453668771
+"741","60 Minute IPA","Arrogant Bastard Ale",0.209784363608727
+"742","60 Minute IPA","Two Hearted Ale",0.174878621515621
+"743","60 Minute IPA","Stone IPA (India Pale Ale)",0.26718724658065
+"744","60 Minute IPA","Sierra Nevada Pale Ale",0.251581002788112
+"745","60 Minute IPA","La Fin Du Monde",0.110276181671288
+"746","60 Minute IPA","Pale Ale",0.091538438460225
+"747","60 Minute IPA","Duvel",0.101643547869252
+"748","60 Minute IPA","Founders Breakfast Stout",0.20050726065859
+"749","60 Minute IPA","Sierra Nevada Bigfoot Barleywine Style Ale",0.169898454100658
+"750","60 Minute IPA","Pliny The Elder",0.12469789989826
+"751","60 Minute IPA","Brooklyn Black Chocolate Stout",0.127942433146312
+"752","60 Minute IPA","Storm King Stout",0.207832302015118
+"753","60 Minute IPA","Samuel Adams Boston Lager",0.203683956123019
+"754","60 Minute IPA","Bell's Hopslam Ale",0.105904667767165
+"755","60 Minute IPA","Stone Imperial Russian Stout",0.152166266451982
+"756","60 Minute IPA","Chocolate Stout",0.128789095038413
+"757","60 Minute IPA","Imperial Stout",0.183162478523438
+"758","60 Minute IPA","HopDevil Ale",0.18969527866116
+"759","60 Minute IPA","Dead Guy Ale",0.157419806454323
+"760","60 Minute IPA","St. Bernardus Abt 12",0.140173017964472
+"761","60 Minute IPA","Trappistes Rochefort 10",0.146163206311015
+"762","60 Minute IPA","Young's Double Chocolate Stout",0.10739650544093
+"763","60 Minute IPA","Ayinger Celebrator Doppelbock",0.150522592284814
+"764","60 Minute IPA","Samuel Smith's Oatmeal Stout",0.136227539128714
+"765","60 Minute IPA","Chimay Grande Réserve (Blue)",0.114616542253695
+"766","60 Minute IPA","Sierra Nevada Torpedo Extra IPA",0.194229034742608
+"767","60 Minute IPA","Guinness Draught",0.117136958451199
+"768","60 Minute IPA","Weihenstephaner Hefeweissbier",0.127205929223828
+"769","60 Minute IPA","Racer 5 India Pale Ale",0.129594548298032
+"770","60 Minute IPA","Orval Trappist Ale",0.111357703635
+"771","60 Minute IPA","Tröegs Nugget Nectar",0.197603881251609
+"772","60 Minute IPA","Hop Rod Rye",0.164211478814165
+"773","60 Minute IPA","Founders KBS (Kentucky Breakfast Stout)",0.104176509834935
+"774","60 Minute IPA","Schneider Aventinus",0.136527609258108
+"775","60 Minute IPA","Samuel Adams Octoberfest",0.0902276753107698
+"776","60 Minute IPA","Hennepin (Farmhouse Saison)",0.194826950137398
+"777","60 Minute IPA","Prima Pils",0.18158675446783
+"778","60 Minute IPA","Punkin Ale",0.239952916190646
+"779","60 Minute IPA","Double Bastard Ale",0.17348281010476
+"780","60 Minute IPA","Samuel Adams Winter Lager",0.161112433536375
+"781","60 Minute IPA","Hop Wallop",0.221716662291418
+"782","60 Minute IPA","Oatmeal Stout",0.154287081510652
+"783","60 Minute IPA","Anchor Steam Beer",0.192098920751196
+"784","60 Minute IPA","120 Minute IPA",0.145686364433827
+"785","Brooklyn Black Chocolate Stout","90 Minute IPA",0.129356360550681
+"786","Brooklyn Black Chocolate Stout","India Pale Ale",0.0576587775358607
+"787","Brooklyn Black Chocolate Stout","Old Rasputin Russian Imperial Stout",0.191527573986987
+"788","Brooklyn Black Chocolate Stout","Sierra Nevada Celebration Ale",0.0979113651645444
+"789","Brooklyn Black Chocolate Stout","Stone Ruination IPA",0.165286120633258
+"790","Brooklyn Black Chocolate Stout","Arrogant Bastard Ale",0.148326176315556
+"791","Brooklyn Black Chocolate Stout","Two Hearted Ale",0.073426108262957
+"792","Brooklyn Black Chocolate Stout","Stone IPA (India Pale Ale)",0.142106752651001
+"793","Brooklyn Black Chocolate Stout","Sierra Nevada Pale Ale",0.12283249924729
+"794","Brooklyn Black Chocolate Stout","La Fin Du Monde",0.151292312040104
+"795","Brooklyn Black Chocolate Stout","Pale Ale",0.0633205934451562
+"796","Brooklyn Black Chocolate Stout","Duvel",0.143185963896891
+"797","Brooklyn Black Chocolate Stout","Founders Breakfast Stout",0.178865209936164
+"798","Brooklyn Black Chocolate Stout","Sierra Nevada Bigfoot Barleywine Style Ale",0.212501167938604
+"799","Brooklyn Black Chocolate Stout","Pliny The Elder",0.0745003325451959
+"800","Brooklyn Black Chocolate Stout","60 Minute IPA",0.127942433146312
+"801","Brooklyn Black Chocolate Stout","Storm King Stout",0.227346747111947
+"802","Brooklyn Black Chocolate Stout","Samuel Adams Boston Lager",0.117107946065545
+"803","Brooklyn Black Chocolate Stout","Bell's Hopslam Ale",0.100502021731552
+"804","Brooklyn Black Chocolate Stout","Stone Imperial Russian Stout",0.260809520958353
+"805","Brooklyn Black Chocolate Stout","Chocolate Stout",0.201562293040848
+"806","Brooklyn Black Chocolate Stout","Imperial Stout",0.203057589452512
+"807","Brooklyn Black Chocolate Stout","HopDevil Ale",0.179359739817256
+"808","Brooklyn Black Chocolate Stout","Dead Guy Ale",0.0832580313006562
+"809","Brooklyn Black Chocolate Stout","St. Bernardus Abt 12",0.174562782798225
+"810","Brooklyn Black Chocolate Stout","Trappistes Rochefort 10",0.152279986597622
+"811","Brooklyn Black Chocolate Stout","Young's Double Chocolate Stout",0.165699862703175
+"812","Brooklyn Black Chocolate Stout","Ayinger Celebrator Doppelbock",0.148570695694641
+"813","Brooklyn Black Chocolate Stout","Samuel Smith's Oatmeal Stout",0.153477964816584
+"814","Brooklyn Black Chocolate Stout","Chimay Grande Réserve (Blue)",0.155998629890076
+"815","Brooklyn Black Chocolate Stout","Sierra Nevada Torpedo Extra IPA",0.0862580067282322
+"816","Brooklyn Black Chocolate Stout","Guinness Draught",0.0693644129494013
+"817","Brooklyn Black Chocolate Stout","Weihenstephaner Hefeweissbier",0.0799600292457956
+"818","Brooklyn Black Chocolate Stout","Racer 5 India Pale Ale",0.176036559570458
+"819","Brooklyn Black Chocolate Stout","Orval Trappist Ale",0.0689465558383878
+"820","Brooklyn Black Chocolate Stout","Tröegs Nugget Nectar",0.134273219399049
+"821","Brooklyn Black Chocolate Stout","Hop Rod Rye",0.106764408911549
+"822","Brooklyn Black Chocolate Stout","Founders KBS (Kentucky Breakfast Stout)",0.175836884637476
+"823","Brooklyn Black Chocolate Stout","Schneider Aventinus",0.14501867619422
+"824","Brooklyn Black Chocolate Stout","Samuel Adams Octoberfest",0.0570324018756355
+"825","Brooklyn Black Chocolate Stout","Hennepin (Farmhouse Saison)",0.172264166291062
+"826","Brooklyn Black Chocolate Stout","Prima Pils",0.115608522156415
+"827","Brooklyn Black Chocolate Stout","Punkin Ale",0.184059549024909
+"828","Brooklyn Black Chocolate Stout","Double Bastard Ale",0.157654756968084
+"829","Brooklyn Black Chocolate Stout","Samuel Adams Winter Lager",0.173990331735829
+"830","Brooklyn Black Chocolate Stout","Hop Wallop",0.123750545447104
+"831","Brooklyn Black Chocolate Stout","Oatmeal Stout",0.111321927304979
+"832","Brooklyn Black Chocolate Stout","Anchor Steam Beer",0.114702478303558
+"833","Brooklyn Black Chocolate Stout","120 Minute IPA",0.0862137666934841
+"834","Storm King Stout","90 Minute IPA",0.186592809394886
+"835","Storm King Stout","India Pale Ale",0.0589275240043574
+"836","Storm King Stout","Old Rasputin Russian Imperial Stout",0.227924690455457
+"837","Storm King Stout","Sierra Nevada Celebration Ale",0.199930372285929
+"838","Storm King Stout","Stone Ruination IPA",0.244547308053256
+"839","Storm King Stout","Arrogant Bastard Ale",0.253488741783678
+"840","Storm King Stout","Two Hearted Ale",0.222838534856697
+"841","Storm King Stout","Stone IPA (India Pale Ale)",0.202656848502583
+"842","Storm King Stout","Sierra Nevada Pale Ale",0.183496671495004
+"843","Storm King Stout","La Fin Du Monde",0.146326406972543
+"844","Storm King Stout","Pale Ale",0.046126939639749
+"845","Storm King Stout","Duvel",0.122910102846435
+"846","Storm King Stout","Founders Breakfast Stout",0.190110305987358
+"847","Storm King Stout","Sierra Nevada Bigfoot Barleywine Style Ale",0.238100765293697
+"848","Storm King Stout","Pliny The Elder",0.077487285099224
+"849","Storm King Stout","60 Minute IPA",0.207832302015118
+"850","Storm King Stout","Brooklyn Black Chocolate Stout",0.227346747111947
+"851","Storm King Stout","Samuel Adams Boston Lager",0.146996399633205
+"852","Storm King Stout","Bell's Hopslam Ale",0.113573792931441
+"853","Storm King Stout","Stone Imperial Russian Stout",0.268545683013294
+"854","Storm King Stout","Chocolate Stout",0.283821269118831
+"855","Storm King Stout","Imperial Stout",0.284384270444971
+"856","Storm King Stout","HopDevil Ale",0.347691843903901
+"857","Storm King Stout","Dead Guy Ale",0.165263564172107
+"858","Storm King Stout","St. Bernardus Abt 12",0.237717936156683
+"859","Storm King Stout","Trappistes Rochefort 10",0.21906799072489
+"860","Storm King Stout","Young's Double Chocolate Stout",0.159010809407551
+"861","Storm King Stout","Ayinger Celebrator Doppelbock",0.21634465765646
+"862","Storm King Stout","Samuel Smith's Oatmeal Stout",0.199899006765904
+"863","Storm King Stout","Chimay Grande Réserve (Blue)",0.132765936632962
+"864","Storm King Stout","Sierra Nevada Torpedo Extra IPA",0.115666944820058
+"865","Storm King Stout","Guinness Draught",0.0429705738316544
+"866","Storm King Stout","Weihenstephaner Hefeweissbier",0.0672144314125482
+"867","Storm King Stout","Racer 5 India Pale Ale",0.247184272623016
+"868","Storm King Stout","Orval Trappist Ale",0.0633936292020509
+"869","Storm King Stout","Tröegs Nugget Nectar",0.17622210520802
+"870","Storm King Stout","Hop Rod Rye",0.263097640082816
+"871","Storm King Stout","Founders KBS (Kentucky Breakfast Stout)",0.16368966545623
+"872","Storm King Stout","Schneider Aventinus",0.16608996610709
+"873","Storm King Stout","Samuel Adams Octoberfest",0.0562764968435453
+"874","Storm King Stout","Hennepin (Farmhouse Saison)",0.251758493038064
+"875","Storm King Stout","Prima Pils",0.245157820670625
+"876","Storm King Stout","Punkin Ale",0.126868826073663
+"877","Storm King Stout","Double Bastard Ale",0.195005001310414
+"878","Storm King Stout","Samuel Adams Winter Lager",0.230837325067696
+"879","Storm King Stout","Hop Wallop",0.253716504237708
+"880","Storm King Stout","Oatmeal Stout",0.131754689058149
+"881","Storm King Stout","Anchor Steam Beer",0.0641089010499823
+"882","Storm King Stout","120 Minute IPA",0.111814630499977
+"883","Samuel Adams Boston Lager","90 Minute IPA",0.0920548196921366
+"884","Samuel Adams Boston Lager","India Pale Ale",0.0549469023128304
+"885","Samuel Adams Boston Lager","Old Rasputin Russian Imperial Stout",0.166391874653847
+"886","Samuel Adams Boston Lager","Sierra Nevada Celebration Ale",0.220311867632329
+"887","Samuel Adams Boston Lager","Stone Ruination IPA",0.0952853609754713
+"888","Samuel Adams Boston Lager","Arrogant Bastard Ale",0.211664523280219
+"889","Samuel Adams Boston Lager","Two Hearted Ale",0.140748260239705
+"890","Samuel Adams Boston Lager","Stone IPA (India Pale Ale)",0.129524537523312
+"891","Samuel Adams Boston Lager","Sierra Nevada Pale Ale",0.273004151759582
+"892","Samuel Adams Boston Lager","La Fin Du Monde",0.163591034527562
+"893","Samuel Adams Boston Lager","Pale Ale",0.0932928303162644
+"894","Samuel Adams Boston Lager","Duvel",0.172164813175563
+"895","Samuel Adams Boston Lager","Founders Breakfast Stout",0.159693603246616
+"896","Samuel Adams Boston Lager","Sierra Nevada Bigfoot Barleywine Style Ale",0.223766736979751
+"897","Samuel Adams Boston Lager","Pliny The Elder",0.100985933368198
+"898","Samuel Adams Boston Lager","60 Minute IPA",0.203683956123019
+"899","Samuel Adams Boston Lager","Brooklyn Black Chocolate Stout",0.117107946065545
+"900","Samuel Adams Boston Lager","Storm King Stout",0.146996399633205
+"901","Samuel Adams Boston Lager","Bell's Hopslam Ale",0.11328374851629
+"902","Samuel Adams Boston Lager","Stone Imperial Russian Stout",0.0525440538183509
+"903","Samuel Adams Boston Lager","Chocolate Stout",0.205580782020488
+"904","Samuel Adams Boston Lager","Imperial Stout",0.0900069323570299
+"905","Samuel Adams Boston Lager","HopDevil Ale",0.114066193017587
+"906","Samuel Adams Boston Lager","Dead Guy Ale",0.221337928205304
+"907","Samuel Adams Boston Lager","St. Bernardus Abt 12",0.119713187732556
+"908","Samuel Adams Boston Lager","Trappistes Rochefort 10",0.0727371444936291
+"909","Samuel Adams Boston Lager","Young's Double Chocolate Stout",0.101623257154093
+"910","Samuel Adams Boston Lager","Ayinger Celebrator Doppelbock",0.151360904939986
+"911","Samuel Adams Boston Lager","Samuel Smith's Oatmeal Stout",0.196333325823289
+"912","Samuel Adams Boston Lager","Chimay Grande Réserve (Blue)",0.132569367563983
+"913","Samuel Adams Boston Lager","Sierra Nevada Torpedo Extra IPA",0.187771271403733
+"914","Samuel Adams Boston Lager","Guinness Draught",0.0871398972213703
+"915","Samuel Adams Boston Lager","Weihenstephaner Hefeweissbier",0.27202011016887
+"916","Samuel Adams Boston Lager","Racer 5 India Pale Ale",0.121791265062237
+"917","Samuel Adams Boston Lager","Orval Trappist Ale",0.115659784828701
+"918","Samuel Adams Boston Lager","Tröegs Nugget Nectar",0.171978332396895
+"919","Samuel Adams Boston Lager","Hop Rod Rye",0.157224674192686
+"920","Samuel Adams Boston Lager","Founders KBS (Kentucky Breakfast Stout)",0.0532326812244487
+"921","Samuel Adams Boston Lager","Schneider Aventinus",0.101298508629924
+"922","Samuel Adams Boston Lager","Samuel Adams Octoberfest",0.302252764753189
+"923","Samuel Adams Boston Lager","Hennepin (Farmhouse Saison)",0.168028602566691
+"924","Samuel Adams Boston Lager","Prima Pils",0.23338053932185
+"925","Samuel Adams Boston Lager","Punkin Ale",0.21108630142805
+"926","Samuel Adams Boston Lager","Double Bastard Ale",0.0550530732800312
+"927","Samuel Adams Boston Lager","Samuel Adams Winter Lager",0.278337792051318
+"928","Samuel Adams Boston Lager","Hop Wallop",0.151709935417697
+"929","Samuel Adams Boston Lager","Oatmeal Stout",0.0900881780105173
+"930","Samuel Adams Boston Lager","Anchor Steam Beer",0.258056726526234
+"931","Samuel Adams Boston Lager","120 Minute IPA",0.0423343354361663
+"932","Bell's Hopslam Ale","90 Minute IPA",0.158473092012424
+"933","Bell's Hopslam Ale","India Pale Ale",0.102831471652523
+"934","Bell's Hopslam Ale","Old Rasputin Russian Imperial Stout",0.17078998232882
+"935","Bell's Hopslam Ale","Sierra Nevada Celebration Ale",0.1200595077935
+"936","Bell's Hopslam Ale","Stone Ruination IPA",0.131663512393799
+"937","Bell's Hopslam Ale","Arrogant Bastard Ale",0.130903958631913
+"938","Bell's Hopslam Ale","Two Hearted Ale",0.254901244520913
+"939","Bell's Hopslam Ale","Stone IPA (India Pale Ale)",0.0869465892145333
+"940","Bell's Hopslam Ale","Sierra Nevada Pale Ale",0.0103488979915518
+"941","Bell's Hopslam Ale","La Fin Du Monde",0.140785591807644
+"942","Bell's Hopslam Ale","Pale Ale",0.0698879333983954
+"943","Bell's Hopslam Ale","Duvel",0.155367343007331
+"944","Bell's Hopslam Ale","Founders Breakfast Stout",0.180300390252636
+"945","Bell's Hopslam Ale","Sierra Nevada Bigfoot Barleywine Style Ale",0.114734215420755
+"946","Bell's Hopslam Ale","Pliny The Elder",0.20853737408145
+"947","Bell's Hopslam Ale","60 Minute IPA",0.105904667767165
+"948","Bell's Hopslam Ale","Brooklyn Black Chocolate Stout",0.100502021731552
+"949","Bell's Hopslam Ale","Storm King Stout",0.113573792931441
+"950","Bell's Hopslam Ale","Samuel Adams Boston Lager",0.11328374851629
+"951","Bell's Hopslam Ale","Stone Imperial Russian Stout",0.166321279626423
+"952","Bell's Hopslam Ale","Chocolate Stout",0.133646578782868
+"953","Bell's Hopslam Ale","Imperial Stout",0.108943447649184
+"954","Bell's Hopslam Ale","HopDevil Ale",0.0521697887235911
+"955","Bell's Hopslam Ale","Dead Guy Ale",0.109157518044614
+"956","Bell's Hopslam Ale","St. Bernardus Abt 12",0.180547507559521
+"957","Bell's Hopslam Ale","Trappistes Rochefort 10",0.0825707252947824
+"958","Bell's Hopslam Ale","Young's Double Chocolate Stout",0.0462703619556686
+"959","Bell's Hopslam Ale","Ayinger Celebrator Doppelbock",0.108449945608218
+"960","Bell's Hopslam Ale","Samuel Smith's Oatmeal Stout",0.197044658026478
+"961","Bell's Hopslam Ale","Chimay Grande Réserve (Blue)",0.0956552454211516
+"962","Bell's Hopslam Ale","Sierra Nevada Torpedo Extra IPA",0.112165322633783
+"963","Bell's Hopslam Ale","Guinness Draught",-0.0137003689059566
+"964","Bell's Hopslam Ale","Weihenstephaner Hefeweissbier",0.116368160207642
+"965","Bell's Hopslam Ale","Racer 5 India Pale Ale",0.124271700529555
+"966","Bell's Hopslam Ale","Orval Trappist Ale",0.0277599189943506
+"967","Bell's Hopslam Ale","Tröegs Nugget Nectar",0.183327172285679
+"968","Bell's Hopslam Ale","Hop Rod Rye",0.129033666199147
+"969","Bell's Hopslam Ale","Founders KBS (Kentucky Breakfast Stout)",0.187917897470851
+"970","Bell's Hopslam Ale","Schneider Aventinus",0.124879341961226
+"971","Bell's Hopslam Ale","Samuel Adams Octoberfest",0.0616611963131726
+"972","Bell's Hopslam Ale","Hennepin (Farmhouse Saison)",0.162182741864595
+"973","Bell's Hopslam Ale","Prima Pils",0.0973794515788544
+"974","Bell's Hopslam Ale","Punkin Ale",0.157690917994427
+"975","Bell's Hopslam Ale","Double Bastard Ale",0.111742589130241
+"976","Bell's Hopslam Ale","Samuel Adams Winter Lager",0.119175144789598
+"977","Bell's Hopslam Ale","Hop Wallop",0.0421735661162898
+"978","Bell's Hopslam Ale","Oatmeal Stout",0.0486987195921332
+"979","Bell's Hopslam Ale","Anchor Steam Beer",0.107527323815338
+"980","Bell's Hopslam Ale","120 Minute IPA",0.0915733879286176
+"981","Stone Imperial Russian Stout","90 Minute IPA",0.173330427356532
+"982","Stone Imperial Russian Stout","India Pale Ale",0.0180981688907026
+"983","Stone Imperial Russian Stout","Old Rasputin Russian Imperial Stout",0.247643126266737
+"984","Stone Imperial Russian Stout","Sierra Nevada Celebration Ale",0.139280036967011
+"985","Stone Imperial Russian Stout","Stone Ruination IPA",0.274472426307208
+"986","Stone Imperial Russian Stout","Arrogant Bastard Ale",0.260534139303469
+"987","Stone Imperial Russian Stout","Two Hearted Ale",0.207395677088333
+"988","Stone Imperial Russian Stout","Stone IPA (India Pale Ale)",0.285503625307042
+"989","Stone Imperial Russian Stout","Sierra Nevada Pale Ale",0.138486591754085
+"990","Stone Imperial Russian Stout","La Fin Du Monde",0.148092193795623
+"991","Stone Imperial Russian Stout","Pale Ale",0.0130554232411548
+"992","Stone Imperial Russian Stout","Duvel",0.157010916334622
+"993","Stone Imperial Russian Stout","Founders Breakfast Stout",0.275702779976697
+"994","Stone Imperial Russian Stout","Sierra Nevada Bigfoot Barleywine Style Ale",0.219097816873024
+"995","Stone Imperial Russian Stout","Pliny The Elder",0.213298638231831
+"996","Stone Imperial Russian Stout","60 Minute IPA",0.152166266451982
+"997","Stone Imperial Russian Stout","Brooklyn Black Chocolate Stout",0.260809520958353
+"998","Stone Imperial Russian Stout","Storm King Stout",0.268545683013294
+"999","Stone Imperial Russian Stout","Samuel Adams Boston Lager",0.0525440538183509
+"1000","Stone Imperial Russian Stout","Bell's Hopslam Ale",0.166321279626423
+"1001","Stone Imperial Russian Stout","Chocolate Stout",0.199558441844332
+"1002","Stone Imperial Russian Stout","Imperial Stout",0.196437692471939
+"1003","Stone Imperial Russian Stout","HopDevil Ale",0.213240400507617
+"1004","Stone Imperial Russian Stout","Dead Guy Ale",0.261892428798859
+"1005","Stone Imperial Russian Stout","St. Bernardus Abt 12",0.25928892910427
+"1006","Stone Imperial Russian Stout","Trappistes Rochefort 10",0.215278903137438
+"1007","Stone Imperial Russian Stout","Young's Double Chocolate Stout",0.119106623394847
+"1008","Stone Imperial Russian Stout","Ayinger Celebrator Doppelbock",0.207503176243319
+"1009","Stone Imperial Russian Stout","Samuel Smith's Oatmeal Stout",0.0974139161250129
+"1010","Stone Imperial Russian Stout","Chimay Grande Réserve (Blue)",0.113734983358341
+"1011","Stone Imperial Russian Stout","Sierra Nevada Torpedo Extra IPA",0.215589413404912
+"1012","Stone Imperial Russian Stout","Guinness Draught",0.0558711303132481
+"1013","Stone Imperial Russian Stout","Weihenstephaner Hefeweissbier",0.0644507281907919
+"1014","Stone Imperial Russian Stout","Racer 5 India Pale Ale",0.252166123252341
+"1015","Stone Imperial Russian Stout","Orval Trappist Ale",0.0909884038744912
+"1016","Stone Imperial Russian Stout","Tröegs Nugget Nectar",0.149414590109403
+"1017","Stone Imperial Russian Stout","Hop Rod Rye",0.204336916812922
+"1018","Stone Imperial Russian Stout","Founders KBS (Kentucky Breakfast Stout)",0.212935978290989
+"1019","Stone Imperial Russian Stout","Schneider Aventinus",0.0796754439336563
+"1020","Stone Imperial Russian Stout","Samuel Adams Octoberfest",0.0402513398010112
+"1021","Stone Imperial Russian Stout","Hennepin (Farmhouse Saison)",0.144466024273915
+"1022","Stone Imperial Russian Stout","Prima Pils",0.0624923616533302
+"1023","Stone Imperial Russian Stout","Punkin Ale",0.178903691769229
+"1024","Stone Imperial Russian Stout","Double Bastard Ale",0.278901044342685
+"1025","Stone Imperial Russian Stout","Samuel Adams Winter Lager",0.145894698061845
+"1026","Stone Imperial Russian Stout","Hop Wallop",0.152688664384036
+"1027","Stone Imperial Russian Stout","Oatmeal Stout",0.0568164842205922
+"1028","Stone Imperial Russian Stout","Anchor Steam Beer",0.139327880482923
+"1029","Stone Imperial Russian Stout","120 Minute IPA",0.143879761674573
+"1030","Chocolate Stout","90 Minute IPA",0.15556981762889
+"1031","Chocolate Stout","India Pale Ale",0.0894620596043379
+"1032","Chocolate Stout","Old Rasputin Russian Imperial Stout",0.197561827147948
+"1033","Chocolate Stout","Sierra Nevada Celebration Ale",0.163042128094958
+"1034","Chocolate Stout","Stone Ruination IPA",0.159425761924852
+"1035","Chocolate Stout","Arrogant Bastard Ale",0.221461493078418
+"1036","Chocolate Stout","Two Hearted Ale",0.231883280502902
+"1037","Chocolate Stout","Stone IPA (India Pale Ale)",0.219341539948628
+"1038","Chocolate Stout","Sierra Nevada Pale Ale",0.177742835658087
+"1039","Chocolate Stout","La Fin Du Monde",0.176713680585756
+"1040","Chocolate Stout","Pale Ale",0.0405167711555879
+"1041","Chocolate Stout","Duvel",0.162265182869012
+"1042","Chocolate Stout","Founders Breakfast Stout",0.189677179737725
+"1043","Chocolate Stout","Sierra Nevada Bigfoot Barleywine Style Ale",0.203377269868895
+"1044","Chocolate Stout","Pliny The Elder",0.150016947878212
+"1045","Chocolate Stout","60 Minute IPA",0.128789095038413
+"1046","Chocolate Stout","Brooklyn Black Chocolate Stout",0.201562293040848
+"1047","Chocolate Stout","Storm King Stout",0.283821269118831
+"1048","Chocolate Stout","Samuel Adams Boston Lager",0.205580782020488
+"1049","Chocolate Stout","Bell's Hopslam Ale",0.133646578782868
+"1050","Chocolate Stout","Stone Imperial Russian Stout",0.199558441844332
+"1051","Chocolate Stout","Imperial Stout",0.2473301683198
+"1052","Chocolate Stout","HopDevil Ale",0.265282586581492
+"1053","Chocolate Stout","Dead Guy Ale",0.162526755754583
+"1054","Chocolate Stout","St. Bernardus Abt 12",0.14622334287898
+"1055","Chocolate Stout","Trappistes Rochefort 10",0.158425932436293
+"1056","Chocolate Stout","Young's Double Chocolate Stout",0.198215695477369
+"1057","Chocolate Stout","Ayinger Celebrator Doppelbock",0.209937295705221
+"1058","Chocolate Stout","Samuel Smith's Oatmeal Stout",0.146087790722898
+"1059","Chocolate Stout","Chimay Grande Réserve (Blue)",0.166164613172559
+"1060","Chocolate Stout","Sierra Nevada Torpedo Extra IPA",0.121894775199873
+"1061","Chocolate Stout","Guinness Draught",0.0351658460689651
+"1062","Chocolate Stout","Weihenstephaner Hefeweissbier",0.129365776022359
+"1063","Chocolate Stout","Racer 5 India Pale Ale",0.19324368152303
+"1064","Chocolate Stout","Orval Trappist Ale",0.0901130832580013
+"1065","Chocolate Stout","Tröegs Nugget Nectar",0.117712417706478
+"1066","Chocolate Stout","Hop Rod Rye",0.260015702360333
+"1067","Chocolate Stout","Founders KBS (Kentucky Breakfast Stout)",0.16512559060758
+"1068","Chocolate Stout","Schneider Aventinus",0.183576218117626
+"1069","Chocolate Stout","Samuel Adams Octoberfest",0.0427706878908764
+"1070","Chocolate Stout","Hennepin (Farmhouse Saison)",0.24616630986417
+"1071","Chocolate Stout","Prima Pils",0.227402738250718
+"1072","Chocolate Stout","Punkin Ale",0.122323512501276
+"1073","Chocolate Stout","Double Bastard Ale",0.199407809277422
+"1074","Chocolate Stout","Samuel Adams Winter Lager",0.150565740891733
+"1075","Chocolate Stout","Hop Wallop",0.21458492567278
+"1076","Chocolate Stout","Oatmeal Stout",0.112594348471821
+"1077","Chocolate Stout","Anchor Steam Beer",0.101040738479598
+"1078","Chocolate Stout","120 Minute IPA",0.100745418494985
+"1079","Imperial Stout","90 Minute IPA",0.166070172562301
+"1080","Imperial Stout","India Pale Ale",0.115347944124043
+"1081","Imperial Stout","Old Rasputin Russian Imperial Stout",0.143521418857279
+"1082","Imperial Stout","Sierra Nevada Celebration Ale",0.165885059374967
+"1083","Imperial Stout","Stone Ruination IPA",0.21689466826283
+"1084","Imperial Stout","Arrogant Bastard Ale",0.243603809624875
+"1085","Imperial Stout","Two Hearted Ale",0.2400945367676
+"1086","Imperial Stout","Stone IPA (India Pale Ale)",0.173642546332285
+"1087","Imperial Stout","Sierra Nevada Pale Ale",0.136887828178905
+"1088","Imperial Stout","La Fin Du Monde",0.136961551614719
+"1089","Imperial Stout","Pale Ale",0.0466962395681682
+"1090","Imperial Stout","Duvel",0.112512890308729
+"1091","Imperial Stout","Founders Breakfast Stout",0.162701186478959
+"1092","Imperial Stout","Sierra Nevada Bigfoot Barleywine Style Ale",0.221334691962345
+"1093","Imperial Stout","Pliny The Elder",0.171913946728605
+"1094","Imperial Stout","60 Minute IPA",0.183162478523438
+"1095","Imperial Stout","Brooklyn Black Chocolate Stout",0.203057589452512
+"1096","Imperial Stout","Storm King Stout",0.284384270444971
+"1097","Imperial Stout","Samuel Adams Boston Lager",0.0900069323570299
+"1098","Imperial Stout","Bell's Hopslam Ale",0.108943447649184
+"1099","Imperial Stout","Stone Imperial Russian Stout",0.196437692471939
+"1100","Imperial Stout","Chocolate Stout",0.2473301683198
+"1101","Imperial Stout","HopDevil Ale",0.239845088242
+"1102","Imperial Stout","Dead Guy Ale",0.227885919160668
+"1103","Imperial Stout","St. Bernardus Abt 12",0.191333508773443
+"1104","Imperial Stout","Trappistes Rochefort 10",0.120176803294435
+"1105","Imperial Stout","Young's Double Chocolate Stout",0.138183681029312
+"1106","Imperial Stout","Ayinger Celebrator Doppelbock",0.154892315442096
+"1107","Imperial Stout","Samuel Smith's Oatmeal Stout",0.0961846997920814
+"1108","Imperial Stout","Chimay Grande Réserve (Blue)",0.00826602116384676
+"1109","Imperial Stout","Sierra Nevada Torpedo Extra IPA",0.0905855519262873
+"1110","Imperial Stout","Guinness Draught",0.0784126932254375
+"1111","Imperial Stout","Weihenstephaner Hefeweissbier",0.0492678687973256
+"1112","Imperial Stout","Racer 5 India Pale Ale",0.242736240275958
+"1113","Imperial Stout","Orval Trappist Ale",0.0234990876177893
+"1114","Imperial Stout","Tröegs Nugget Nectar",0.140698332807762
+"1115","Imperial Stout","Hop Rod Rye",0.236523026595511
+"1116","Imperial Stout","Founders KBS (Kentucky Breakfast Stout)",0.170618005389813
+"1117","Imperial Stout","Schneider Aventinus",0.118781789144716
+"1118","Imperial Stout","Samuel Adams Octoberfest",0.00751343166965145
+"1119","Imperial Stout","Hennepin (Farmhouse Saison)",0.136789700217727
+"1120","Imperial Stout","Prima Pils",0.184030254615814
+"1121","Imperial Stout","Punkin Ale",0.0730336688572803
+"1122","Imperial Stout","Double Bastard Ale",0.257798333456086
+"1123","Imperial Stout","Samuel Adams Winter Lager",0.193826705815479
+"1124","Imperial Stout","Hop Wallop",0.120759853722389
+"1125","Imperial Stout","Oatmeal Stout",0.144818243026099
+"1126","Imperial Stout","Anchor Steam Beer",0.0958661826583354
+"1127","Imperial Stout","120 Minute IPA",0.138373226738677
+"1128","HopDevil Ale","90 Minute IPA",0.194034759501657
+"1129","HopDevil Ale","India Pale Ale",0.127153592989259
+"1130","HopDevil Ale","Old Rasputin Russian Imperial Stout",0.20334293914739
+"1131","HopDevil Ale","Sierra Nevada Celebration Ale",0.299042714649422
+"1132","HopDevil Ale","Stone Ruination IPA",0.254186044437969
+"1133","HopDevil Ale","Arrogant Bastard Ale",0.288703412488568
+"1134","HopDevil Ale","Two Hearted Ale",0.140171900826742
+"1135","HopDevil Ale","Stone IPA (India Pale Ale)",0.249995964512997
+"1136","HopDevil Ale","Sierra Nevada Pale Ale",0.186170148719131
+"1137","HopDevil Ale","La Fin Du Monde",0.1440751653348
+"1138","HopDevil Ale","Pale Ale",0.073159574836612
+"1139","HopDevil Ale","Duvel",0.159818654542862
+"1140","HopDevil Ale","Founders Breakfast Stout",0.161868810376773
+"1141","HopDevil Ale","Sierra Nevada Bigfoot Barleywine Style Ale",0.242870804058571
+"1142","HopDevil Ale","Pliny The Elder",0.159495156346653
+"1143","HopDevil Ale","60 Minute IPA",0.18969527866116
+"1144","HopDevil Ale","Brooklyn Black Chocolate Stout",0.179359739817256
+"1145","HopDevil Ale","Storm King Stout",0.347691843903901
+"1146","HopDevil Ale","Samuel Adams Boston Lager",0.114066193017587
+"1147","HopDevil Ale","Bell's Hopslam Ale",0.0521697887235911
+"1148","HopDevil Ale","Stone Imperial Russian Stout",0.213240400507617
+"1149","HopDevil Ale","Chocolate Stout",0.265282586581492
+"1150","HopDevil Ale","Imperial Stout",0.239845088242
+"1151","HopDevil Ale","Dead Guy Ale",0.235028536375261
+"1152","HopDevil Ale","St. Bernardus Abt 12",0.195139513898292
+"1153","HopDevil Ale","Trappistes Rochefort 10",0.17524024736079
+"1154","HopDevil Ale","Young's Double Chocolate Stout",0.188341280380376
+"1155","HopDevil Ale","Ayinger Celebrator Doppelbock",0.223108724963868
+"1156","HopDevil Ale","Samuel Smith's Oatmeal Stout",0.134133869403569
+"1157","HopDevil Ale","Chimay Grande Réserve (Blue)",0.170720507513854
+"1158","HopDevil Ale","Sierra Nevada Torpedo Extra IPA",0.21215642214679
+"1159","HopDevil Ale","Guinness Draught",0.114544737258861
+"1160","HopDevil Ale","Weihenstephaner Hefeweissbier",0.147428171207678
+"1161","HopDevil Ale","Racer 5 India Pale Ale",0.215356303846945
+"1162","HopDevil Ale","Orval Trappist Ale",0.120121107664832
+"1163","HopDevil Ale","Tröegs Nugget Nectar",0.234667758645425
+"1164","HopDevil Ale","Hop Rod Rye",0.236244442878924
+"1165","HopDevil Ale","Founders KBS (Kentucky Breakfast Stout)",0.148337861677217
+"1166","HopDevil Ale","Schneider Aventinus",0.182953941658185
+"1167","HopDevil Ale","Samuel Adams Octoberfest",0.0505001709205103
+"1168","HopDevil Ale","Hennepin (Farmhouse Saison)",0.242481191188385
+"1169","HopDevil Ale","Prima Pils",0.346634152638943
+"1170","HopDevil Ale","Punkin Ale",0.198492125851066
+"1171","HopDevil Ale","Double Bastard Ale",0.20725504481731
+"1172","HopDevil Ale","Samuel Adams Winter Lager",0.200607471568709
+"1173","HopDevil Ale","Hop Wallop",0.278538129231266
+"1174","HopDevil Ale","Oatmeal Stout",0.0706417143800643
+"1175","HopDevil Ale","Anchor Steam Beer",0.113117105066251
+"1176","HopDevil Ale","120 Minute IPA",0.101602061402442
+"1177","Dead Guy Ale","90 Minute IPA",0.159619975352943
+"1178","Dead Guy Ale","India Pale Ale",0.0557952566806587
+"1179","Dead Guy Ale","Old Rasputin Russian Imperial Stout",0.224813943331281
+"1180","Dead Guy Ale","Sierra Nevada Celebration Ale",0.178249963535776
+"1181","Dead Guy Ale","Stone Ruination IPA",0.145283654089622
+"1182","Dead Guy Ale","Arrogant Bastard Ale",0.205267356018136
+"1183","Dead Guy Ale","Two Hearted Ale",0.141654963802346
+"1184","Dead Guy Ale","Stone IPA (India Pale Ale)",0.188562483072471
+"1185","Dead Guy Ale","Sierra Nevada Pale Ale",0.210329658917093
+"1186","Dead Guy Ale","La Fin Du Monde",0.190196346462151
+"1187","Dead Guy Ale","Pale Ale",0.185269131989846
+"1188","Dead Guy Ale","Duvel",0.191493518794611
+"1189","Dead Guy Ale","Founders Breakfast Stout",0.168634837589852
+"1190","Dead Guy Ale","Sierra Nevada Bigfoot Barleywine Style Ale",0.175666504286043
+"1191","Dead Guy Ale","Pliny The Elder",0.100745302289025
+"1192","Dead Guy Ale","60 Minute IPA",0.157419806454323
+"1193","Dead Guy Ale","Brooklyn Black Chocolate Stout",0.0832580313006562
+"1194","Dead Guy Ale","Storm King Stout",0.165263564172107
+"1195","Dead Guy Ale","Samuel Adams Boston Lager",0.221337928205304
+"1196","Dead Guy Ale","Bell's Hopslam Ale",0.109157518044614
+"1197","Dead Guy Ale","Stone Imperial Russian Stout",0.261892428798859
+"1198","Dead Guy Ale","Chocolate Stout",0.162526755754583
+"1199","Dead Guy Ale","Imperial Stout",0.227885919160668
+"1200","Dead Guy Ale","HopDevil Ale",0.235028536375261
+"1201","Dead Guy Ale","St. Bernardus Abt 12",0.206395363868013
+"1202","Dead Guy Ale","Trappistes Rochefort 10",0.140201250704499
+"1203","Dead Guy Ale","Young's Double Chocolate Stout",0.105738777990503
+"1204","Dead Guy Ale","Ayinger Celebrator Doppelbock",0.223198495034087
+"1205","Dead Guy Ale","Samuel Smith's Oatmeal Stout",0.166323004243845
+"1206","Dead Guy Ale","Chimay Grande Réserve (Blue)",0.191621822292475
+"1207","Dead Guy Ale","Sierra Nevada Torpedo Extra IPA",0.207042017926488
+"1208","Dead Guy Ale","Guinness Draught",0.127067321394924
+"1209","Dead Guy Ale","Weihenstephaner Hefeweissbier",0.195958652580803
+"1210","Dead Guy Ale","Racer 5 India Pale Ale",0.185646991431075
+"1211","Dead Guy Ale","Orval Trappist Ale",0.129076911741416
+"1212","Dead Guy Ale","Tröegs Nugget Nectar",0.065069598967457
+"1213","Dead Guy Ale","Hop Rod Rye",0.187555861901894
+"1214","Dead Guy Ale","Founders KBS (Kentucky Breakfast Stout)",0.13183872264645
+"1215","Dead Guy Ale","Schneider Aventinus",0.164802848386277
+"1216","Dead Guy Ale","Samuel Adams Octoberfest",0.0916576775033373
+"1217","Dead Guy Ale","Hennepin (Farmhouse Saison)",0.176114134340613
+"1218","Dead Guy Ale","Prima Pils",0.151643825233281
+"1219","Dead Guy Ale","Punkin Ale",0.186115068412552
+"1220","Dead Guy Ale","Double Bastard Ale",0.182285910263307
+"1221","Dead Guy Ale","Samuel Adams Winter Lager",0.229384842685632
+"1222","Dead Guy Ale","Hop Wallop",0.160870833858264
+"1223","Dead Guy Ale","Oatmeal Stout",0.143686680356045
+"1224","Dead Guy Ale","Anchor Steam Beer",0.256670604764927
+"1225","Dead Guy Ale","120 Minute IPA",0.0649688153010315
+"1226","St. Bernardus Abt 12","90 Minute IPA",0.173511925207107
+"1227","St. Bernardus Abt 12","India Pale Ale",0.0741949388122534
+"1228","St. Bernardus Abt 12","Old Rasputin Russian Imperial Stout",0.196197967075049
+"1229","St. Bernardus Abt 12","Sierra Nevada Celebration Ale",0.164688425616695
+"1230","St. Bernardus Abt 12","Stone Ruination IPA",0.186811343962352
+"1231","St. Bernardus Abt 12","Arrogant Bastard Ale",0.259060677901642
+"1232","St. Bernardus Abt 12","Two Hearted Ale",0.209525168044181
+"1233","St. Bernardus Abt 12","Stone IPA (India Pale Ale)",0.174800108670265
+"1234","St. Bernardus Abt 12","Sierra Nevada Pale Ale",0.0925365516723719
+"1235","St. Bernardus Abt 12","La Fin Du Monde",0.226364366705431
+"1236","St. Bernardus Abt 12","Pale Ale",0.113897418424211
+"1237","St. Bernardus Abt 12","Duvel",0.217409526964432
+"1238","St. Bernardus Abt 12","Founders Breakfast Stout",0.173607712643248
+"1239","St. Bernardus Abt 12","Sierra Nevada Bigfoot Barleywine Style Ale",0.168276922662172
+"1240","St. Bernardus Abt 12","Pliny The Elder",0.15238098388629
+"1241","St. Bernardus Abt 12","60 Minute IPA",0.140173017964472
+"1242","St. Bernardus Abt 12","Brooklyn Black Chocolate Stout",0.174562782798225
+"1243","St. Bernardus Abt 12","Storm King Stout",0.237717936156683
+"1244","St. Bernardus Abt 12","Samuel Adams Boston Lager",0.119713187732556
+"1245","St. Bernardus Abt 12","Bell's Hopslam Ale",0.180547507559521
+"1246","St. Bernardus Abt 12","Stone Imperial Russian Stout",0.25928892910427
+"1247","St. Bernardus Abt 12","Chocolate Stout",0.14622334287898
+"1248","St. Bernardus Abt 12","Imperial Stout",0.191333508773443
+"1249","St. Bernardus Abt 12","HopDevil Ale",0.195139513898292
+"1250","St. Bernardus Abt 12","Dead Guy Ale",0.206395363868013
+"1251","St. Bernardus Abt 12","Trappistes Rochefort 10",0.27216653151392
+"1252","St. Bernardus Abt 12","Young's Double Chocolate Stout",0.104511311593327
+"1253","St. Bernardus Abt 12","Ayinger Celebrator Doppelbock",0.194066984481537
+"1254","St. Bernardus Abt 12","Samuel Smith's Oatmeal Stout",0.113113305187412
+"1255","St. Bernardus Abt 12","Chimay Grande Réserve (Blue)",0.211492750598102
+"1256","St. Bernardus Abt 12","Sierra Nevada Torpedo Extra IPA",0.0948556906179193
+"1257","St. Bernardus Abt 12","Guinness Draught",0.0846119026654962
+"1258","St. Bernardus Abt 12","Weihenstephaner Hefeweissbier",0.121915718925067
+"1259","St. Bernardus Abt 12","Racer 5 India Pale Ale",0.190183524910687
+"1260","St. Bernardus Abt 12","Orval Trappist Ale",0.0656539053288643
+"1261","St. Bernardus Abt 12","Tröegs Nugget Nectar",0.179221229667175
+"1262","St. Bernardus Abt 12","Hop Rod Rye",0.190662612248881
+"1263","St. Bernardus Abt 12","Founders KBS (Kentucky Breakfast Stout)",0.192013251558277
+"1264","St. Bernardus Abt 12","Schneider Aventinus",0.222152098165
+"1265","St. Bernardus Abt 12","Samuel Adams Octoberfest",0.0798775467270815
+"1266","St. Bernardus Abt 12","Hennepin (Farmhouse Saison)",0.264279644107716
+"1267","St. Bernardus Abt 12","Prima Pils",0.187541513071491
+"1268","St. Bernardus Abt 12","Punkin Ale",0.132456908163766
+"1269","St. Bernardus Abt 12","Double Bastard Ale",0.268139569844852
+"1270","St. Bernardus Abt 12","Samuel Adams Winter Lager",0.141038915565228
+"1271","St. Bernardus Abt 12","Hop Wallop",0.160409670581188
+"1272","St. Bernardus Abt 12","Oatmeal Stout",0.0930886611126956
+"1273","St. Bernardus Abt 12","Anchor Steam Beer",0.118469757445385
+"1274","St. Bernardus Abt 12","120 Minute IPA",0.175201534893566
+"1275","Trappistes Rochefort 10","90 Minute IPA",0.206342637626094
+"1276","Trappistes Rochefort 10","India Pale Ale",0.0993569925985668
+"1277","Trappistes Rochefort 10","Old Rasputin Russian Imperial Stout",0.152489526474834
+"1278","Trappistes Rochefort 10","Sierra Nevada Celebration Ale",0.167293478656142
+"1279","Trappistes Rochefort 10","Stone Ruination IPA",0.207739160089116
+"1280","Trappistes Rochefort 10","Arrogant Bastard Ale",0.224078156218091
+"1281","Trappistes Rochefort 10","Two Hearted Ale",0.118088213856722
+"1282","Trappistes Rochefort 10","Stone IPA (India Pale Ale)",0.167748953105443
+"1283","Trappistes Rochefort 10","Sierra Nevada Pale Ale",0.117883424388305
+"1284","Trappistes Rochefort 10","La Fin Du Monde",0.171743487828995
+"1285","Trappistes Rochefort 10","Pale Ale",0.0727775811737018
+"1286","Trappistes Rochefort 10","Duvel",0.206827933085591
+"1287","Trappistes Rochefort 10","Founders Breakfast Stout",0.144765486614172
+"1288","Trappistes Rochefort 10","Sierra Nevada Bigfoot Barleywine Style Ale",0.210944451504638
+"1289","Trappistes Rochefort 10","Pliny The Elder",0.113749257510955
+"1290","Trappistes Rochefort 10","60 Minute IPA",0.146163206311015
+"1291","Trappistes Rochefort 10","Brooklyn Black Chocolate Stout",0.152279986597622
+"1292","Trappistes Rochefort 10","Storm King Stout",0.21906799072489
+"1293","Trappistes Rochefort 10","Samuel Adams Boston Lager",0.0727371444936291
+"1294","Trappistes Rochefort 10","Bell's Hopslam Ale",0.0825707252947824
+"1295","Trappistes Rochefort 10","Stone Imperial Russian Stout",0.215278903137438
+"1296","Trappistes Rochefort 10","Chocolate Stout",0.158425932436293
+"1297","Trappistes Rochefort 10","Imperial Stout",0.120176803294435
+"1298","Trappistes Rochefort 10","HopDevil Ale",0.17524024736079
+"1299","Trappistes Rochefort 10","Dead Guy Ale",0.140201250704499
+"1300","Trappistes Rochefort 10","St. Bernardus Abt 12",0.27216653151392
+"1301","Trappistes Rochefort 10","Young's Double Chocolate Stout",0.164154286884363
+"1302","Trappistes Rochefort 10","Ayinger Celebrator Doppelbock",0.122799398146868
+"1303","Trappistes Rochefort 10","Samuel Smith's Oatmeal Stout",0.146019749318872
+"1304","Trappistes Rochefort 10","Chimay Grande Réserve (Blue)",0.253921268513914
+"1305","Trappistes Rochefort 10","Sierra Nevada Torpedo Extra IPA",0.126769105242407
+"1306","Trappistes Rochefort 10","Guinness Draught",4.72626646293058e-05
+"1307","Trappistes Rochefort 10","Weihenstephaner Hefeweissbier",0.137245003792391
+"1308","Trappistes Rochefort 10","Racer 5 India Pale Ale",0.124103192675363
+"1309","Trappistes Rochefort 10","Orval Trappist Ale",0.106070828632188
+"1310","Trappistes Rochefort 10","Tröegs Nugget Nectar",0.135758267696238
+"1311","Trappistes Rochefort 10","Hop Rod Rye",0.21411103104534
+"1312","Trappistes Rochefort 10","Founders KBS (Kentucky Breakfast Stout)",0.0904237191455001
+"1313","Trappistes Rochefort 10","Schneider Aventinus",0.208563690158124
+"1314","Trappistes Rochefort 10","Samuel Adams Octoberfest",0.10208666442544
+"1315","Trappistes Rochefort 10","Hennepin (Farmhouse Saison)",0.234606052340786
+"1316","Trappistes Rochefort 10","Prima Pils",0.091756231110165
+"1317","Trappistes Rochefort 10","Punkin Ale",0.288398775716145
+"1318","Trappistes Rochefort 10","Double Bastard Ale",0.164559304716116
+"1319","Trappistes Rochefort 10","Samuel Adams Winter Lager",0.0886316431065245
+"1320","Trappistes Rochefort 10","Hop Wallop",0.16579738254741
+"1321","Trappistes Rochefort 10","Oatmeal Stout",0.0940633760078714
+"1322","Trappistes Rochefort 10","Anchor Steam Beer",0.0578265119116689
+"1323","Trappistes Rochefort 10","120 Minute IPA",0.142493481578563
+"1324","Young's Double Chocolate Stout","90 Minute IPA",0.131134718536661
+"1325","Young's Double Chocolate Stout","India Pale Ale",0.0264971565136137
+"1326","Young's Double Chocolate Stout","Old Rasputin Russian Imperial Stout",0.142445975604963
+"1327","Young's Double Chocolate Stout","Sierra Nevada Celebration Ale",0.0772397898264539
+"1328","Young's Double Chocolate Stout","Stone Ruination IPA",0.0954493938316777
+"1329","Young's Double Chocolate Stout","Arrogant Bastard Ale",0.138156959020524
+"1330","Young's Double Chocolate Stout","Two Hearted Ale",0.0699932438497386
+"1331","Young's Double Chocolate Stout","Stone IPA (India Pale Ale)",0.108936442340877
+"1332","Young's Double Chocolate Stout","Sierra Nevada Pale Ale",0.0798179773236343
+"1333","Young's Double Chocolate Stout","La Fin Du Monde",0.127221156286395
+"1334","Young's Double Chocolate Stout","Pale Ale",0.106881811251557
+"1335","Young's Double Chocolate Stout","Duvel",0.133411704824225
+"1336","Young's Double Chocolate Stout","Founders Breakfast Stout",0.138195221955639
+"1337","Young's Double Chocolate Stout","Sierra Nevada Bigfoot Barleywine Style Ale",0.100123319748623
+"1338","Young's Double Chocolate Stout","Pliny The Elder",0.0959221496381183
+"1339","Young's Double Chocolate Stout","60 Minute IPA",0.10739650544093
+"1340","Young's Double Chocolate Stout","Brooklyn Black Chocolate Stout",0.165699862703175
+"1341","Young's Double Chocolate Stout","Storm King Stout",0.159010809407551
+"1342","Young's Double Chocolate Stout","Samuel Adams Boston Lager",0.101623257154093
+"1343","Young's Double Chocolate Stout","Bell's Hopslam Ale",0.0462703619556686
+"1344","Young's Double Chocolate Stout","Stone Imperial Russian Stout",0.119106623394847
+"1345","Young's Double Chocolate Stout","Chocolate Stout",0.198215695477369
+"1346","Young's Double Chocolate Stout","Imperial Stout",0.138183681029312
+"1347","Young's Double Chocolate Stout","HopDevil Ale",0.188341280380376
+"1348","Young's Double Chocolate Stout","Dead Guy Ale",0.105738777990503
+"1349","Young's Double Chocolate Stout","St. Bernardus Abt 12",0.104511311593327
+"1350","Young's Double Chocolate Stout","Trappistes Rochefort 10",0.164154286884363
+"1351","Young's Double Chocolate Stout","Ayinger Celebrator Doppelbock",0.166091080787817
+"1352","Young's Double Chocolate Stout","Samuel Smith's Oatmeal Stout",0.164590693173187
+"1353","Young's Double Chocolate Stout","Chimay Grande Réserve (Blue)",0.157415687029609
+"1354","Young's Double Chocolate Stout","Sierra Nevada Torpedo Extra IPA",0.076691119559003
+"1355","Young's Double Chocolate Stout","Guinness Draught",0.139219694262512
+"1356","Young's Double Chocolate Stout","Weihenstephaner Hefeweissbier",0.0971179832058366
+"1357","Young's Double Chocolate Stout","Racer 5 India Pale Ale",0.0846612808619085
+"1358","Young's Double Chocolate Stout","Orval Trappist Ale",0.0606114289229316
+"1359","Young's Double Chocolate Stout","Tröegs Nugget Nectar",0.0493603245714446
+"1360","Young's Double Chocolate Stout","Hop Rod Rye",0.129046396855225
+"1361","Young's Double Chocolate Stout","Founders KBS (Kentucky Breakfast Stout)",0.0448747226515701
+"1362","Young's Double Chocolate Stout","Schneider Aventinus",0.131003082292213
+"1363","Young's Double Chocolate Stout","Samuel Adams Octoberfest",0.109812376124198
+"1364","Young's Double Chocolate Stout","Hennepin (Farmhouse Saison)",0.144126081326067
+"1365","Young's Double Chocolate Stout","Prima Pils",0.141804102628373
+"1366","Young's Double Chocolate Stout","Punkin Ale",0.0966610250090794
+"1367","Young's Double Chocolate Stout","Double Bastard Ale",0.0283536389449709
+"1368","Young's Double Chocolate Stout","Samuel Adams Winter Lager",0.140840063353543
+"1369","Young's Double Chocolate Stout","Hop Wallop",0.171387189878839
+"1370","Young's Double Chocolate Stout","Oatmeal Stout",0.0905947655360313
+"1371","Young's Double Chocolate Stout","Anchor Steam Beer",0.0900346521022306
+"1372","Young's Double Chocolate Stout","120 Minute IPA",0.107726897529841
+"1373","Ayinger Celebrator Doppelbock","90 Minute IPA",0.171195698838327
+"1374","Ayinger Celebrator Doppelbock","India Pale Ale",-0.0450757000143909
+"1375","Ayinger Celebrator Doppelbock","Old Rasputin Russian Imperial Stout",0.170713403046782
+"1376","Ayinger Celebrator Doppelbock","Sierra Nevada Celebration Ale",0.127680120764739
+"1377","Ayinger Celebrator Doppelbock","Stone Ruination IPA",0.113225589926544
+"1378","Ayinger Celebrator Doppelbock","Arrogant Bastard Ale",0.140907759564848
+"1379","Ayinger Celebrator Doppelbock","Two Hearted Ale",0.0726463694937282
+"1380","Ayinger Celebrator Doppelbock","Stone IPA (India Pale Ale)",0.116159423319679
+"1381","Ayinger Celebrator Doppelbock","Sierra Nevada Pale Ale",0.131906542020066
+"1382","Ayinger Celebrator Doppelbock","La Fin Du Monde",0.286368002257862
+"1383","Ayinger Celebrator Doppelbock","Pale Ale",0.0646966241240495
+"1384","Ayinger Celebrator Doppelbock","Duvel",0.264517798373069
+"1385","Ayinger Celebrator Doppelbock","Founders Breakfast Stout",0.112447154983428
+"1386","Ayinger Celebrator Doppelbock","Sierra Nevada Bigfoot Barleywine Style Ale",0.154882411507923
+"1387","Ayinger Celebrator Doppelbock","Pliny The Elder",0.123169954007401
+"1388","Ayinger Celebrator Doppelbock","60 Minute IPA",0.150522592284814
+"1389","Ayinger Celebrator Doppelbock","Brooklyn Black Chocolate Stout",0.148570695694641
+"1390","Ayinger Celebrator Doppelbock","Storm King Stout",0.21634465765646
+"1391","Ayinger Celebrator Doppelbock","Samuel Adams Boston Lager",0.151360904939986
+"1392","Ayinger Celebrator Doppelbock","Bell's Hopslam Ale",0.108449945608218
+"1393","Ayinger Celebrator Doppelbock","Stone Imperial Russian Stout",0.207503176243319
+"1394","Ayinger Celebrator Doppelbock","Chocolate Stout",0.209937295705221
+"1395","Ayinger Celebrator Doppelbock","Imperial Stout",0.154892315442096
+"1396","Ayinger Celebrator Doppelbock","HopDevil Ale",0.223108724963868
+"1397","Ayinger Celebrator Doppelbock","Dead Guy Ale",0.223198495034087
+"1398","Ayinger Celebrator Doppelbock","St. Bernardus Abt 12",0.194066984481537
+"1399","Ayinger Celebrator Doppelbock","Trappistes Rochefort 10",0.122799398146868
+"1400","Ayinger Celebrator Doppelbock","Young's Double Chocolate Stout",0.166091080787817
+"1401","Ayinger Celebrator Doppelbock","Samuel Smith's Oatmeal Stout",0.19820382165254
+"1402","Ayinger Celebrator Doppelbock","Chimay Grande Réserve (Blue)",0.19489013737211
+"1403","Ayinger Celebrator Doppelbock","Sierra Nevada Torpedo Extra IPA",0.129955809407203
+"1404","Ayinger Celebrator Doppelbock","Guinness Draught",0.0541600628255494
+"1405","Ayinger Celebrator Doppelbock","Weihenstephaner Hefeweissbier",0.239165511590856
+"1406","Ayinger Celebrator Doppelbock","Racer 5 India Pale Ale",0.133924393909481
+"1407","Ayinger Celebrator Doppelbock","Orval Trappist Ale",0.134670021853502
+"1408","Ayinger Celebrator Doppelbock","Tröegs Nugget Nectar",0.105547442164565
+"1409","Ayinger Celebrator Doppelbock","Hop Rod Rye",0.187317999294267
+"1410","Ayinger Celebrator Doppelbock","Founders KBS (Kentucky Breakfast Stout)",0.194397262107883
+"1411","Ayinger Celebrator Doppelbock","Schneider Aventinus",0.296287320521178
+"1412","Ayinger Celebrator Doppelbock","Samuel Adams Octoberfest",0.133100479161427
+"1413","Ayinger Celebrator Doppelbock","Hennepin (Farmhouse Saison)",0.15440216229238
+"1414","Ayinger Celebrator Doppelbock","Prima Pils",0.156092837271749
+"1415","Ayinger Celebrator Doppelbock","Punkin Ale",0.130419937207292
+"1416","Ayinger Celebrator Doppelbock","Double Bastard Ale",0.14613445451357
+"1417","Ayinger Celebrator Doppelbock","Samuel Adams Winter Lager",0.177982278237053
+"1418","Ayinger Celebrator Doppelbock","Hop Wallop",0.186448926095623
+"1419","Ayinger Celebrator Doppelbock","Oatmeal Stout",0.00594297390711023
+"1420","Ayinger Celebrator Doppelbock","Anchor Steam Beer",0.156622592275267
+"1421","Ayinger Celebrator Doppelbock","120 Minute IPA",0.0703807547962008
+"1422","Samuel Smith's Oatmeal Stout","90 Minute IPA",0.0807176972246282
+"1423","Samuel Smith's Oatmeal Stout","India Pale Ale",0.0754059507976843
+"1424","Samuel Smith's Oatmeal Stout","Old Rasputin Russian Imperial Stout",0.143757179905804
+"1425","Samuel Smith's Oatmeal Stout","Sierra Nevada Celebration Ale",0.154753865304532
+"1426","Samuel Smith's Oatmeal Stout","Stone Ruination IPA",0.120785890547868
+"1427","Samuel Smith's Oatmeal Stout","Arrogant Bastard Ale",0.114143706323013
+"1428","Samuel Smith's Oatmeal Stout","Two Hearted Ale",0.2233751523083
+"1429","Samuel Smith's Oatmeal Stout","Stone IPA (India Pale Ale)",0.0671332456655188
+"1430","Samuel Smith's Oatmeal Stout","Sierra Nevada Pale Ale",0.174483220935528
+"1431","Samuel Smith's Oatmeal Stout","La Fin Du Monde",0.128386978895468
+"1432","Samuel Smith's Oatmeal Stout","Pale Ale",0.0614156079098157
+"1433","Samuel Smith's Oatmeal Stout","Duvel",0.229292156434083
+"1434","Samuel Smith's Oatmeal Stout","Founders Breakfast Stout",0.0817662181237126
+"1435","Samuel Smith's Oatmeal Stout","Sierra Nevada Bigfoot Barleywine Style Ale",0.14502264593187
+"1436","Samuel Smith's Oatmeal Stout","Pliny The Elder",0.131386087783199
+"1437","Samuel Smith's Oatmeal Stout","60 Minute IPA",0.136227539128714
+"1438","Samuel Smith's Oatmeal Stout","Brooklyn Black Chocolate Stout",0.153477964816584
+"1439","Samuel Smith's Oatmeal Stout","Storm King Stout",0.199899006765904
+"1440","Samuel Smith's Oatmeal Stout","Samuel Adams Boston Lager",0.196333325823289
+"1441","Samuel Smith's Oatmeal Stout","Bell's Hopslam Ale",0.197044658026478
+"1442","Samuel Smith's Oatmeal Stout","Stone Imperial Russian Stout",0.0974139161250129
+"1443","Samuel Smith's Oatmeal Stout","Chocolate Stout",0.146087790722898
+"1444","Samuel Smith's Oatmeal Stout","Imperial Stout",0.0961846997920814
+"1445","Samuel Smith's Oatmeal Stout","HopDevil Ale",0.134133869403569
+"1446","Samuel Smith's Oatmeal Stout","Dead Guy Ale",0.166323004243845
+"1447","Samuel Smith's Oatmeal Stout","St. Bernardus Abt 12",0.113113305187412
+"1448","Samuel Smith's Oatmeal Stout","Trappistes Rochefort 10",0.146019749318872
+"1449","Samuel Smith's Oatmeal Stout","Young's Double Chocolate Stout",0.164590693173187
+"1450","Samuel Smith's Oatmeal Stout","Ayinger Celebrator Doppelbock",0.19820382165254
+"1451","Samuel Smith's Oatmeal Stout","Chimay Grande Réserve (Blue)",0.18224201068809
+"1452","Samuel Smith's Oatmeal Stout","Sierra Nevada Torpedo Extra IPA",0.173354541180639
+"1453","Samuel Smith's Oatmeal Stout","Guinness Draught",0.0624256331486096
+"1454","Samuel Smith's Oatmeal Stout","Weihenstephaner Hefeweissbier",0.181004029316131
+"1455","Samuel Smith's Oatmeal Stout","Racer 5 India Pale Ale",0.150311084602139
+"1456","Samuel Smith's Oatmeal Stout","Orval Trappist Ale",0.149742719695946
+"1457","Samuel Smith's Oatmeal Stout","Tröegs Nugget Nectar",0.0873975189785892
+"1458","Samuel Smith's Oatmeal Stout","Hop Rod Rye",0.159006185768314
+"1459","Samuel Smith's Oatmeal Stout","Founders KBS (Kentucky Breakfast Stout)",0.122898647405884
+"1460","Samuel Smith's Oatmeal Stout","Schneider Aventinus",0.14159280904892
+"1461","Samuel Smith's Oatmeal Stout","Samuel Adams Octoberfest",0.168002355427916
+"1462","Samuel Smith's Oatmeal Stout","Hennepin (Farmhouse Saison)",0.151232162794823
+"1463","Samuel Smith's Oatmeal Stout","Prima Pils",0.0697714001235676
+"1464","Samuel Smith's Oatmeal Stout","Punkin Ale",0.144049190158221
+"1465","Samuel Smith's Oatmeal Stout","Double Bastard Ale",0.0828866335591524
+"1466","Samuel Smith's Oatmeal Stout","Samuel Adams Winter Lager",0.183693840987451
+"1467","Samuel Smith's Oatmeal Stout","Hop Wallop",0.134372642891698
+"1468","Samuel Smith's Oatmeal Stout","Oatmeal Stout",0.106585932871092
+"1469","Samuel Smith's Oatmeal Stout","Anchor Steam Beer",0.216840770622962
+"1470","Samuel Smith's Oatmeal Stout","120 Minute IPA",0.0756704763618332
+"1471","Chimay Grande Réserve (Blue)","90 Minute IPA",0.157673895184146
+"1472","Chimay Grande Réserve (Blue)","India Pale Ale",0.12472592438908
+"1473","Chimay Grande Réserve (Blue)","Old Rasputin Russian Imperial Stout",0.188798022609489
+"1474","Chimay Grande Réserve (Blue)","Sierra Nevada Celebration Ale",0.0406598178390859
+"1475","Chimay Grande Réserve (Blue)","Stone Ruination IPA",0.145230897273474
+"1476","Chimay Grande Réserve (Blue)","Arrogant Bastard Ale",0.113445092226185
+"1477","Chimay Grande Réserve (Blue)","Two Hearted Ale",0.108454615377169
+"1478","Chimay Grande Réserve (Blue)","Stone IPA (India Pale Ale)",0.154949558060947
+"1479","Chimay Grande Réserve (Blue)","Sierra Nevada Pale Ale",0.131072179189353
+"1480","Chimay Grande Réserve (Blue)","La Fin Du Monde",0.241173742512948
+"1481","Chimay Grande Réserve (Blue)","Pale Ale",0.0423201369211562
+"1482","Chimay Grande Réserve (Blue)","Duvel",0.196063829256685
+"1483","Chimay Grande Réserve (Blue)","Founders Breakfast Stout",0.0659101980111734
+"1484","Chimay Grande Réserve (Blue)","Sierra Nevada Bigfoot Barleywine Style Ale",0.138625668153177
+"1485","Chimay Grande Réserve (Blue)","Pliny The Elder",0.142379050712691
+"1486","Chimay Grande Réserve (Blue)","60 Minute IPA",0.114616542253695
+"1487","Chimay Grande Réserve (Blue)","Brooklyn Black Chocolate Stout",0.155998629890076
+"1488","Chimay Grande Réserve (Blue)","Storm King Stout",0.132765936632962
+"1489","Chimay Grande Réserve (Blue)","Samuel Adams Boston Lager",0.132569367563983
+"1490","Chimay Grande Réserve (Blue)","Bell's Hopslam Ale",0.0956552454211516
+"1491","Chimay Grande Réserve (Blue)","Stone Imperial Russian Stout",0.113734983358341
+"1492","Chimay Grande Réserve (Blue)","Chocolate Stout",0.166164613172559
+"1493","Chimay Grande Réserve (Blue)","Imperial Stout",0.00826602116384676
+"1494","Chimay Grande Réserve (Blue)","HopDevil Ale",0.170720507513854
+"1495","Chimay Grande Réserve (Blue)","Dead Guy Ale",0.191621822292475
+"1496","Chimay Grande Réserve (Blue)","St. Bernardus Abt 12",0.211492750598102
+"1497","Chimay Grande Réserve (Blue)","Trappistes Rochefort 10",0.253921268513914
+"1498","Chimay Grande Réserve (Blue)","Young's Double Chocolate Stout",0.157415687029609
+"1499","Chimay Grande Réserve (Blue)","Ayinger Celebrator Doppelbock",0.19489013737211
+"1500","Chimay Grande Réserve (Blue)","Samuel Smith's Oatmeal Stout",0.18224201068809
+"1501","Chimay Grande Réserve (Blue)","Sierra Nevada Torpedo Extra IPA",0.139550688993232
+"1502","Chimay Grande Réserve (Blue)","Guinness Draught",0.0449881863986671
+"1503","Chimay Grande Réserve (Blue)","Weihenstephaner Hefeweissbier",0.204410757693497
+"1504","Chimay Grande Réserve (Blue)","Racer 5 India Pale Ale",0.0287607028955103
+"1505","Chimay Grande Réserve (Blue)","Orval Trappist Ale",0.113773539194597
+"1506","Chimay Grande Réserve (Blue)","Tröegs Nugget Nectar",0.105492990596567
+"1507","Chimay Grande Réserve (Blue)","Hop Rod Rye",0.110535480594508
+"1508","Chimay Grande Réserve (Blue)","Founders KBS (Kentucky Breakfast Stout)",0.0887180211649195
+"1509","Chimay Grande Réserve (Blue)","Schneider Aventinus",0.252984783332714
+"1510","Chimay Grande Réserve (Blue)","Samuel Adams Octoberfest",0.173336461565734
+"1511","Chimay Grande Réserve (Blue)","Hennepin (Farmhouse Saison)",0.212206109728203
+"1512","Chimay Grande Réserve (Blue)","Prima Pils",0.133267398183327
+"1513","Chimay Grande Réserve (Blue)","Punkin Ale",0.171377552565614
+"1514","Chimay Grande Réserve (Blue)","Double Bastard Ale",0.156267946481517
+"1515","Chimay Grande Réserve (Blue)","Samuel Adams Winter Lager",0.147902394439093
+"1516","Chimay Grande Réserve (Blue)","Hop Wallop",0.120228010818298
+"1517","Chimay Grande Réserve (Blue)","Oatmeal Stout",0.0512353554098133
+"1518","Chimay Grande Réserve (Blue)","Anchor Steam Beer",0.122941665306048
+"1519","Chimay Grande Réserve (Blue)","120 Minute IPA",0.15169793538836
+"1520","Sierra Nevada Torpedo Extra IPA","90 Minute IPA",0.166321838160396
+"1521","Sierra Nevada Torpedo Extra IPA","India Pale Ale",0.0684240680989586
+"1522","Sierra Nevada Torpedo Extra IPA","Old Rasputin Russian Imperial Stout",0.167238852134008
+"1523","Sierra Nevada Torpedo Extra IPA","Sierra Nevada Celebration Ale",0.325099293234734
+"1524","Sierra Nevada Torpedo Extra IPA","Stone Ruination IPA",0.19813368028696
+"1525","Sierra Nevada Torpedo Extra IPA","Arrogant Bastard Ale",0.220020813632169
+"1526","Sierra Nevada Torpedo Extra IPA","Two Hearted Ale",0.133082408481677
+"1527","Sierra Nevada Torpedo Extra IPA","Stone IPA (India Pale Ale)",0.175144669389594
+"1528","Sierra Nevada Torpedo Extra IPA","Sierra Nevada Pale Ale",0.236101604420811
+"1529","Sierra Nevada Torpedo Extra IPA","La Fin Du Monde",0.0672816654214118
+"1530","Sierra Nevada Torpedo Extra IPA","Pale Ale",0.218800733084472
+"1531","Sierra Nevada Torpedo Extra IPA","Duvel",0.152327163834162
+"1532","Sierra Nevada Torpedo Extra IPA","Founders Breakfast Stout",0.135951015248366
+"1533","Sierra Nevada Torpedo Extra IPA","Sierra Nevada Bigfoot Barleywine Style Ale",0.276519958135803
+"1534","Sierra Nevada Torpedo Extra IPA","Pliny The Elder",0.202972854370678
+"1535","Sierra Nevada Torpedo Extra IPA","60 Minute IPA",0.194229034742608
+"1536","Sierra Nevada Torpedo Extra IPA","Brooklyn Black Chocolate Stout",0.0862580067282322
+"1537","Sierra Nevada Torpedo Extra IPA","Storm King Stout",0.115666944820058
+"1538","Sierra Nevada Torpedo Extra IPA","Samuel Adams Boston Lager",0.187771271403733
+"1539","Sierra Nevada Torpedo Extra IPA","Bell's Hopslam Ale",0.112165322633783
+"1540","Sierra Nevada Torpedo Extra IPA","Stone Imperial Russian Stout",0.215589413404912
+"1541","Sierra Nevada Torpedo Extra IPA","Chocolate Stout",0.121894775199873
+"1542","Sierra Nevada Torpedo Extra IPA","Imperial Stout",0.0905855519262873
+"1543","Sierra Nevada Torpedo Extra IPA","HopDevil Ale",0.21215642214679
+"1544","Sierra Nevada Torpedo Extra IPA","Dead Guy Ale",0.207042017926488
+"1545","Sierra Nevada Torpedo Extra IPA","St. Bernardus Abt 12",0.0948556906179193
+"1546","Sierra Nevada Torpedo Extra IPA","Trappistes Rochefort 10",0.126769105242407
+"1547","Sierra Nevada Torpedo Extra IPA","Young's Double Chocolate Stout",0.076691119559003
+"1548","Sierra Nevada Torpedo Extra IPA","Ayinger Celebrator Doppelbock",0.129955809407203
+"1549","Sierra Nevada Torpedo Extra IPA","Samuel Smith's Oatmeal Stout",0.173354541180639
+"1550","Sierra Nevada Torpedo Extra IPA","Chimay Grande Réserve (Blue)",0.139550688993232
+"1551","Sierra Nevada Torpedo Extra IPA","Guinness Draught",0.0589206143884769
+"1552","Sierra Nevada Torpedo Extra IPA","Weihenstephaner Hefeweissbier",0.101604721636537
+"1553","Sierra Nevada Torpedo Extra IPA","Racer 5 India Pale Ale",0.223478410401818
+"1554","Sierra Nevada Torpedo Extra IPA","Orval Trappist Ale",0.134687088001017
+"1555","Sierra Nevada Torpedo Extra IPA","Tröegs Nugget Nectar",0.248224602997023
+"1556","Sierra Nevada Torpedo Extra IPA","Hop Rod Rye",0.234270866768275
+"1557","Sierra Nevada Torpedo Extra IPA","Founders KBS (Kentucky Breakfast Stout)",0.155292441405617
+"1558","Sierra Nevada Torpedo Extra IPA","Schneider Aventinus",0.0151478039708441
+"1559","Sierra Nevada Torpedo Extra IPA","Samuel Adams Octoberfest",0.159022161274513
+"1560","Sierra Nevada Torpedo Extra IPA","Hennepin (Farmhouse Saison)",0.177007320099622
+"1561","Sierra Nevada Torpedo Extra IPA","Prima Pils",0.134358717164972
+"1562","Sierra Nevada Torpedo Extra IPA","Punkin Ale",0.169990490204251
+"1563","Sierra Nevada Torpedo Extra IPA","Double Bastard Ale",0.151767666782417
+"1564","Sierra Nevada Torpedo Extra IPA","Samuel Adams Winter Lager",0.128781531902325
+"1565","Sierra Nevada Torpedo Extra IPA","Hop Wallop",0.210579423033702
+"1566","Sierra Nevada Torpedo Extra IPA","Oatmeal Stout",0.0946425863147169
+"1567","Sierra Nevada Torpedo Extra IPA","Anchor Steam Beer",0.139223838446084
+"1568","Sierra Nevada Torpedo Extra IPA","120 Minute IPA",-0.018160232033791
+"1569","Guinness Draught","90 Minute IPA",0.000875324339492037
+"1570","Guinness Draught","India Pale Ale",0.0308992685295179
+"1571","Guinness Draught","Old Rasputin Russian Imperial Stout",0.0216045798886949
+"1572","Guinness Draught","Sierra Nevada Celebration Ale",-0.0354670826120097
+"1573","Guinness Draught","Stone Ruination IPA",-0.0180941880257169
+"1574","Guinness Draught","Arrogant Bastard Ale",0.0223585046059194
+"1575","Guinness Draught","Two Hearted Ale",0.0223132127277651
+"1576","Guinness Draught","Stone IPA (India Pale Ale)",0.0303534288657154
+"1577","Guinness Draught","Sierra Nevada Pale Ale",0.0886985693322892
+"1578","Guinness Draught","La Fin Du Monde",0.00395386904489311
+"1579","Guinness Draught","Pale Ale",0.0538664829130272
+"1580","Guinness Draught","Duvel",0.0574659468697719
+"1581","Guinness Draught","Founders Breakfast Stout",-0.013696248464249
+"1582","Guinness Draught","Sierra Nevada Bigfoot Barleywine Style Ale",0.0508171292694152
+"1583","Guinness Draught","Pliny The Elder",-0.0845479403553036
+"1584","Guinness Draught","60 Minute IPA",0.117136958451199
+"1585","Guinness Draught","Brooklyn Black Chocolate Stout",0.0693644129494013
+"1586","Guinness Draught","Storm King Stout",0.0429705738316544
+"1587","Guinness Draught","Samuel Adams Boston Lager",0.0871398972213703
+"1588","Guinness Draught","Bell's Hopslam Ale",-0.0137003689059566
+"1589","Guinness Draught","Stone Imperial Russian Stout",0.0558711303132481
+"1590","Guinness Draught","Chocolate Stout",0.0351658460689651
+"1591","Guinness Draught","Imperial Stout",0.0784126932254375
+"1592","Guinness Draught","HopDevil Ale",0.114544737258861
+"1593","Guinness Draught","Dead Guy Ale",0.127067321394924
+"1594","Guinness Draught","St. Bernardus Abt 12",0.0846119026654962
+"1595","Guinness Draught","Trappistes Rochefort 10",4.72626646293058e-05
+"1596","Guinness Draught","Young's Double Chocolate Stout",0.139219694262512
+"1597","Guinness Draught","Ayinger Celebrator Doppelbock",0.0541600628255494
+"1598","Guinness Draught","Samuel Smith's Oatmeal Stout",0.0624256331486096
+"1599","Guinness Draught","Chimay Grande Réserve (Blue)",0.0449881863986671
+"1600","Guinness Draught","Sierra Nevada Torpedo Extra IPA",0.0589206143884769
+"1601","Guinness Draught","Weihenstephaner Hefeweissbier",-0.0228869652190533
+"1602","Guinness Draught","Racer 5 India Pale Ale",0.0507494203090757
+"1603","Guinness Draught","Orval Trappist Ale",0.0103193517132848
+"1604","Guinness Draught","Tröegs Nugget Nectar",0.125375621452397
+"1605","Guinness Draught","Hop Rod Rye",0.0230809545987418
+"1606","Guinness Draught","Founders KBS (Kentucky Breakfast Stout)",0.0592405930507852
+"1607","Guinness Draught","Schneider Aventinus",0.0434207737139561
+"1608","Guinness Draught","Samuel Adams Octoberfest",0.128084047254771
+"1609","Guinness Draught","Hennepin (Farmhouse Saison)",0.106721977992841
+"1610","Guinness Draught","Prima Pils",0.0526068776606762
+"1611","Guinness Draught","Punkin Ale",0.0668854886736073
+"1612","Guinness Draught","Double Bastard Ale",0.0588370944847907
+"1613","Guinness Draught","Samuel Adams Winter Lager",0.0720928978808885
+"1614","Guinness Draught","Hop Wallop",0.0176144531777369
+"1615","Guinness Draught","Oatmeal Stout",0.10606360562049
+"1616","Guinness Draught","Anchor Steam Beer",0.0293638913122371
+"1617","Guinness Draught","120 Minute IPA",0.0893929251699607
+"1618","Weihenstephaner Hefeweissbier","90 Minute IPA",0.0924944959770287
+"1619","Weihenstephaner Hefeweissbier","India Pale Ale",0.0826729095789249
+"1620","Weihenstephaner Hefeweissbier","Old Rasputin Russian Imperial Stout",0.168101361815041
+"1621","Weihenstephaner Hefeweissbier","Sierra Nevada Celebration Ale",0.225833312279601
+"1622","Weihenstephaner Hefeweissbier","Stone Ruination IPA",0.0979067785346052
+"1623","Weihenstephaner Hefeweissbier","Arrogant Bastard Ale",0.159635514761983
+"1624","Weihenstephaner Hefeweissbier","Two Hearted Ale",0.178068353291296
+"1625","Weihenstephaner Hefeweissbier","Stone IPA (India Pale Ale)",0.19138830285865
+"1626","Weihenstephaner Hefeweissbier","Sierra Nevada Pale Ale",0.21076456121312
+"1627","Weihenstephaner Hefeweissbier","La Fin Du Monde",0.299447253961787
+"1628","Weihenstephaner Hefeweissbier","Pale Ale",0.11266583555569
+"1629","Weihenstephaner Hefeweissbier","Duvel",0.218401528790165
+"1630","Weihenstephaner Hefeweissbier","Founders Breakfast Stout",0.152701149652303
+"1631","Weihenstephaner Hefeweissbier","Sierra Nevada Bigfoot Barleywine Style Ale",0.171839688944313
+"1632","Weihenstephaner Hefeweissbier","Pliny The Elder",0.160735087295137
+"1633","Weihenstephaner Hefeweissbier","60 Minute IPA",0.127205929223828
+"1634","Weihenstephaner Hefeweissbier","Brooklyn Black Chocolate Stout",0.0799600292457956
+"1635","Weihenstephaner Hefeweissbier","Storm King Stout",0.0672144314125482
+"1636","Weihenstephaner Hefeweissbier","Samuel Adams Boston Lager",0.27202011016887
+"1637","Weihenstephaner Hefeweissbier","Bell's Hopslam Ale",0.116368160207642
+"1638","Weihenstephaner Hefeweissbier","Stone Imperial Russian Stout",0.0644507281907919
+"1639","Weihenstephaner Hefeweissbier","Chocolate Stout",0.129365776022359
+"1640","Weihenstephaner Hefeweissbier","Imperial Stout",0.0492678687973256
+"1641","Weihenstephaner Hefeweissbier","HopDevil Ale",0.147428171207678
+"1642","Weihenstephaner Hefeweissbier","Dead Guy Ale",0.195958652580803
+"1643","Weihenstephaner Hefeweissbier","St. Bernardus Abt 12",0.121915718925067
+"1644","Weihenstephaner Hefeweissbier","Trappistes Rochefort 10",0.137245003792391
+"1645","Weihenstephaner Hefeweissbier","Young's Double Chocolate Stout",0.0971179832058366
+"1646","Weihenstephaner Hefeweissbier","Ayinger Celebrator Doppelbock",0.239165511590856
+"1647","Weihenstephaner Hefeweissbier","Samuel Smith's Oatmeal Stout",0.181004029316131
+"1648","Weihenstephaner Hefeweissbier","Chimay Grande Réserve (Blue)",0.204410757693497
+"1649","Weihenstephaner Hefeweissbier","Sierra Nevada Torpedo Extra IPA",0.101604721636537
+"1650","Weihenstephaner Hefeweissbier","Guinness Draught",-0.0228869652190533
+"1651","Weihenstephaner Hefeweissbier","Racer 5 India Pale Ale",0.1374870812532
+"1652","Weihenstephaner Hefeweissbier","Orval Trappist Ale",0.169440781381529
+"1653","Weihenstephaner Hefeweissbier","Tröegs Nugget Nectar",0.0896130344516916
+"1654","Weihenstephaner Hefeweissbier","Hop Rod Rye",0.169758819311074
+"1655","Weihenstephaner Hefeweissbier","Founders KBS (Kentucky Breakfast Stout)",0.139978144187237
+"1656","Weihenstephaner Hefeweissbier","Schneider Aventinus",0.242999857774611
+"1657","Weihenstephaner Hefeweissbier","Samuel Adams Octoberfest",0.0842838547835913
+"1658","Weihenstephaner Hefeweissbier","Hennepin (Farmhouse Saison)",0.222951352736393
+"1659","Weihenstephaner Hefeweissbier","Prima Pils",0.208217621798259
+"1660","Weihenstephaner Hefeweissbier","Punkin Ale",0.125909568738862
+"1661","Weihenstephaner Hefeweissbier","Double Bastard Ale",0.127572651735259
+"1662","Weihenstephaner Hefeweissbier","Samuel Adams Winter Lager",0.115744575127852
+"1663","Weihenstephaner Hefeweissbier","Hop Wallop",0.109599764028545
+"1664","Weihenstephaner Hefeweissbier","Oatmeal Stout",0.0688742529371704
+"1665","Weihenstephaner Hefeweissbier","Anchor Steam Beer",0.148890704599443
+"1666","Weihenstephaner Hefeweissbier","120 Minute IPA",0.0264534777238879
+"1667","Racer 5 India Pale Ale","90 Minute IPA",0.183222572859586
+"1668","Racer 5 India Pale Ale","India Pale Ale",0.103017687785188
+"1669","Racer 5 India Pale Ale","Old Rasputin Russian Imperial Stout",0.206065242555695
+"1670","Racer 5 India Pale Ale","Sierra Nevada Celebration Ale",0.230960373391938
+"1671","Racer 5 India Pale Ale","Stone Ruination IPA",0.225249842805266
+"1672","Racer 5 India Pale Ale","Arrogant Bastard Ale",0.201910016964023
+"1673","Racer 5 India Pale Ale","Two Hearted Ale",0.240832187265505
+"1674","Racer 5 India Pale Ale","Stone IPA (India Pale Ale)",0.221261811376137
+"1675","Racer 5 India Pale Ale","Sierra Nevada Pale Ale",0.223775872720858
+"1676","Racer 5 India Pale Ale","La Fin Du Monde",0.108698810318633
+"1677","Racer 5 India Pale Ale","Pale Ale",0.0121946650108073
+"1678","Racer 5 India Pale Ale","Duvel",0.162579785089034
+"1679","Racer 5 India Pale Ale","Founders Breakfast Stout",0.17250381873523
+"1680","Racer 5 India Pale Ale","Sierra Nevada Bigfoot Barleywine Style Ale",0.233742201664549
+"1681","Racer 5 India Pale Ale","Pliny The Elder",0.189977950542316
+"1682","Racer 5 India Pale Ale","60 Minute IPA",0.129594548298032
+"1683","Racer 5 India Pale Ale","Brooklyn Black Chocolate Stout",0.176036559570458
+"1684","Racer 5 India Pale Ale","Storm King Stout",0.247184272623016
+"1685","Racer 5 India Pale Ale","Samuel Adams Boston Lager",0.121791265062237
+"1686","Racer 5 India Pale Ale","Bell's Hopslam Ale",0.124271700529555
+"1687","Racer 5 India Pale Ale","Stone Imperial Russian Stout",0.252166123252341
+"1688","Racer 5 India Pale Ale","Chocolate Stout",0.19324368152303
+"1689","Racer 5 India Pale Ale","Imperial Stout",0.242736240275958
+"1690","Racer 5 India Pale Ale","HopDevil Ale",0.215356303846945
+"1691","Racer 5 India Pale Ale","Dead Guy Ale",0.185646991431075
+"1692","Racer 5 India Pale Ale","St. Bernardus Abt 12",0.190183524910687
+"1693","Racer 5 India Pale Ale","Trappistes Rochefort 10",0.124103192675363
+"1694","Racer 5 India Pale Ale","Young's Double Chocolate Stout",0.0846612808619085
+"1695","Racer 5 India Pale Ale","Ayinger Celebrator Doppelbock",0.133924393909481
+"1696","Racer 5 India Pale Ale","Samuel Smith's Oatmeal Stout",0.150311084602139
+"1697","Racer 5 India Pale Ale","Chimay Grande Réserve (Blue)",0.0287607028955103
+"1698","Racer 5 India Pale Ale","Sierra Nevada Torpedo Extra IPA",0.223478410401818
+"1699","Racer 5 India Pale Ale","Guinness Draught",0.0507494203090757
+"1700","Racer 5 India Pale Ale","Weihenstephaner Hefeweissbier",0.1374870812532
+"1701","Racer 5 India Pale Ale","Orval Trappist Ale",0.138088521674933
+"1702","Racer 5 India Pale Ale","Tröegs Nugget Nectar",0.280666418987609
+"1703","Racer 5 India Pale Ale","Hop Rod Rye",0.296023493806013
+"1704","Racer 5 India Pale Ale","Founders KBS (Kentucky Breakfast Stout)",0.0942213018183894
+"1705","Racer 5 India Pale Ale","Schneider Aventinus",0.104572692596812
+"1706","Racer 5 India Pale Ale","Samuel Adams Octoberfest",0.0730612341346785
+"1707","Racer 5 India Pale Ale","Hennepin (Farmhouse Saison)",0.203077028553946
+"1708","Racer 5 India Pale Ale","Prima Pils",0.146097306086769
+"1709","Racer 5 India Pale Ale","Punkin Ale",0.0925030054616047
+"1710","Racer 5 India Pale Ale","Double Bastard Ale",0.17947432673685
+"1711","Racer 5 India Pale Ale","Samuel Adams Winter Lager",0.112318702240121
+"1712","Racer 5 India Pale Ale","Hop Wallop",0.228615627673113
+"1713","Racer 5 India Pale Ale","Oatmeal Stout",0.162600477546768
+"1714","Racer 5 India Pale Ale","Anchor Steam Beer",0.127487819131303
+"1715","Racer 5 India Pale Ale","120 Minute IPA",0.115186075864651
+"1716","Orval Trappist Ale","90 Minute IPA",0.0420739922232171
+"1717","Orval Trappist Ale","India Pale Ale",0.141354705865737
+"1718","Orval Trappist Ale","Old Rasputin Russian Imperial Stout",0.163376496870045
+"1719","Orval Trappist Ale","Sierra Nevada Celebration Ale",0.15608615232373
+"1720","Orval Trappist Ale","Stone Ruination IPA",0.11236153266333
+"1721","Orval Trappist Ale","Arrogant Bastard Ale",0.0933470128462431
+"1722","Orval Trappist Ale","Two Hearted Ale",0.100756656300267
+"1723","Orval Trappist Ale","Stone IPA (India Pale Ale)",0.119685779942937
+"1724","Orval Trappist Ale","Sierra Nevada Pale Ale",0.194770643769948
+"1725","Orval Trappist Ale","La Fin Du Monde",0.13229399090057
+"1726","Orval Trappist Ale","Pale Ale",0.124719558764282
+"1727","Orval Trappist Ale","Duvel",0.225394083412866
+"1728","Orval Trappist Ale","Founders Breakfast Stout",0.069084184800986
+"1729","Orval Trappist Ale","Sierra Nevada Bigfoot Barleywine Style Ale",0.101547395947662
+"1730","Orval Trappist Ale","Pliny The Elder",0.0387881910558976
+"1731","Orval Trappist Ale","60 Minute IPA",0.111357703635
+"1732","Orval Trappist Ale","Brooklyn Black Chocolate Stout",0.0689465558383878
+"1733","Orval Trappist Ale","Storm King Stout",0.0633936292020509
+"1734","Orval Trappist Ale","Samuel Adams Boston Lager",0.115659784828701
+"1735","Orval Trappist Ale","Bell's Hopslam Ale",0.0277599189943506
+"1736","Orval Trappist Ale","Stone Imperial Russian Stout",0.0909884038744912
+"1737","Orval Trappist Ale","Chocolate Stout",0.0901130832580013
+"1738","Orval Trappist Ale","Imperial Stout",0.0234990876177893
+"1739","Orval Trappist Ale","HopDevil Ale",0.120121107664832
+"1740","Orval Trappist Ale","Dead Guy Ale",0.129076911741416
+"1741","Orval Trappist Ale","St. Bernardus Abt 12",0.0656539053288643
+"1742","Orval Trappist Ale","Trappistes Rochefort 10",0.106070828632188
+"1743","Orval Trappist Ale","Young's Double Chocolate Stout",0.0606114289229316
+"1744","Orval Trappist Ale","Ayinger Celebrator Doppelbock",0.134670021853502
+"1745","Orval Trappist Ale","Samuel Smith's Oatmeal Stout",0.149742719695946
+"1746","Orval Trappist Ale","Chimay Grande Réserve (Blue)",0.113773539194597
+"1747","Orval Trappist Ale","Sierra Nevada Torpedo Extra IPA",0.134687088001017
+"1748","Orval Trappist Ale","Guinness Draught",0.0103193517132848
+"1749","Orval Trappist Ale","Weihenstephaner Hefeweissbier",0.169440781381529
+"1750","Orval Trappist Ale","Racer 5 India Pale Ale",0.138088521674933
+"1751","Orval Trappist Ale","Tröegs Nugget Nectar",0.109841772125227
+"1752","Orval Trappist Ale","Hop Rod Rye",0.195660993560277
+"1753","Orval Trappist Ale","Founders KBS (Kentucky Breakfast Stout)",0.0498995114780085
+"1754","Orval Trappist Ale","Schneider Aventinus",0.165164927055298
+"1755","Orval Trappist Ale","Samuel Adams Octoberfest",0.139054061503009
+"1756","Orval Trappist Ale","Hennepin (Farmhouse Saison)",0.140764975765635
+"1757","Orval Trappist Ale","Prima Pils",0.179153617437238
+"1758","Orval Trappist Ale","Punkin Ale",0.19587305117701
+"1759","Orval Trappist Ale","Double Bastard Ale",0.0505770398924593
+"1760","Orval Trappist Ale","Samuel Adams Winter Lager",0.079348145498117
+"1761","Orval Trappist Ale","Hop Wallop",0.0918745172323848
+"1762","Orval Trappist Ale","Oatmeal Stout",0.0338163550651455
+"1763","Orval Trappist Ale","Anchor Steam Beer",0.21929966507325
+"1764","Orval Trappist Ale","120 Minute IPA",-0.0203369481564845
+"1765","Tröegs Nugget Nectar","90 Minute IPA",0.196319919613943
+"1766","Tröegs Nugget Nectar","India Pale Ale",0.207967151628672
+"1767","Tröegs Nugget Nectar","Old Rasputin Russian Imperial Stout",0.153668918481522
+"1768","Tröegs Nugget Nectar","Sierra Nevada Celebration Ale",0.241312054104852
+"1769","Tröegs Nugget Nectar","Stone Ruination IPA",0.191837620247775
+"1770","Tröegs Nugget Nectar","Arrogant Bastard Ale",0.195672144949737
+"1771","Tröegs Nugget Nectar","Two Hearted Ale",0.226003616604787
+"1772","Tröegs Nugget Nectar","Stone IPA (India Pale Ale)",0.300829149228598
+"1773","Tröegs Nugget Nectar","Sierra Nevada Pale Ale",0.17399935435824
+"1774","Tröegs Nugget Nectar","La Fin Du Monde",0.094972081432046
+"1775","Tröegs Nugget Nectar","Pale Ale",0.0814158174035445
+"1776","Tröegs Nugget Nectar","Duvel",0.0939656778401165
+"1777","Tröegs Nugget Nectar","Founders Breakfast Stout",0.202222434572264
+"1778","Tröegs Nugget Nectar","Sierra Nevada Bigfoot Barleywine Style Ale",0.184569087574798
+"1779","Tröegs Nugget Nectar","Pliny The Elder",0.199650408803827
+"1780","Tröegs Nugget Nectar","60 Minute IPA",0.197603881251609
+"1781","Tröegs Nugget Nectar","Brooklyn Black Chocolate Stout",0.134273219399049
+"1782","Tröegs Nugget Nectar","Storm King Stout",0.17622210520802
+"1783","Tröegs Nugget Nectar","Samuel Adams Boston Lager",0.171978332396895
+"1784","Tröegs Nugget Nectar","Bell's Hopslam Ale",0.183327172285679
+"1785","Tröegs Nugget Nectar","Stone Imperial Russian Stout",0.149414590109403
+"1786","Tröegs Nugget Nectar","Chocolate Stout",0.117712417706478
+"1787","Tröegs Nugget Nectar","Imperial Stout",0.140698332807762
+"1788","Tröegs Nugget Nectar","HopDevil Ale",0.234667758645425
+"1789","Tröegs Nugget Nectar","Dead Guy Ale",0.065069598967457
+"1790","Tröegs Nugget Nectar","St. Bernardus Abt 12",0.179221229667175
+"1791","Tröegs Nugget Nectar","Trappistes Rochefort 10",0.135758267696238
+"1792","Tröegs Nugget Nectar","Young's Double Chocolate Stout",0.0493603245714446
+"1793","Tröegs Nugget Nectar","Ayinger Celebrator Doppelbock",0.105547442164565
+"1794","Tröegs Nugget Nectar","Samuel Smith's Oatmeal Stout",0.0873975189785892
+"1795","Tröegs Nugget Nectar","Chimay Grande Réserve (Blue)",0.105492990596567
+"1796","Tröegs Nugget Nectar","Sierra Nevada Torpedo Extra IPA",0.248224602997023
+"1797","Tröegs Nugget Nectar","Guinness Draught",0.125375621452397
+"1798","Tröegs Nugget Nectar","Weihenstephaner Hefeweissbier",0.0896130344516916
+"1799","Tröegs Nugget Nectar","Racer 5 India Pale Ale",0.280666418987609
+"1800","Tröegs Nugget Nectar","Orval Trappist Ale",0.109841772125227
+"1801","Tröegs Nugget Nectar","Hop Rod Rye",0.241337075997936
+"1802","Tröegs Nugget Nectar","Founders KBS (Kentucky Breakfast Stout)",0.146584390552983
+"1803","Tröegs Nugget Nectar","Schneider Aventinus",0.138387439680485
+"1804","Tröegs Nugget Nectar","Samuel Adams Octoberfest",0.0266728394416427
+"1805","Tröegs Nugget Nectar","Hennepin (Farmhouse Saison)",0.18306585644431
+"1806","Tröegs Nugget Nectar","Prima Pils",0.296918817549911
+"1807","Tröegs Nugget Nectar","Punkin Ale",0.192284966773131
+"1808","Tröegs Nugget Nectar","Double Bastard Ale",0.0886668851406659
+"1809","Tröegs Nugget Nectar","Samuel Adams Winter Lager",0.127839819215243
+"1810","Tröegs Nugget Nectar","Hop Wallop",0.180226601728259
+"1811","Tröegs Nugget Nectar","Oatmeal Stout",0.135602630480546
+"1812","Tröegs Nugget Nectar","Anchor Steam Beer",0.110703564468621
+"1813","Tröegs Nugget Nectar","120 Minute IPA",0.0848833514890849
+"1814","Hop Rod Rye","90 Minute IPA",0.206887859430677
+"1815","Hop Rod Rye","India Pale Ale",0.118825112839027
+"1816","Hop Rod Rye","Old Rasputin Russian Imperial Stout",0.213504633436108
+"1817","Hop Rod Rye","Sierra Nevada Celebration Ale",0.279569697229943
+"1818","Hop Rod Rye","Stone Ruination IPA",0.255151606171168
+"1819","Hop Rod Rye","Arrogant Bastard Ale",0.290273483343008
+"1820","Hop Rod Rye","Two Hearted Ale",0.244852468577515
+"1821","Hop Rod Rye","Stone IPA (India Pale Ale)",0.255669427440194
+"1822","Hop Rod Rye","Sierra Nevada Pale Ale",0.205171438613656
+"1823","Hop Rod Rye","La Fin Du Monde",0.210979612052276
+"1824","Hop Rod Rye","Pale Ale",0.0674461256592793
+"1825","Hop Rod Rye","Duvel",0.165666940786847
+"1826","Hop Rod Rye","Founders Breakfast Stout",0.223283686382959
+"1827","Hop Rod Rye","Sierra Nevada Bigfoot Barleywine Style Ale",0.301505564374375
+"1828","Hop Rod Rye","Pliny The Elder",0.176062420815952
+"1829","Hop Rod Rye","60 Minute IPA",0.164211478814165
+"1830","Hop Rod Rye","Brooklyn Black Chocolate Stout",0.106764408911549
+"1831","Hop Rod Rye","Storm King Stout",0.263097640082816
+"1832","Hop Rod Rye","Samuel Adams Boston Lager",0.157224674192686
+"1833","Hop Rod Rye","Bell's Hopslam Ale",0.129033666199147
+"1834","Hop Rod Rye","Stone Imperial Russian Stout",0.204336916812922
+"1835","Hop Rod Rye","Chocolate Stout",0.260015702360333
+"1836","Hop Rod Rye","Imperial Stout",0.236523026595511
+"1837","Hop Rod Rye","HopDevil Ale",0.236244442878924
+"1838","Hop Rod Rye","Dead Guy Ale",0.187555861901894
+"1839","Hop Rod Rye","St. Bernardus Abt 12",0.190662612248881
+"1840","Hop Rod Rye","Trappistes Rochefort 10",0.21411103104534
+"1841","Hop Rod Rye","Young's Double Chocolate Stout",0.129046396855225
+"1842","Hop Rod Rye","Ayinger Celebrator Doppelbock",0.187317999294267
+"1843","Hop Rod Rye","Samuel Smith's Oatmeal Stout",0.159006185768314
+"1844","Hop Rod Rye","Chimay Grande Réserve (Blue)",0.110535480594508
+"1845","Hop Rod Rye","Sierra Nevada Torpedo Extra IPA",0.234270866768275
+"1846","Hop Rod Rye","Guinness Draught",0.0230809545987418
+"1847","Hop Rod Rye","Weihenstephaner Hefeweissbier",0.169758819311074
+"1848","Hop Rod Rye","Racer 5 India Pale Ale",0.296023493806013
+"1849","Hop Rod Rye","Orval Trappist Ale",0.195660993560277
+"1850","Hop Rod Rye","Tröegs Nugget Nectar",0.241337075997936
+"1851","Hop Rod Rye","Founders KBS (Kentucky Breakfast Stout)",0.181643476331385
+"1852","Hop Rod Rye","Schneider Aventinus",0.190125800360391
+"1853","Hop Rod Rye","Samuel Adams Octoberfest",0.0363065988894184
+"1854","Hop Rod Rye","Hennepin (Farmhouse Saison)",0.276898692362347
+"1855","Hop Rod Rye","Prima Pils",0.182832225889333
+"1856","Hop Rod Rye","Punkin Ale",0.115103023637554
+"1857","Hop Rod Rye","Double Bastard Ale",0.273960611133269
+"1858","Hop Rod Rye","Samuel Adams Winter Lager",0.199867436996707
+"1859","Hop Rod Rye","Hop Wallop",0.288704735314043
+"1860","Hop Rod Rye","Oatmeal Stout",0.132626256178997
+"1861","Hop Rod Rye","Anchor Steam Beer",0.127413153241077
+"1862","Hop Rod Rye","120 Minute IPA",0.0671865353479493
+"1863","Founders KBS (Kentucky Breakfast Stout)","90 Minute IPA",0.180510281470358
+"1864","Founders KBS (Kentucky Breakfast Stout)","India Pale Ale",0.0807225095472804
+"1865","Founders KBS (Kentucky Breakfast Stout)","Old Rasputin Russian Imperial Stout",0.179209103508674
+"1866","Founders KBS (Kentucky Breakfast Stout)","Sierra Nevada Celebration Ale",0.109230719188187
+"1867","Founders KBS (Kentucky Breakfast Stout)","Stone Ruination IPA",0.141353537768861
+"1868","Founders KBS (Kentucky Breakfast Stout)","Arrogant Bastard Ale",0.179837807793385
+"1869","Founders KBS (Kentucky Breakfast Stout)","Two Hearted Ale",0.179096139059944
+"1870","Founders KBS (Kentucky Breakfast Stout)","Stone IPA (India Pale Ale)",0.0930962827258075
+"1871","Founders KBS (Kentucky Breakfast Stout)","Sierra Nevada Pale Ale",0.0655383524961218
+"1872","Founders KBS (Kentucky Breakfast Stout)","La Fin Du Monde",0.164843125247247
+"1873","Founders KBS (Kentucky Breakfast Stout)","Pale Ale",0.00373540976005604
+"1874","Founders KBS (Kentucky Breakfast Stout)","Duvel",0.119957121616405
+"1875","Founders KBS (Kentucky Breakfast Stout)","Founders Breakfast Stout",0.350557368234935
+"1876","Founders KBS (Kentucky Breakfast Stout)","Sierra Nevada Bigfoot Barleywine Style Ale",0.115493706308137
+"1877","Founders KBS (Kentucky Breakfast Stout)","Pliny The Elder",0.264172002827644
+"1878","Founders KBS (Kentucky Breakfast Stout)","60 Minute IPA",0.104176509834935
+"1879","Founders KBS (Kentucky Breakfast Stout)","Brooklyn Black Chocolate Stout",0.175836884637476
+"1880","Founders KBS (Kentucky Breakfast Stout)","Storm King Stout",0.16368966545623
+"1881","Founders KBS (Kentucky Breakfast Stout)","Samuel Adams Boston Lager",0.0532326812244487
+"1882","Founders KBS (Kentucky Breakfast Stout)","Bell's Hopslam Ale",0.187917897470851
+"1883","Founders KBS (Kentucky Breakfast Stout)","Stone Imperial Russian Stout",0.212935978290989
+"1884","Founders KBS (Kentucky Breakfast Stout)","Chocolate Stout",0.16512559060758
+"1885","Founders KBS (Kentucky Breakfast Stout)","Imperial Stout",0.170618005389813
+"1886","Founders KBS (Kentucky Breakfast Stout)","HopDevil Ale",0.148337861677217
+"1887","Founders KBS (Kentucky Breakfast Stout)","Dead Guy Ale",0.13183872264645
+"1888","Founders KBS (Kentucky Breakfast Stout)","St. Bernardus Abt 12",0.192013251558277
+"1889","Founders KBS (Kentucky Breakfast Stout)","Trappistes Rochefort 10",0.0904237191455001
+"1890","Founders KBS (Kentucky Breakfast Stout)","Young's Double Chocolate Stout",0.0448747226515701
+"1891","Founders KBS (Kentucky Breakfast Stout)","Ayinger Celebrator Doppelbock",0.194397262107883
+"1892","Founders KBS (Kentucky Breakfast Stout)","Samuel Smith's Oatmeal Stout",0.122898647405884
+"1893","Founders KBS (Kentucky Breakfast Stout)","Chimay Grande Réserve (Blue)",0.0887180211649195
+"1894","Founders KBS (Kentucky Breakfast Stout)","Sierra Nevada Torpedo Extra IPA",0.155292441405617
+"1895","Founders KBS (Kentucky Breakfast Stout)","Guinness Draught",0.0592405930507852
+"1896","Founders KBS (Kentucky Breakfast Stout)","Weihenstephaner Hefeweissbier",0.139978144187237
+"1897","Founders KBS (Kentucky Breakfast Stout)","Racer 5 India Pale Ale",0.0942213018183894
+"1898","Founders KBS (Kentucky Breakfast Stout)","Orval Trappist Ale",0.0498995114780085
+"1899","Founders KBS (Kentucky Breakfast Stout)","Tröegs Nugget Nectar",0.146584390552983
+"1900","Founders KBS (Kentucky Breakfast Stout)","Hop Rod Rye",0.181643476331385
+"1901","Founders KBS (Kentucky Breakfast Stout)","Schneider Aventinus",0.0897581564615247
+"1902","Founders KBS (Kentucky Breakfast Stout)","Samuel Adams Octoberfest",0.123619490244297
+"1903","Founders KBS (Kentucky Breakfast Stout)","Hennepin (Farmhouse Saison)",0.117774305527434
+"1904","Founders KBS (Kentucky Breakfast Stout)","Prima Pils",0.105114813194343
+"1905","Founders KBS (Kentucky Breakfast Stout)","Punkin Ale",0.201225864650063
+"1906","Founders KBS (Kentucky Breakfast Stout)","Double Bastard Ale",0.0956236275256108
+"1907","Founders KBS (Kentucky Breakfast Stout)","Samuel Adams Winter Lager",0.0563245815940497
+"1908","Founders KBS (Kentucky Breakfast Stout)","Hop Wallop",0.157702417870055
+"1909","Founders KBS (Kentucky Breakfast Stout)","Oatmeal Stout",-0.0112035578869656
+"1910","Founders KBS (Kentucky Breakfast Stout)","Anchor Steam Beer",0.0428304210327706
+"1911","Founders KBS (Kentucky Breakfast Stout)","120 Minute IPA",0.0744028255987547
+"1912","Schneider Aventinus","90 Minute IPA",0.174636986202237
+"1913","Schneider Aventinus","India Pale Ale",0.0211083149136472
+"1914","Schneider Aventinus","Old Rasputin Russian Imperial Stout",0.160506058444528
+"1915","Schneider Aventinus","Sierra Nevada Celebration Ale",0.179466156975183
+"1916","Schneider Aventinus","Stone Ruination IPA",0.164138949478333
+"1917","Schneider Aventinus","Arrogant Bastard Ale",0.133686920717904
+"1918","Schneider Aventinus","Two Hearted Ale",0.103365333239913
+"1919","Schneider Aventinus","Stone IPA (India Pale Ale)",0.131305050182674
+"1920","Schneider Aventinus","Sierra Nevada Pale Ale",0.0813551690076395
+"1921","Schneider Aventinus","La Fin Du Monde",0.225255079218184
+"1922","Schneider Aventinus","Pale Ale",-0.0135447535402441
+"1923","Schneider Aventinus","Duvel",0.27156018958896
+"1924","Schneider Aventinus","Founders Breakfast Stout",0.0949458285868412
+"1925","Schneider Aventinus","Sierra Nevada Bigfoot Barleywine Style Ale",0.117613904514872
+"1926","Schneider Aventinus","Pliny The Elder",0.169443506261081
+"1927","Schneider Aventinus","60 Minute IPA",0.136527609258108
+"1928","Schneider Aventinus","Brooklyn Black Chocolate Stout",0.14501867619422
+"1929","Schneider Aventinus","Storm King Stout",0.16608996610709
+"1930","Schneider Aventinus","Samuel Adams Boston Lager",0.101298508629924
+"1931","Schneider Aventinus","Bell's Hopslam Ale",0.124879341961226
+"1932","Schneider Aventinus","Stone Imperial Russian Stout",0.0796754439336563
+"1933","Schneider Aventinus","Chocolate Stout",0.183576218117626
+"1934","Schneider Aventinus","Imperial Stout",0.118781789144716
+"1935","Schneider Aventinus","HopDevil Ale",0.182953941658185
+"1936","Schneider Aventinus","Dead Guy Ale",0.164802848386277
+"1937","Schneider Aventinus","St. Bernardus Abt 12",0.222152098165
+"1938","Schneider Aventinus","Trappistes Rochefort 10",0.208563690158124
+"1939","Schneider Aventinus","Young's Double Chocolate Stout",0.131003082292213
+"1940","Schneider Aventinus","Ayinger Celebrator Doppelbock",0.296287320521178
+"1941","Schneider Aventinus","Samuel Smith's Oatmeal Stout",0.14159280904892
+"1942","Schneider Aventinus","Chimay Grande Réserve (Blue)",0.252984783332714
+"1943","Schneider Aventinus","Sierra Nevada Torpedo Extra IPA",0.0151478039708441
+"1944","Schneider Aventinus","Guinness Draught",0.0434207737139561
+"1945","Schneider Aventinus","Weihenstephaner Hefeweissbier",0.242999857774611
+"1946","Schneider Aventinus","Racer 5 India Pale Ale",0.104572692596812
+"1947","Schneider Aventinus","Orval Trappist Ale",0.165164927055298
+"1948","Schneider Aventinus","Tröegs Nugget Nectar",0.138387439680485
+"1949","Schneider Aventinus","Hop Rod Rye",0.190125800360391
+"1950","Schneider Aventinus","Founders KBS (Kentucky Breakfast Stout)",0.0897581564615247
+"1951","Schneider Aventinus","Samuel Adams Octoberfest",0.0381515634228207
+"1952","Schneider Aventinus","Hennepin (Farmhouse Saison)",0.171500552773394
+"1953","Schneider Aventinus","Prima Pils",0.182017744365617
+"1954","Schneider Aventinus","Punkin Ale",0.150688977493754
+"1955","Schneider Aventinus","Double Bastard Ale",0.128965513846887
+"1956","Schneider Aventinus","Samuel Adams Winter Lager",0.0892005379934993
+"1957","Schneider Aventinus","Hop Wallop",0.105026554929302
+"1958","Schneider Aventinus","Oatmeal Stout",-0.0129823524131122
+"1959","Schneider Aventinus","Anchor Steam Beer",0.075724660537013
+"1960","Schneider Aventinus","120 Minute IPA",0.0770358207462183
+"1961","Samuel Adams Octoberfest","90 Minute IPA",0.0586960397306256
+"1962","Samuel Adams Octoberfest","India Pale Ale",0.0302943467669907
+"1963","Samuel Adams Octoberfest","Old Rasputin Russian Imperial Stout",0.103684648184479
+"1964","Samuel Adams Octoberfest","Sierra Nevada Celebration Ale",0.0839236311389821
+"1965","Samuel Adams Octoberfest","Stone Ruination IPA",0.0763448168451256
+"1966","Samuel Adams Octoberfest","Arrogant Bastard Ale",0.0630480450664984
+"1967","Samuel Adams Octoberfest","Two Hearted Ale",0.0536490128533121
+"1968","Samuel Adams Octoberfest","Stone IPA (India Pale Ale)",0.0178860228478105
+"1969","Samuel Adams Octoberfest","Sierra Nevada Pale Ale",0.138531171468208
+"1970","Samuel Adams Octoberfest","La Fin Du Monde",0.142219401755995
+"1971","Samuel Adams Octoberfest","Pale Ale",0.134366562940574
+"1972","Samuel Adams Octoberfest","Duvel",0.0801362861466415
+"1973","Samuel Adams Octoberfest","Founders Breakfast Stout",0.105531730772644
+"1974","Samuel Adams Octoberfest","Sierra Nevada Bigfoot Barleywine Style Ale",0.0673825381934669
+"1975","Samuel Adams Octoberfest","Pliny The Elder",0.117487875087975
+"1976","Samuel Adams Octoberfest","60 Minute IPA",0.0902276753107698
+"1977","Samuel Adams Octoberfest","Brooklyn Black Chocolate Stout",0.0570324018756355
+"1978","Samuel Adams Octoberfest","Storm King Stout",0.0562764968435453
+"1979","Samuel Adams Octoberfest","Samuel Adams Boston Lager",0.302252764753189
+"1980","Samuel Adams Octoberfest","Bell's Hopslam Ale",0.0616611963131726
+"1981","Samuel Adams Octoberfest","Stone Imperial Russian Stout",0.0402513398010112
+"1982","Samuel Adams Octoberfest","Chocolate Stout",0.0427706878908764
+"1983","Samuel Adams Octoberfest","Imperial Stout",0.00751343166965145
+"1984","Samuel Adams Octoberfest","HopDevil Ale",0.0505001709205103
+"1985","Samuel Adams Octoberfest","Dead Guy Ale",0.0916576775033373
+"1986","Samuel Adams Octoberfest","St. Bernardus Abt 12",0.0798775467270815
+"1987","Samuel Adams Octoberfest","Trappistes Rochefort 10",0.10208666442544
+"1988","Samuel Adams Octoberfest","Young's Double Chocolate Stout",0.109812376124198
+"1989","Samuel Adams Octoberfest","Ayinger Celebrator Doppelbock",0.133100479161427
+"1990","Samuel Adams Octoberfest","Samuel Smith's Oatmeal Stout",0.168002355427916
+"1991","Samuel Adams Octoberfest","Chimay Grande Réserve (Blue)",0.173336461565734
+"1992","Samuel Adams Octoberfest","Sierra Nevada Torpedo Extra IPA",0.159022161274513
+"1993","Samuel Adams Octoberfest","Guinness Draught",0.128084047254771
+"1994","Samuel Adams Octoberfest","Weihenstephaner Hefeweissbier",0.0842838547835913
+"1995","Samuel Adams Octoberfest","Racer 5 India Pale Ale",0.0730612341346785
+"1996","Samuel Adams Octoberfest","Orval Trappist Ale",0.139054061503009
+"1997","Samuel Adams Octoberfest","Tröegs Nugget Nectar",0.0266728394416427
+"1998","Samuel Adams Octoberfest","Hop Rod Rye",0.0363065988894184
+"1999","Samuel Adams Octoberfest","Founders KBS (Kentucky Breakfast Stout)",0.123619490244297
+"2000","Samuel Adams Octoberfest","Schneider Aventinus",0.0381515634228207
+"2001","Samuel Adams Octoberfest","Hennepin (Farmhouse Saison)",0.110671067825524
+"2002","Samuel Adams Octoberfest","Prima Pils",0.0889680508439404
+"2003","Samuel Adams Octoberfest","Punkin Ale",0.199418088291009
+"2004","Samuel Adams Octoberfest","Double Bastard Ale",-0.0303064437691948
+"2005","Samuel Adams Octoberfest","Samuel Adams Winter Lager",0.276802902499039
+"2006","Samuel Adams Octoberfest","Hop Wallop",0.136460588932674
+"2007","Samuel Adams Octoberfest","Oatmeal Stout",0.107663314913512
+"2008","Samuel Adams Octoberfest","Anchor Steam Beer",0.18944257782322
+"2009","Samuel Adams Octoberfest","120 Minute IPA",0.0238236756020053
+"2010","Hennepin (Farmhouse Saison)","90 Minute IPA",0.134816443987764
+"2011","Hennepin (Farmhouse Saison)","India Pale Ale",0.0506348668677497
+"2012","Hennepin (Farmhouse Saison)","Old Rasputin Russian Imperial Stout",0.173785957035565
+"2013","Hennepin (Farmhouse Saison)","Sierra Nevada Celebration Ale",0.211468509455556
+"2014","Hennepin (Farmhouse Saison)","Stone Ruination IPA",0.274390236009036
+"2015","Hennepin (Farmhouse Saison)","Arrogant Bastard Ale",0.224883372129715
+"2016","Hennepin (Farmhouse Saison)","Two Hearted Ale",0.206684974010164
+"2017","Hennepin (Farmhouse Saison)","Stone IPA (India Pale Ale)",0.223096916677525
+"2018","Hennepin (Farmhouse Saison)","Sierra Nevada Pale Ale",0.168439217292234
+"2019","Hennepin (Farmhouse Saison)","La Fin Du Monde",0.322663906844084
+"2020","Hennepin (Farmhouse Saison)","Pale Ale",0.0931942974120415
+"2021","Hennepin (Farmhouse Saison)","Duvel",0.273082661492609
+"2022","Hennepin (Farmhouse Saison)","Founders Breakfast Stout",0.0803534583014668
+"2023","Hennepin (Farmhouse Saison)","Sierra Nevada Bigfoot Barleywine Style Ale",0.213512802827208
+"2024","Hennepin (Farmhouse Saison)","Pliny The Elder",0.179148736944902
+"2025","Hennepin (Farmhouse Saison)","60 Minute IPA",0.194826950137398
+"2026","Hennepin (Farmhouse Saison)","Brooklyn Black Chocolate Stout",0.172264166291062
+"2027","Hennepin (Farmhouse Saison)","Storm King Stout",0.251758493038064
+"2028","Hennepin (Farmhouse Saison)","Samuel Adams Boston Lager",0.168028602566691
+"2029","Hennepin (Farmhouse Saison)","Bell's Hopslam Ale",0.162182741864595
+"2030","Hennepin (Farmhouse Saison)","Stone Imperial Russian Stout",0.144466024273915
+"2031","Hennepin (Farmhouse Saison)","Chocolate Stout",0.24616630986417
+"2032","Hennepin (Farmhouse Saison)","Imperial Stout",0.136789700217727
+"2033","Hennepin (Farmhouse Saison)","HopDevil Ale",0.242481191188385
+"2034","Hennepin (Farmhouse Saison)","Dead Guy Ale",0.176114134340613
+"2035","Hennepin (Farmhouse Saison)","St. Bernardus Abt 12",0.264279644107716
+"2036","Hennepin (Farmhouse Saison)","Trappistes Rochefort 10",0.234606052340786
+"2037","Hennepin (Farmhouse Saison)","Young's Double Chocolate Stout",0.144126081326067
+"2038","Hennepin (Farmhouse Saison)","Ayinger Celebrator Doppelbock",0.15440216229238
+"2039","Hennepin (Farmhouse Saison)","Samuel Smith's Oatmeal Stout",0.151232162794823
+"2040","Hennepin (Farmhouse Saison)","Chimay Grande Réserve (Blue)",0.212206109728203
+"2041","Hennepin (Farmhouse Saison)","Sierra Nevada Torpedo Extra IPA",0.177007320099622
+"2042","Hennepin (Farmhouse Saison)","Guinness Draught",0.106721977992841
+"2043","Hennepin (Farmhouse Saison)","Weihenstephaner Hefeweissbier",0.222951352736393
+"2044","Hennepin (Farmhouse Saison)","Racer 5 India Pale Ale",0.203077028553946
+"2045","Hennepin (Farmhouse Saison)","Orval Trappist Ale",0.140764975765635
+"2046","Hennepin (Farmhouse Saison)","Tröegs Nugget Nectar",0.18306585644431
+"2047","Hennepin (Farmhouse Saison)","Hop Rod Rye",0.276898692362347
+"2048","Hennepin (Farmhouse Saison)","Founders KBS (Kentucky Breakfast Stout)",0.117774305527434
+"2049","Hennepin (Farmhouse Saison)","Schneider Aventinus",0.171500552773394
+"2050","Hennepin (Farmhouse Saison)","Samuel Adams Octoberfest",0.110671067825524
+"2051","Hennepin (Farmhouse Saison)","Prima Pils",0.203819115424496
+"2052","Hennepin (Farmhouse Saison)","Punkin Ale",0.233238776129217
+"2053","Hennepin (Farmhouse Saison)","Double Bastard Ale",0.156793787213506
+"2054","Hennepin (Farmhouse Saison)","Samuel Adams Winter Lager",0.150399347870588
+"2055","Hennepin (Farmhouse Saison)","Hop Wallop",0.160856871126812
+"2056","Hennepin (Farmhouse Saison)","Oatmeal Stout",0.102706436648164
+"2057","Hennepin (Farmhouse Saison)","Anchor Steam Beer",0.19499700565981
+"2058","Hennepin (Farmhouse Saison)","120 Minute IPA",0.0899509573466199
+"2059","Prima Pils","90 Minute IPA",0.10020061607832
+"2060","Prima Pils","India Pale Ale",0.133169541130146
+"2061","Prima Pils","Old Rasputin Russian Imperial Stout",0.154033251357343
+"2062","Prima Pils","Sierra Nevada Celebration Ale",0.28058237914603
+"2063","Prima Pils","Stone Ruination IPA",0.154170706805289
+"2064","Prima Pils","Arrogant Bastard Ale",0.221512376728116
+"2065","Prima Pils","Two Hearted Ale",0.202757376578809
+"2066","Prima Pils","Stone IPA (India Pale Ale)",0.188681060252062
+"2067","Prima Pils","Sierra Nevada Pale Ale",0.193844112229639
+"2068","Prima Pils","La Fin Du Monde",0.205898343821925
+"2069","Prima Pils","Pale Ale",0.0892226057184429
+"2070","Prima Pils","Duvel",0.250019273362566
+"2071","Prima Pils","Founders Breakfast Stout",0.185626580413166
+"2072","Prima Pils","Sierra Nevada Bigfoot Barleywine Style Ale",0.220118039721574
+"2073","Prima Pils","Pliny The Elder",0.183939615355121
+"2074","Prima Pils","60 Minute IPA",0.18158675446783
+"2075","Prima Pils","Brooklyn Black Chocolate Stout",0.115608522156415
+"2076","Prima Pils","Storm King Stout",0.245157820670625
+"2077","Prima Pils","Samuel Adams Boston Lager",0.23338053932185
+"2078","Prima Pils","Bell's Hopslam Ale",0.0973794515788544
+"2079","Prima Pils","Stone Imperial Russian Stout",0.0624923616533302
+"2080","Prima Pils","Chocolate Stout",0.227402738250718
+"2081","Prima Pils","Imperial Stout",0.184030254615814
+"2082","Prima Pils","HopDevil Ale",0.346634152638943
+"2083","Prima Pils","Dead Guy Ale",0.151643825233281
+"2084","Prima Pils","St. Bernardus Abt 12",0.187541513071491
+"2085","Prima Pils","Trappistes Rochefort 10",0.091756231110165
+"2086","Prima Pils","Young's Double Chocolate Stout",0.141804102628373
+"2087","Prima Pils","Ayinger Celebrator Doppelbock",0.156092837271749
+"2088","Prima Pils","Samuel Smith's Oatmeal Stout",0.0697714001235676
+"2089","Prima Pils","Chimay Grande Réserve (Blue)",0.133267398183327
+"2090","Prima Pils","Sierra Nevada Torpedo Extra IPA",0.134358717164972
+"2091","Prima Pils","Guinness Draught",0.0526068776606762
+"2092","Prima Pils","Weihenstephaner Hefeweissbier",0.208217621798259
+"2093","Prima Pils","Racer 5 India Pale Ale",0.146097306086769
+"2094","Prima Pils","Orval Trappist Ale",0.179153617437238
+"2095","Prima Pils","Tröegs Nugget Nectar",0.296918817549911
+"2096","Prima Pils","Hop Rod Rye",0.182832225889333
+"2097","Prima Pils","Founders KBS (Kentucky Breakfast Stout)",0.105114813194343
+"2098","Prima Pils","Schneider Aventinus",0.182017744365617
+"2099","Prima Pils","Samuel Adams Octoberfest",0.0889680508439404
+"2100","Prima Pils","Hennepin (Farmhouse Saison)",0.203819115424496
+"2101","Prima Pils","Punkin Ale",0.193156244892345
+"2102","Prima Pils","Double Bastard Ale",0.146216209137158
+"2103","Prima Pils","Samuel Adams Winter Lager",0.116798323729242
+"2104","Prima Pils","Hop Wallop",0.174509183267382
+"2105","Prima Pils","Oatmeal Stout",0.10054397972857
+"2106","Prima Pils","Anchor Steam Beer",0.232293734619183
+"2107","Prima Pils","120 Minute IPA",0.0220323055953616
+"2108","Punkin Ale","90 Minute IPA",0.164344055517634
+"2109","Punkin Ale","India Pale Ale",0.131611016780214
+"2110","Punkin Ale","Old Rasputin Russian Imperial Stout",0.132581852466575
+"2111","Punkin Ale","Sierra Nevada Celebration Ale",0.182502224956041
+"2112","Punkin Ale","Stone Ruination IPA",0.157799502294677
+"2113","Punkin Ale","Arrogant Bastard Ale",0.187698633278277
+"2114","Punkin Ale","Two Hearted Ale",0.157936470721673
+"2115","Punkin Ale","Stone IPA (India Pale Ale)",0.133305904072403
+"2116","Punkin Ale","Sierra Nevada Pale Ale",0.134222217067678
+"2117","Punkin Ale","La Fin Du Monde",0.183036689348031
+"2118","Punkin Ale","Pale Ale",0.124319008259014
+"2119","Punkin Ale","Duvel",0.230900236544758
+"2120","Punkin Ale","Founders Breakfast Stout",0.197069543797323
+"2121","Punkin Ale","Sierra Nevada Bigfoot Barleywine Style Ale",0.156870361888891
+"2122","Punkin Ale","Pliny The Elder",0.205486813707396
+"2123","Punkin Ale","60 Minute IPA",0.239952916190646
+"2124","Punkin Ale","Brooklyn Black Chocolate Stout",0.184059549024909
+"2125","Punkin Ale","Storm King Stout",0.126868826073663
+"2126","Punkin Ale","Samuel Adams Boston Lager",0.21108630142805
+"2127","Punkin Ale","Bell's Hopslam Ale",0.157690917994427
+"2128","Punkin Ale","Stone Imperial Russian Stout",0.178903691769229
+"2129","Punkin Ale","Chocolate Stout",0.122323512501276
+"2130","Punkin Ale","Imperial Stout",0.0730336688572803
+"2131","Punkin Ale","HopDevil Ale",0.198492125851066
+"2132","Punkin Ale","Dead Guy Ale",0.186115068412552
+"2133","Punkin Ale","St. Bernardus Abt 12",0.132456908163766
+"2134","Punkin Ale","Trappistes Rochefort 10",0.288398775716145
+"2135","Punkin Ale","Young's Double Chocolate Stout",0.0966610250090794
+"2136","Punkin Ale","Ayinger Celebrator Doppelbock",0.130419937207292
+"2137","Punkin Ale","Samuel Smith's Oatmeal Stout",0.144049190158221
+"2138","Punkin Ale","Chimay Grande Réserve (Blue)",0.171377552565614
+"2139","Punkin Ale","Sierra Nevada Torpedo Extra IPA",0.169990490204251
+"2140","Punkin Ale","Guinness Draught",0.0668854886736073
+"2141","Punkin Ale","Weihenstephaner Hefeweissbier",0.125909568738862
+"2142","Punkin Ale","Racer 5 India Pale Ale",0.0925030054616047
+"2143","Punkin Ale","Orval Trappist Ale",0.19587305117701
+"2144","Punkin Ale","Tröegs Nugget Nectar",0.192284966773131
+"2145","Punkin Ale","Hop Rod Rye",0.115103023637554
+"2146","Punkin Ale","Founders KBS (Kentucky Breakfast Stout)",0.201225864650063
+"2147","Punkin Ale","Schneider Aventinus",0.150688977493754
+"2148","Punkin Ale","Samuel Adams Octoberfest",0.199418088291009
+"2149","Punkin Ale","Hennepin (Farmhouse Saison)",0.233238776129217
+"2150","Punkin Ale","Prima Pils",0.193156244892345
+"2151","Punkin Ale","Double Bastard Ale",0.11776455566568
+"2152","Punkin Ale","Samuel Adams Winter Lager",0.172942267310487
+"2153","Punkin Ale","Hop Wallop",0.226894311509158
+"2154","Punkin Ale","Oatmeal Stout",0.159021925279419
+"2155","Punkin Ale","Anchor Steam Beer",0.184231557051406
+"2156","Punkin Ale","120 Minute IPA",0.171206135978672
+"2157","Double Bastard Ale","90 Minute IPA",0.197261737446243
+"2158","Double Bastard Ale","India Pale Ale",0.0428495828888176
+"2159","Double Bastard Ale","Old Rasputin Russian Imperial Stout",0.15759442517872
+"2160","Double Bastard Ale","Sierra Nevada Celebration Ale",0.210815727819035
+"2161","Double Bastard Ale","Stone Ruination IPA",0.262770662289225
+"2162","Double Bastard Ale","Arrogant Bastard Ale",0.342590167397812
+"2163","Double Bastard Ale","Two Hearted Ale",0.173522576068451
+"2164","Double Bastard Ale","Stone IPA (India Pale Ale)",0.259250929374288
+"2165","Double Bastard Ale","Sierra Nevada Pale Ale",0.0746740806013215
+"2166","Double Bastard Ale","La Fin Du Monde",0.19968450601343
+"2167","Double Bastard Ale","Pale Ale",0.0868220187758687
+"2168","Double Bastard Ale","Duvel",0.0954863079174684
+"2169","Double Bastard Ale","Founders Breakfast Stout",0.136342701048206
+"2170","Double Bastard Ale","Sierra Nevada Bigfoot Barleywine Style Ale",0.222677490585991
+"2171","Double Bastard Ale","Pliny The Elder",0.234879410200442
+"2172","Double Bastard Ale","60 Minute IPA",0.17348281010476
+"2173","Double Bastard Ale","Brooklyn Black Chocolate Stout",0.157654756968084
+"2174","Double Bastard Ale","Storm King Stout",0.195005001310414
+"2175","Double Bastard Ale","Samuel Adams Boston Lager",0.0550530732800312
+"2176","Double Bastard Ale","Bell's Hopslam Ale",0.111742589130241
+"2177","Double Bastard Ale","Stone Imperial Russian Stout",0.278901044342685
+"2178","Double Bastard Ale","Chocolate Stout",0.199407809277422
+"2179","Double Bastard Ale","Imperial Stout",0.257798333456086
+"2180","Double Bastard Ale","HopDevil Ale",0.20725504481731
+"2181","Double Bastard Ale","Dead Guy Ale",0.182285910263307
+"2182","Double Bastard Ale","St. Bernardus Abt 12",0.268139569844852
+"2183","Double Bastard Ale","Trappistes Rochefort 10",0.164559304716116
+"2184","Double Bastard Ale","Young's Double Chocolate Stout",0.0283536389449709
+"2185","Double Bastard Ale","Ayinger Celebrator Doppelbock",0.14613445451357
+"2186","Double Bastard Ale","Samuel Smith's Oatmeal Stout",0.0828866335591524
+"2187","Double Bastard Ale","Chimay Grande Réserve (Blue)",0.156267946481517
+"2188","Double Bastard Ale","Sierra Nevada Torpedo Extra IPA",0.151767666782417
+"2189","Double Bastard Ale","Guinness Draught",0.0588370944847907
+"2190","Double Bastard Ale","Weihenstephaner Hefeweissbier",0.127572651735259
+"2191","Double Bastard Ale","Racer 5 India Pale Ale",0.17947432673685
+"2192","Double Bastard Ale","Orval Trappist Ale",0.0505770398924593
+"2193","Double Bastard Ale","Tröegs Nugget Nectar",0.0886668851406659
+"2194","Double Bastard Ale","Hop Rod Rye",0.273960611133269
+"2195","Double Bastard Ale","Founders KBS (Kentucky Breakfast Stout)",0.0956236275256108
+"2196","Double Bastard Ale","Schneider Aventinus",0.128965513846887
+"2197","Double Bastard Ale","Samuel Adams Octoberfest",-0.0303064437691948
+"2198","Double Bastard Ale","Hennepin (Farmhouse Saison)",0.156793787213506
+"2199","Double Bastard Ale","Prima Pils",0.146216209137158
+"2200","Double Bastard Ale","Punkin Ale",0.11776455566568
+"2201","Double Bastard Ale","Samuel Adams Winter Lager",0.118316916692842
+"2202","Double Bastard Ale","Hop Wallop",0.149946429357596
+"2203","Double Bastard Ale","Oatmeal Stout",0.0269887144721565
+"2204","Double Bastard Ale","Anchor Steam Beer",0.0720432645644825
+"2205","Double Bastard Ale","120 Minute IPA",0.193768450363047
+"2206","Samuel Adams Winter Lager","90 Minute IPA",0.108791446490483
+"2207","Samuel Adams Winter Lager","India Pale Ale",0.0721490437101194
+"2208","Samuel Adams Winter Lager","Old Rasputin Russian Imperial Stout",0.120449836090105
+"2209","Samuel Adams Winter Lager","Sierra Nevada Celebration Ale",0.150236568517974
+"2210","Samuel Adams Winter Lager","Stone Ruination IPA",0.123426208203987
+"2211","Samuel Adams Winter Lager","Arrogant Bastard Ale",0.210631487570527
+"2212","Samuel Adams Winter Lager","Two Hearted Ale",0.10178744867959
+"2213","Samuel Adams Winter Lager","Stone IPA (India Pale Ale)",0.0843606677371394
+"2214","Samuel Adams Winter Lager","Sierra Nevada Pale Ale",0.21299794487021
+"2215","Samuel Adams Winter Lager","La Fin Du Monde",0.0983537907792978
+"2216","Samuel Adams Winter Lager","Pale Ale",0.124870964737654
+"2217","Samuel Adams Winter Lager","Duvel",0.152138825927338
+"2218","Samuel Adams Winter Lager","Founders Breakfast Stout",0.104959688180937
+"2219","Samuel Adams Winter Lager","Sierra Nevada Bigfoot Barleywine Style Ale",0.247855390200263
+"2220","Samuel Adams Winter Lager","Pliny The Elder",0.0330774978607305
+"2221","Samuel Adams Winter Lager","60 Minute IPA",0.161112433536375
+"2222","Samuel Adams Winter Lager","Brooklyn Black Chocolate Stout",0.173990331735829
+"2223","Samuel Adams Winter Lager","Storm King Stout",0.230837325067696
+"2224","Samuel Adams Winter Lager","Samuel Adams Boston Lager",0.278337792051318
+"2225","Samuel Adams Winter Lager","Bell's Hopslam Ale",0.119175144789598
+"2226","Samuel Adams Winter Lager","Stone Imperial Russian Stout",0.145894698061845
+"2227","Samuel Adams Winter Lager","Chocolate Stout",0.150565740891733
+"2228","Samuel Adams Winter Lager","Imperial Stout",0.193826705815479
+"2229","Samuel Adams Winter Lager","HopDevil Ale",0.200607471568709
+"2230","Samuel Adams Winter Lager","Dead Guy Ale",0.229384842685632
+"2231","Samuel Adams Winter Lager","St. Bernardus Abt 12",0.141038915565228
+"2232","Samuel Adams Winter Lager","Trappistes Rochefort 10",0.0886316431065245
+"2233","Samuel Adams Winter Lager","Young's Double Chocolate Stout",0.140840063353543
+"2234","Samuel Adams Winter Lager","Ayinger Celebrator Doppelbock",0.177982278237053
+"2235","Samuel Adams Winter Lager","Samuel Smith's Oatmeal Stout",0.183693840987451
+"2236","Samuel Adams Winter Lager","Chimay Grande Réserve (Blue)",0.147902394439093
+"2237","Samuel Adams Winter Lager","Sierra Nevada Torpedo Extra IPA",0.128781531902325
+"2238","Samuel Adams Winter Lager","Guinness Draught",0.0720928978808885
+"2239","Samuel Adams Winter Lager","Weihenstephaner Hefeweissbier",0.115744575127852
+"2240","Samuel Adams Winter Lager","Racer 5 India Pale Ale",0.112318702240121
+"2241","Samuel Adams Winter Lager","Orval Trappist Ale",0.079348145498117
+"2242","Samuel Adams Winter Lager","Tröegs Nugget Nectar",0.127839819215243
+"2243","Samuel Adams Winter Lager","Hop Rod Rye",0.199867436996707
+"2244","Samuel Adams Winter Lager","Founders KBS (Kentucky Breakfast Stout)",0.0563245815940497
+"2245","Samuel Adams Winter Lager","Schneider Aventinus",0.0892005379934993
+"2246","Samuel Adams Winter Lager","Samuel Adams Octoberfest",0.276802902499039
+"2247","Samuel Adams Winter Lager","Hennepin (Farmhouse Saison)",0.150399347870588
+"2248","Samuel Adams Winter Lager","Prima Pils",0.116798323729242
+"2249","Samuel Adams Winter Lager","Punkin Ale",0.172942267310487
+"2250","Samuel Adams Winter Lager","Double Bastard Ale",0.118316916692842
+"2251","Samuel Adams Winter Lager","Hop Wallop",0.172260127963661
+"2252","Samuel Adams Winter Lager","Oatmeal Stout",0.1468741044633
+"2253","Samuel Adams Winter Lager","Anchor Steam Beer",0.175447498553944
+"2254","Samuel Adams Winter Lager","120 Minute IPA",0.023044960148852
+"2255","Hop Wallop","90 Minute IPA",0.156948614656707
+"2256","Hop Wallop","India Pale Ale",0.0491702344173489
+"2257","Hop Wallop","Old Rasputin Russian Imperial Stout",0.159886925024348
+"2258","Hop Wallop","Sierra Nevada Celebration Ale",0.207134752927508
+"2259","Hop Wallop","Stone Ruination IPA",0.190346294113023
+"2260","Hop Wallop","Arrogant Bastard Ale",0.209039731420231
+"2261","Hop Wallop","Two Hearted Ale",0.236501434703573
+"2262","Hop Wallop","Stone IPA (India Pale Ale)",0.226536784203325
+"2263","Hop Wallop","Sierra Nevada Pale Ale",0.0959092773439035
+"2264","Hop Wallop","La Fin Du Monde",0.1673651394934
+"2265","Hop Wallop","Pale Ale",0.116988006032859
+"2266","Hop Wallop","Duvel",0.184050143566088
+"2267","Hop Wallop","Founders Breakfast Stout",0.179395796558307
+"2268","Hop Wallop","Sierra Nevada Bigfoot Barleywine Style Ale",0.255370089147169
+"2269","Hop Wallop","Pliny The Elder",0.178428776598402
+"2270","Hop Wallop","60 Minute IPA",0.221716662291418
+"2271","Hop Wallop","Brooklyn Black Chocolate Stout",0.123750545447104
+"2272","Hop Wallop","Storm King Stout",0.253716504237708
+"2273","Hop Wallop","Samuel Adams Boston Lager",0.151709935417697
+"2274","Hop Wallop","Bell's Hopslam Ale",0.0421735661162898
+"2275","Hop Wallop","Stone Imperial Russian Stout",0.152688664384036
+"2276","Hop Wallop","Chocolate Stout",0.21458492567278
+"2277","Hop Wallop","Imperial Stout",0.120759853722389
+"2278","Hop Wallop","HopDevil Ale",0.278538129231266
+"2279","Hop Wallop","Dead Guy Ale",0.160870833858264
+"2280","Hop Wallop","St. Bernardus Abt 12",0.160409670581188
+"2281","Hop Wallop","Trappistes Rochefort 10",0.16579738254741
+"2282","Hop Wallop","Young's Double Chocolate Stout",0.171387189878839
+"2283","Hop Wallop","Ayinger Celebrator Doppelbock",0.186448926095623
+"2284","Hop Wallop","Samuel Smith's Oatmeal Stout",0.134372642891698
+"2285","Hop Wallop","Chimay Grande Réserve (Blue)",0.120228010818298
+"2286","Hop Wallop","Sierra Nevada Torpedo Extra IPA",0.210579423033702
+"2287","Hop Wallop","Guinness Draught",0.0176144531777369
+"2288","Hop Wallop","Weihenstephaner Hefeweissbier",0.109599764028545
+"2289","Hop Wallop","Racer 5 India Pale Ale",0.228615627673113
+"2290","Hop Wallop","Orval Trappist Ale",0.0918745172323848
+"2291","Hop Wallop","Tröegs Nugget Nectar",0.180226601728259
+"2292","Hop Wallop","Hop Rod Rye",0.288704735314043
+"2293","Hop Wallop","Founders KBS (Kentucky Breakfast Stout)",0.157702417870055
+"2294","Hop Wallop","Schneider Aventinus",0.105026554929302
+"2295","Hop Wallop","Samuel Adams Octoberfest",0.136460588932674
+"2296","Hop Wallop","Hennepin (Farmhouse Saison)",0.160856871126812
+"2297","Hop Wallop","Prima Pils",0.174509183267382
+"2298","Hop Wallop","Punkin Ale",0.226894311509158
+"2299","Hop Wallop","Double Bastard Ale",0.149946429357596
+"2300","Hop Wallop","Samuel Adams Winter Lager",0.172260127963661
+"2301","Hop Wallop","Oatmeal Stout",0.0861245149487779
+"2302","Hop Wallop","Anchor Steam Beer",0.0816514595247585
+"2303","Hop Wallop","120 Minute IPA",0.129724221719984
+"2304","Oatmeal Stout","90 Minute IPA",0.077971295367934
+"2305","Oatmeal Stout","India Pale Ale",0.161556320121712
+"2306","Oatmeal Stout","Old Rasputin Russian Imperial Stout",0.146254178321495
+"2307","Oatmeal Stout","Sierra Nevada Celebration Ale",0.116076930022689
+"2308","Oatmeal Stout","Stone Ruination IPA",0.0878552595375879
+"2309","Oatmeal Stout","Arrogant Bastard Ale",0.0765747081454741
+"2310","Oatmeal Stout","Two Hearted Ale",0.0683756320526785
+"2311","Oatmeal Stout","Stone IPA (India Pale Ale)",0.0643955414605015
+"2312","Oatmeal Stout","Sierra Nevada Pale Ale",0.162677266333385
+"2313","Oatmeal Stout","La Fin Du Monde",0.100581427319265
+"2314","Oatmeal Stout","Pale Ale",0.160448957666653
+"2315","Oatmeal Stout","Duvel",0.135493439084144
+"2316","Oatmeal Stout","Founders Breakfast Stout",0.0954138522254701
+"2317","Oatmeal Stout","Sierra Nevada Bigfoot Barleywine Style Ale",0.122576299812759
+"2318","Oatmeal Stout","Pliny The Elder",-0.0236514726234887
+"2319","Oatmeal Stout","60 Minute IPA",0.154287081510652
+"2320","Oatmeal Stout","Brooklyn Black Chocolate Stout",0.111321927304979
+"2321","Oatmeal Stout","Storm King Stout",0.131754689058149
+"2322","Oatmeal Stout","Samuel Adams Boston Lager",0.0900881780105173
+"2323","Oatmeal Stout","Bell's Hopslam Ale",0.0486987195921332
+"2324","Oatmeal Stout","Stone Imperial Russian Stout",0.0568164842205922
+"2325","Oatmeal Stout","Chocolate Stout",0.112594348471821
+"2326","Oatmeal Stout","Imperial Stout",0.144818243026099
+"2327","Oatmeal Stout","HopDevil Ale",0.0706417143800643
+"2328","Oatmeal Stout","Dead Guy Ale",0.143686680356045
+"2329","Oatmeal Stout","St. Bernardus Abt 12",0.0930886611126956
+"2330","Oatmeal Stout","Trappistes Rochefort 10",0.0940633760078714
+"2331","Oatmeal Stout","Young's Double Chocolate Stout",0.0905947655360313
+"2332","Oatmeal Stout","Ayinger Celebrator Doppelbock",0.00594297390711023
+"2333","Oatmeal Stout","Samuel Smith's Oatmeal Stout",0.106585932871092
+"2334","Oatmeal Stout","Chimay Grande Réserve (Blue)",0.0512353554098133
+"2335","Oatmeal Stout","Sierra Nevada Torpedo Extra IPA",0.0946425863147169
+"2336","Oatmeal Stout","Guinness Draught",0.10606360562049
+"2337","Oatmeal Stout","Weihenstephaner Hefeweissbier",0.0688742529371704
+"2338","Oatmeal Stout","Racer 5 India Pale Ale",0.162600477546768
+"2339","Oatmeal Stout","Orval Trappist Ale",0.0338163550651455
+"2340","Oatmeal Stout","Tröegs Nugget Nectar",0.135602630480546
+"2341","Oatmeal Stout","Hop Rod Rye",0.132626256178997
+"2342","Oatmeal Stout","Founders KBS (Kentucky Breakfast Stout)",-0.0112035578869656
+"2343","Oatmeal Stout","Schneider Aventinus",-0.0129823524131122
+"2344","Oatmeal Stout","Samuel Adams Octoberfest",0.107663314913512
+"2345","Oatmeal Stout","Hennepin (Farmhouse Saison)",0.102706436648164
+"2346","Oatmeal Stout","Prima Pils",0.10054397972857
+"2347","Oatmeal Stout","Punkin Ale",0.159021925279419
+"2348","Oatmeal Stout","Double Bastard Ale",0.0269887144721565
+"2349","Oatmeal Stout","Samuel Adams Winter Lager",0.1468741044633
+"2350","Oatmeal Stout","Hop Wallop",0.0861245149487779
+"2351","Oatmeal Stout","Anchor Steam Beer",0.15112288959621
+"2352","Oatmeal Stout","120 Minute IPA",0.149993309613436
+"2353","Anchor Steam Beer","90 Minute IPA",0.112747791644595
+"2354","Anchor Steam Beer","India Pale Ale",0.0735916791861304
+"2355","Anchor Steam Beer","Old Rasputin Russian Imperial Stout",0.114436843880593
+"2356","Anchor Steam Beer","Sierra Nevada Celebration Ale",0.188251316494126
+"2357","Anchor Steam Beer","Stone Ruination IPA",0.115771213787504
+"2358","Anchor Steam Beer","Arrogant Bastard Ale",0.149154046525367
+"2359","Anchor Steam Beer","Two Hearted Ale",0.057138183768633
+"2360","Anchor Steam Beer","Stone IPA (India Pale Ale)",0.169646848873561
+"2361","Anchor Steam Beer","Sierra Nevada Pale Ale",0.31804829265637
+"2362","Anchor Steam Beer","La Fin Du Monde",0.197519487916856
+"2363","Anchor Steam Beer","Pale Ale",0.110090742245573
+"2364","Anchor Steam Beer","Duvel",0.258310722708742
+"2365","Anchor Steam Beer","Founders Breakfast Stout",0.153399837886569
+"2366","Anchor Steam Beer","Sierra Nevada Bigfoot Barleywine Style Ale",0.162845276500537
+"2367","Anchor Steam Beer","Pliny The Elder",0.148593705672415
+"2368","Anchor Steam Beer","60 Minute IPA",0.192098920751196
+"2369","Anchor Steam Beer","Brooklyn Black Chocolate Stout",0.114702478303558
+"2370","Anchor Steam Beer","Storm King Stout",0.0641089010499823
+"2371","Anchor Steam Beer","Samuel Adams Boston Lager",0.258056726526234
+"2372","Anchor Steam Beer","Bell's Hopslam Ale",0.107527323815338
+"2373","Anchor Steam Beer","Stone Imperial Russian Stout",0.139327880482923
+"2374","Anchor Steam Beer","Chocolate Stout",0.101040738479598
+"2375","Anchor Steam Beer","Imperial Stout",0.0958661826583354
+"2376","Anchor Steam Beer","HopDevil Ale",0.113117105066251
+"2377","Anchor Steam Beer","Dead Guy Ale",0.256670604764927
+"2378","Anchor Steam Beer","St. Bernardus Abt 12",0.118469757445385
+"2379","Anchor Steam Beer","Trappistes Rochefort 10",0.0578265119116689
+"2380","Anchor Steam Beer","Young's Double Chocolate Stout",0.0900346521022306
+"2381","Anchor Steam Beer","Ayinger Celebrator Doppelbock",0.156622592275267
+"2382","Anchor Steam Beer","Samuel Smith's Oatmeal Stout",0.216840770622962
+"2383","Anchor Steam Beer","Chimay Grande Réserve (Blue)",0.122941665306048
+"2384","Anchor Steam Beer","Sierra Nevada Torpedo Extra IPA",0.139223838446084
+"2385","Anchor Steam Beer","Guinness Draught",0.0293638913122371
+"2386","Anchor Steam Beer","Weihenstephaner Hefeweissbier",0.148890704599443
+"2387","Anchor Steam Beer","Racer 5 India Pale Ale",0.127487819131303
+"2388","Anchor Steam Beer","Orval Trappist Ale",0.21929966507325
+"2389","Anchor Steam Beer","Tröegs Nugget Nectar",0.110703564468621
+"2390","Anchor Steam Beer","Hop Rod Rye",0.127413153241077
+"2391","Anchor Steam Beer","Founders KBS (Kentucky Breakfast Stout)",0.0428304210327706
+"2392","Anchor Steam Beer","Schneider Aventinus",0.075724660537013
+"2393","Anchor Steam Beer","Samuel Adams Octoberfest",0.18944257782322
+"2394","Anchor Steam Beer","Hennepin (Farmhouse Saison)",0.19499700565981
+"2395","Anchor Steam Beer","Prima Pils",0.232293734619183
+"2396","Anchor Steam Beer","Punkin Ale",0.184231557051406
+"2397","Anchor Steam Beer","Double Bastard Ale",0.0720432645644825
+"2398","Anchor Steam Beer","Samuel Adams Winter Lager",0.175447498553944
+"2399","Anchor Steam Beer","Hop Wallop",0.0816514595247585
+"2400","Anchor Steam Beer","Oatmeal Stout",0.15112288959621
+"2401","Anchor Steam Beer","120 Minute IPA",0.0181587387111784
+"2402","120 Minute IPA","90 Minute IPA",0.257026399070711
+"2403","120 Minute IPA","India Pale Ale",0.0556896218772694
+"2404","120 Minute IPA","Old Rasputin Russian Imperial Stout",0.111744078004032
+"2405","120 Minute IPA","Sierra Nevada Celebration Ale",0.0640161922073296
+"2406","120 Minute IPA","Stone Ruination IPA",0.130742171297243
+"2407","120 Minute IPA","Arrogant Bastard Ale",0.199418179247243
+"2408","120 Minute IPA","Two Hearted Ale",0.0785859234165381
+"2409","120 Minute IPA","Stone IPA (India Pale Ale)",0.12116008157133
+"2410","120 Minute IPA","Sierra Nevada Pale Ale",0.0197501632527243
+"2411","120 Minute IPA","La Fin Du Monde",0.120709386204037
+"2412","120 Minute IPA","Pale Ale",-0.0112557228811467
+"2413","120 Minute IPA","Duvel",0.117893355811898
+"2414","120 Minute IPA","Founders Breakfast Stout",0.107794398893636
+"2415","120 Minute IPA","Sierra Nevada Bigfoot Barleywine Style Ale",0.161600494034418
+"2416","120 Minute IPA","Pliny The Elder",0.108728967838789
+"2417","120 Minute IPA","60 Minute IPA",0.145686364433827
+"2418","120 Minute IPA","Brooklyn Black Chocolate Stout",0.0862137666934841
+"2419","120 Minute IPA","Storm King Stout",0.111814630499977
+"2420","120 Minute IPA","Samuel Adams Boston Lager",0.0423343354361663
+"2421","120 Minute IPA","Bell's Hopslam Ale",0.0915733879286176
+"2422","120 Minute IPA","Stone Imperial Russian Stout",0.143879761674573
+"2423","120 Minute IPA","Chocolate Stout",0.100745418494985
+"2424","120 Minute IPA","Imperial Stout",0.138373226738677
+"2425","120 Minute IPA","HopDevil Ale",0.101602061402442
+"2426","120 Minute IPA","Dead Guy Ale",0.0649688153010315
+"2427","120 Minute IPA","St. Bernardus Abt 12",0.175201534893566
+"2428","120 Minute IPA","Trappistes Rochefort 10",0.142493481578563
+"2429","120 Minute IPA","Young's Double Chocolate Stout",0.107726897529841
+"2430","120 Minute IPA","Ayinger Celebrator Doppelbock",0.0703807547962008
+"2431","120 Minute IPA","Samuel Smith's Oatmeal Stout",0.0756704763618332
+"2432","120 Minute IPA","Chimay Grande Réserve (Blue)",0.15169793538836
+"2433","120 Minute IPA","Sierra Nevada Torpedo Extra IPA",-0.018160232033791
+"2434","120 Minute IPA","Guinness Draught",0.0893929251699607
+"2435","120 Minute IPA","Weihenstephaner Hefeweissbier",0.0264534777238879
+"2436","120 Minute IPA","Racer 5 India Pale Ale",0.115186075864651
+"2437","120 Minute IPA","Orval Trappist Ale",-0.0203369481564845
+"2438","120 Minute IPA","Tröegs Nugget Nectar",0.0848833514890849
+"2439","120 Minute IPA","Hop Rod Rye",0.0671865353479493
+"2440","120 Minute IPA","Founders KBS (Kentucky Breakfast Stout)",0.0744028255987547
+"2441","120 Minute IPA","Schneider Aventinus",0.0770358207462183
+"2442","120 Minute IPA","Samuel Adams Octoberfest",0.0238236756020053
+"2443","120 Minute IPA","Hennepin (Farmhouse Saison)",0.0899509573466199
+"2444","120 Minute IPA","Prima Pils",0.0220323055953616
+"2445","120 Minute IPA","Punkin Ale",0.171206135978672
+"2446","120 Minute IPA","Double Bastard Ale",0.193768450363047
+"2447","120 Minute IPA","Samuel Adams Winter Lager",0.023044960148852
+"2448","120 Minute IPA","Hop Wallop",0.129724221719984
+"2449","120 Minute IPA","Oatmeal Stout",0.149993309613436
+"2450","120 Minute IPA","Anchor Steam Beer",0.0181587387111784
